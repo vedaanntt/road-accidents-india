@@ -5,3 +5,6 @@ __pycache__/
 
 # Third-party Kaggle file we rejected (not ours to redistribute; see DATA_PROBLEMS.md #1)
 data/raw/kaggle_rejected/
+
+# DataMeet's full 17 MB state boundary file (download link in src/06_india_map.py)
+data/raw/datameet/

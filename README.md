@@ -38,7 +38,7 @@ Project/
   data/clean/         cleaned tables made by our scripts
   src/                one Python script per analysis step
   outputs/            charts and result tables
-  data/tile_grid.csv  position of each state on the dashboard's tile map
+  data/india_states.geojson  simplified state borders for the dashboard map (from DataMeet, CC BY 4.0)
   app.py              Streamlit dashboard (step 6)
   .streamlit/         dashboard colour theme
   DATA_PROBLEMS.md    running log of data problems and fixes
@@ -194,10 +194,15 @@ Each step below gets filled in as we finish it: what we did, why, and which chal
      small, so this is instant; results are cached). With the default settings the app gives
      exactly the results of `src/03` to `src/05` (4 components by Kaiser, Kruskal-Wallis p = 0.005,
      104 deadly rules), which we checked with an automated test.
-   - **Tile map instead of a real map.** Each state is one equal square placed roughly where it is in
-     India. Several of the deadliest regions (Mizoram, Nagaland, Meghalaya) are tiny on a real map but as visible
-     as Uttar Pradesh here, and there are no border lines that could differ from the official map
-     of India.
+   - **A real map of India.** State borders come from DataMeet's open boundaries (CC BY 4.0,
+     github.com/datameet/maps). We checked the outline against the official map of India (J&K and
+     Ladakh including PoK and Aksai Chin, all of Arunachal Pradesh) before using it.
+     `src/06_india_map.py` joins J&K and Ladakh into one shape (as in our data) and simplifies the
+     17 MB file to 126 KB. Small UTs are hard to see on a real map, so a ranking chart sits beside it.
+   - **The algorithm is named on every tab**, in a blue box at the top (for example "k-means on the PCA
+     scores, best of 50 random starts"), with a summary table on the Overview tab.
+   - **Cluster outlines.** On the PCA plot each cluster is wrapped in its convex hull (the smallest
+     shape around its points); on the map each cluster is one colour, so cluster borders are visible.
    - **Honest defaults.** 2023 counts are shown as "not reliable", missing values are grey tiles,
      and cluster place names are shown only for the default k = 4 (other values of k give
      numbered groups, ordered from deadliest to least deadly).
@@ -229,11 +234,13 @@ python src/02_statistics_outliers.py
 python src/03_pca.py
 python src/04_clustering.py
 python src/05_association_rules.py
+python src/06_india_map.py           # only to rebuild the map; needs pip install pyshp shapely
+                                     # and DataMeet's States/Admin2 files in data/raw/datameet/
 
 streamlit run app.py                 # opens the dashboard in the browser
 ```
 
-The dashboard needs only `data/clean/`, `data/tile_grid.csv` and `outputs/`, which are already
+The dashboard needs only `data/clean/`, `data/india_states.geojson` and `outputs/`, which are already
 in the folder, so `streamlit run app.py` works on its own.
 
 ## 6. Key insights
