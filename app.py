@@ -594,12 +594,14 @@ with tab_quality:
             "- **2023** NCRB counts are about 3 times too large in every state, but the top and bottom "
             "of a ratio are inflated equally, so ratios and shares are kept.\n"
             "- **Ratios with a zero bottom** (no state highways in Chandigarh) are left blank, not 0.")
-        with st.expander("Check: is the 2023 fatality ratio in line with 2022 and 2024?"):
-            st.dataframe(pd.read_csv(OUTPUTS + "check_2023_inflation.csv"), width="stretch",
-                         hide_index=True, height=250)
-        with st.expander("Full data problems log (23 problems)"):
-            with open("DATA_PROBLEMS.md", encoding="utf-8") as log_file:
-                st.markdown(log_file.read())
+
+    # full-width rows right after section 1
+    with st.expander("Check: is the 2023 fatality ratio in line with 2022 and 2024?"):
+        st.dataframe(pd.read_csv(OUTPUTS + "check_2023_inflation.csv"), width="stretch",
+                     hide_index=True, height=250)
+    with st.expander("Full data problems log (23 problems)"):
+        with open("DATA_PROBLEMS.md", encoding="utf-8") as log_file:
+            st.markdown(log_file.read())
 
     mnar_side, outlier_side = st.columns(2)
     # 2b. MNAR
@@ -625,9 +627,9 @@ with tab_quality:
     # 2c. outliers
     with outlier_side:
         st.markdown("**3. Outliers: drop or winsorize?**")
-        # each control gets its own full row, so the dropdown has room to open
-        outlier_feature = st.selectbox("Feature", ratio_columns, format_func=nice_name, index=0)
-        view = st.radio("Show", ["True values", "After winsorizing"], horizontal=True)
+        pick_feature, pick_view = st.columns([1, 1])
+        outlier_feature = pick_feature.selectbox("Feature", ratio_columns, format_func=nice_name, index=0)
+        view = pick_view.radio("Show", ["True values", "After winsorizing"], horizontal=True)
         if view == "True values":
             values = profiles[outlier_feature].dropna()
         else:
@@ -660,11 +662,13 @@ with tab_quality:
         show(fig)
         st.caption("Orange = outlier. Lakshadweep (about 2 accidents a year) is dropped from the models; "
                    "real outliers are kept but capped at the limit in the copy used for PCA and clustering.")
-        capped = pd.read_csv(OUTPUTS + "winsorized_values.csv")
-        capped = capped[capped["feature"] == outlier_feature]
-        if len(capped) > 0:
-            with st.expander("Values capped for this feature (" + str(len(capped)) + ")"):
-                st.dataframe(capped, width="stretch", hide_index=True)
+
+    # full-width row right after sections 2 and 3
+    capped = pd.read_csv(OUTPUTS + "winsorized_values.csv")
+    capped = capped[capped["feature"] == outlier_feature]
+    if len(capped) > 0:
+        with st.expander("Values capped for " + nice_name(outlier_feature).lower() + " (" + str(len(capped)) + ")"):
+            st.dataframe(capped, width="stretch", hide_index=True)
 
 
 # ================================================================ 3. Statistics
