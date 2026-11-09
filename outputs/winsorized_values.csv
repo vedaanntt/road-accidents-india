@@ -1,0 +1,30 @@
+feature,state,true_value,capped_to
+fatality_ratio,Mizoram,110.61,109.54
+injury_ratio,Goa,37.98,39.51
+injury_ratio,Manipur,156.69,154.64
+injury_ratio,Sikkim,185.75,154.64
+share_expressway,Haryana,1.4,1.18
+share_expressway,Uttar Pradesh,4.12,1.18
+share_expressway,West Bengal,1.47,1.18
+share_national_hw,Dadra And Nagar Haveli And Daman And Diu,0.48,6.81
+share_state_hw,Chandigarh,0.0,6.38
+share_other_road,Chandigarh,90.77,81.53
+fr_national_hw,Mizoram,108.6,102.78
+fr_other_road,Mizoram,113.43,106.62
+night_share,Jammu And Kashmir And Ladakh,30.06,30.67
+late_night_share,Delhi,20.55,19.5
+late_night_share,Uttar Pradesh,19.71,19.5
+monsoon_share,Jammu And Kashmir And Ladakh,36.56,35.55
+winter_share,Arunachal Pradesh,32.02,31.69
+winter_share,Jammu And Kashmir And Ladakh,20.87,22.44
+rural_death_share,Chandigarh,4.58,44.22
+rural_death_share,Delhi,5.29,44.22
+two_wheeler_death_share,Goa,69.63,67.19
+car_death_share,Himachal Pradesh,47.43,40.69
+car_death_share,Sikkim,55.92,40.69
+truck_death_share,Arunachal Pradesh,24.89,22.95
+truck_death_share,Mizoram,23.01,22.95
+truck_death_share,Nagaland,38.52,22.95
+truck_death_share,West Bengal,23.18,22.95
+bus_death_share,Andaman And Nicobar Islands,14.71,8.48
+bus_death_share,Jammu And Kashmir And Ladakh,9.96,8.48

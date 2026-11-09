@@ -1,0 +1,15 @@
+feature,low_below,high_above
+share_national_hw,30.49,39.23
+share_state_hw,18.84,25.67
+night_share,40.41,44.6
+evening_share,17.6,20.49
+late_night_share,9.27,13.52
+monsoon_share,30.65,32.19
+winter_share,25.33,27.79
+rural_death_share,61.47,70.55
+two_wheeler_death_share,32.88,45.0
+pedestrian_death_share,6.52,14.55
+car_death_share,13.79,23.49
+truck_death_share,7.48,13.49
+bus_death_share,1.58,3.65
+fatality_ratio,35.75,49.99

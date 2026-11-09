@@ -1,0 +1,35 @@
+state,cluster,PC1,PC2,fatality_ratio
+Andaman And Nicobar Islands,South and West,0.202,-1.174,45.42
+Andhra Pradesh,South and West,-1.505,-1.096,39.26
+Arunachal Pradesh,North-East hills,3.788,-1.266,63.59
+Assam,North and Gangetic plain,0.515,0.608,41.87
+Bihar,North and Gangetic plain,-0.644,1.433,77.53
+Chandigarh,North and Gangetic plain,-3.616,2.369,36.39
+Chhattisgarh,South and West,-1.36,-1.508,41.52
+Dadra And Nagar Haveli And Daman And Diu,South and West,-1.738,-2.299,56.18
+Delhi,North and Gangetic plain,-1.234,4.455,26.85
+Goa,South and West,-1.9,-1.788,9.04
+Gujarat,South and West,-0.884,-1.256,47.13
+Haryana,North and Gangetic plain,-1.141,1.469,48.57
+Himachal Pradesh,Himalayan,0.818,1.328,39.08
+Jammu And Kashmir And Ladakh,Himalayan,0.472,2.119,15.43
+Jharkhand,North and Gangetic plain,-0.166,0.217,73.56
+Karnataka,South and West,-1.153,-0.938,28.2
+Kerala,South and West,-1.787,-2.448,9.99
+Madhya Pradesh,South and West,-0.84,-0.169,25.73
+Maharashtra,South and West,-0.692,-0.234,51.32
+Manipur,South and West,1.475,-3.238,24.64
+Meghalaya,North-East hills,2.294,-0.196,72.27
+Mizoram,North-East hills,4.663,-0.592,110.61
+Nagaland,North-East hills,4.408,1.07,93.24
+Odisha,North and Gangetic plain,-0.522,0.127,47.66
+Puducherry,North and Gangetic plain,-0.63,1.07,13.01
+Punjab,North and Gangetic plain,-1.045,0.796,75.91
+Rajasthan,South and West,-0.095,0.087,47.32
+Sikkim,North-East hills,3.949,-1.311,45.59
+Tamil Nadu,South and West,-2.265,-1.31,23.62
+Telangana,South and West,-1.716,-0.091,33.19
+Tripura,South and West,-0.541,-2.877,40.43
+Uttar Pradesh,North and Gangetic plain,1.448,2.458,63.25
+Uttarakhand,North and Gangetic plain,0.112,1.975,64.05
+West Bengal,North and Gangetic plain,1.332,2.208,49.86

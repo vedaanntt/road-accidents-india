@@ -1,0 +1,997 @@
+"id","year","state_name","state_code","road_type","cases","injured","died"
+1,2018,"Andaman And Nicobar Islands",35,"Expressways",0,0,0
+2,2018,"Andaman And Nicobar Islands",35,"National Highways",93,98,8
+3,2018,"Andaman And Nicobar Islands",35,"Other Roads",60,63,5
+4,2018,"Andaman And Nicobar Islands",35,"State Highways",101,99,6
+5,2018,"Andhra Pradesh",28,"Expressways",38,52,18
+6,2018,"Andhra Pradesh",28,"National Highways",6834,7376,2848
+7,2018,"Andhra Pradesh",28,"Other Roads",8674,9196,2889
+8,2018,"Andhra Pradesh",28,"State Highways",5462,5385,1829
+9,2018,"Arunachal Pradesh",12,"Expressways",0,0,0
+10,2018,"Arunachal Pradesh",12,"National Highways",71,59,35
+11,2018,"Arunachal Pradesh",12,"Other Roads",70,83,57
+12,2018,"Arunachal Pradesh",12,"State Highways",88,101,71
+13,2018,"Assam",18,"Expressways",38,45,22
+14,2018,"Assam",18,"National Highways",3397,2839,1361
+15,2018,"Assam",18,"Other Roads",1910,1692,695
+16,2018,"Assam",18,"State Highways",1835,1505,634
+17,2018,"Bihar",10,"Expressways",0,0,0
+18,2018,"Bihar",10,"National Highways",4092,2857,3210
+19,2018,"Bihar",10,"Other Roads",2912,2182,1906
+20,2018,"Bihar",10,"State Highways",2596,1640,1613
+21,2018,"Chandigarh",4,"Expressways",0,0,0
+22,2018,"Chandigarh",4,"National Highways",46,44,16
+23,2018,"Chandigarh",4,"Other Roads",588,490,186
+24,2018,"Chandigarh",4,"State Highways",0,0,0
+25,2018,"Chhattisgarh",22,"Expressways",5,6,0
+26,2018,"Chhattisgarh",22,"National Highways",3938,3603,1306
+27,2018,"Chhattisgarh",22,"Other Roads",7050,6304,2212
+28,2018,"Chhattisgarh",22,"State Highways",2872,2803,1075
+29,2018,"Delhi",7,"Expressways",0,0,0
+30,2018,"Delhi",7,"National Highways",1630,1306,528
+31,2018,"Delhi",7,"Other Roads",10656,9324,2720
+32,2018,"Delhi",7,"State Highways",748,650,220
+33,2018,"Goa",30,"Expressways",0,0,0
+34,2018,"Goa",30,"National Highways",1455,625,121
+35,2018,"Goa",30,"Other Roads",1955,752,121
+36,2018,"Goa",30,"State Highways",300,125,22
+37,2018,"Gujarat",24,"Expressways",212,205,94
+38,2018,"Gujarat",24,"National Highways",3663,3375,2116
+39,2018,"Gujarat",24,"Other Roads",9610,8952,3403
+40,2018,"Gujarat",24,"State Highways",4929,5087,2427
+41,2018,"Haryana",6,"Expressways",47,45,37
+42,2018,"Haryana",6,"National Highways",3669,2893,1963
+43,2018,"Haryana",6,"Other Roads",5231,4549,2095
+44,2018,"Haryana",6,"State Highways",2705,2332,1334
+45,2018,"Himachal Pradesh",2,"Expressways",0,0,0
+46,2018,"Himachal Pradesh",2,"National Highways",1348,2179,418
+47,2018,"Himachal Pradesh",2,"Other Roads",1027,1659,441
+48,2018,"Himachal Pradesh",2,"State Highways",744,1154,218
+49,2018,"Jammu And Kashmir",1,"Expressways",0,0,0
+50,2018,"Jammu And Kashmir",1,"National Highways",2155,2713,400
+51,2018,"Jammu And Kashmir",1,"Other Roads",3115,4260,467
+52,2018,"Jammu And Kashmir",1,"State Highways",727,882,119
+53,2018,"Jharkhand",20,"Expressways",85,38,55
+54,2018,"Jharkhand",20,"National Highways",1649,1154,1141
+55,2018,"Jharkhand",20,"Other Roads",1979,1489,1129
+56,2018,"Jharkhand",20,"State Highways",1681,1294,1217
+57,2018,"Karnataka",29,"Expressways",0,0,0
+58,2018,"Karnataka",29,"National Highways",13641,16095,3936
+59,2018,"Karnataka",29,"Other Roads",17385,20017,3970
+60,2018,"Karnataka",29,"State Highways",10681,15450,3084
+61,2018,"Kerala",32,"Expressways",0,0,0
+62,2018,"Kerala",32,"National Highways",9161,10463,1248
+63,2018,"Kerala",32,"Other Roads",23468,26239,2179
+64,2018,"Kerala",32,"State Highways",7552,8756,876
+65,2018,"Lakshadweep",31,"Expressways",0,0,0
+66,2018,"Lakshadweep",31,"National Highways",0,0,0
+67,2018,"Lakshadweep",31,"Other Roads",3,3,1
+68,2018,"Lakshadweep",31,"State Highways",0,0,0
+69,2018,"Madhya Pradesh",23,"Expressways",0,0,0
+70,2018,"Madhya Pradesh",23,"National Highways",9047,9605,2637
+71,2018,"Madhya Pradesh",23,"Other Roads",26027,26842,5358
+72,2018,"Madhya Pradesh",23,"State Highways",12395,14702,3432
+73,2018,"Maharashtra",27,"Expressways",292,147,107
+74,2018,"Maharashtra",27,"National Highways",7466,6655,3867
+75,2018,"Maharashtra",27,"Other Roads",13945,11133,5938
+76,2018,"Maharashtra",27,"State Highways",8037,7167,3951
+77,2018,"Manipur",14,"Expressways",0,0,0
+78,2018,"Manipur",14,"National Highways",308,559,79
+79,2018,"Manipur",14,"Other Roads",98,146,27
+80,2018,"Manipur",14,"State Highways",196,341,29
+81,2018,"Meghalaya",17,"Expressways",7,15,14
+82,2018,"Meghalaya",17,"National Highways",141,126,107
+83,2018,"Meghalaya",17,"Other Roads",77,76,46
+84,2018,"Meghalaya",17,"State Highways",33,15,29
+85,2018,"Mizoram",15,"Expressways",0,0,0
+86,2018,"Mizoram",15,"National Highways",20,36,26
+87,2018,"Mizoram",15,"Other Roads",8,2,8
+88,2018,"Mizoram",15,"State Highways",22,35,28
+89,2018,"Nagaland",13,"Expressways",0,0,0
+90,2018,"Nagaland",13,"National Highways",30,39,20
+91,2018,"Nagaland",13,"Other Roads",11,38,9
+92,2018,"Nagaland",13,"State Highways",9,13,6
+93,2018,"Odisha",21,"Expressways",42,38,25
+94,2018,"Odisha",21,"National Highways",4270,4311,1996
+95,2018,"Odisha",21,"Other Roads",4127,4149,1886
+96,2018,"Odisha",21,"State Highways",2823,2891,1329
+97,2018,"Puducherry",34,"Expressways",0,0,0
+98,2018,"Puducherry",34,"National Highways",771,771,120
+99,2018,"Puducherry",34,"Other Roads",690,820,63
+100,2018,"Puducherry",34,"State Highways",136,136,43
+101,2018,"Punjab",3,"Expressways",47,37,34
+102,2018,"Punjab",3,"National Highways",2293,1100,1760
+103,2018,"Punjab",3,"Other Roads",2241,1158,1612
+104,2018,"Punjab",3,"State Highways",1843,1044,1332
+105,2018,"Rajasthan",8,"Expressways",53,55,19
+106,2018,"Rajasthan",8,"National Highways",6695,6995,3762
+107,2018,"Rajasthan",8,"Other Roads",11400,10970,4665
+108,2018,"Rajasthan",8,"State Highways",3595,3527,1874
+109,2018,"Sikkim",11,"Expressways",0,0,0
+110,2018,"Sikkim",11,"National Highways",47,93,11
+111,2018,"Sikkim",11,"Other Roads",51,88,28
+112,2018,"Sikkim",11,"State Highways",71,176,32
+113,2018,"Tamil Nadu",33,"Expressways",0,0,0
+114,2018,"Tamil Nadu",33,"National Highways",19583,24016,4492
+115,2018,"Tamil Nadu",33,"Other Roads",21488,23782,3439
+116,2018,"Tamil Nadu",33,"State Highways",22849,26739,4285
+117,2018,"Telangana",36,"Expressways",16,3,1
+118,2018,"Telangana",36,"National Highways",6461,6397,1894
+119,2018,"Telangana",36,"Other Roads",12114,12693,3409
+120,2018,"Telangana",36,"State Highways",3639,4520,1299
+121,2018,"The Dadra And Nagar Haveli And Daman And Diu",38,"Expressways",0,0,0
+122,2018,"The Dadra And Nagar Haveli And Daman And Diu",38,"National Highways",0,0,0
+123,2018,"The Dadra And Nagar Haveli And Daman And Diu",38,"Other Roads",118,129,68
+124,2018,"The Dadra And Nagar Haveli And Daman And Diu",38,"State Highways",33,23,22
+125,2018,"Tripura",16,"Expressways",0,0,0
+126,2018,"Tripura",16,"National Highways",188,224,83
+127,2018,"Tripura",16,"Other Roads",177,228,63
+128,2018,"Tripura",16,"State Highways",186,289,66
+129,2018,"Uttar Pradesh",9,"Expressways",1524,931,764
+130,2018,"Uttar Pradesh",9,"National Highways",11219,6496,6928
+131,2018,"Uttar Pradesh",9,"Other Roads",13601,8534,8474
+132,2018,"Uttar Pradesh",9,"State Highways",10511,6361,6375
+133,2018,"Uttarakhand",5,"Expressways",0,0,0
+134,2018,"Uttarakhand",5,"National Highways",829,769,602
+135,2018,"Uttarakhand",5,"Other Roads",295,378,186
+136,2018,"Uttarakhand",5,"State Highways",345,436,285
+137,2018,"West Bengal",19,"Expressways",293,277,63
+138,2018,"West Bengal",19,"National Highways",3201,3376,2004
+139,2018,"West Bengal",19,"Other Roads",5846,4691,1997
+140,2018,"West Bengal",19,"State Highways",2487,2495,1405
+141,2019,"Andhra Pradesh",28,"Expressways",0,0,0
+142,2019,"Andhra Pradesh",28,"National Highways",6988,8239,2997
+143,2019,"Andhra Pradesh",28,"Other Roads",8851,11118,2907
+144,2019,"Andhra Pradesh",28,"State Highways",4838,5262,2080
+145,2019,"Arunachal Pradesh",12,"Expressways",0,0,0
+146,2019,"Arunachal Pradesh",12,"National Highways",79,107,37
+147,2019,"Arunachal Pradesh",12,"Other Roads",47,71,34
+148,2019,"Arunachal Pradesh",12,"State Highways",74,97,38
+149,2019,"Assam",18,"Expressways",0,0,0
+150,2019,"Assam",18,"National Highways",3364,3184,1479
+151,2019,"Assam",18,"Other Roads",2667,2079,1049
+152,2019,"Assam",18,"State Highways",2024,1818,717
+153,2019,"Bihar",10,"Expressways",0,0,0
+154,2019,"Bihar",10,"National Highways",4493,3038,3403
+155,2019,"Bihar",10,"Other Roads",2954,2107,1948
+156,2019,"Bihar",10,"State Highways",2560,2061,1854
+157,2019,"Chandigarh",4,"Expressways",0,0,0
+158,2019,"Chandigarh",4,"National Highways",72,54,26
+159,2019,"Chandigarh",4,"Other Roads",536,496,182
+160,2019,"Chandigarh",4,"State Highways",0,0,0
+161,2019,"Chhattisgarh",22,"Expressways",0,0,0
+162,2019,"Chhattisgarh",22,"National Highways",3806,3542,1455
+163,2019,"Chhattisgarh",22,"Other Roads",7105,6659,2402
+164,2019,"Chhattisgarh",22,"State Highways",2988,2888,1146
+165,2019,"Delhi",7,"Expressways",0,0,0
+166,2019,"Delhi",7,"National Highways",1402,1236,542
+167,2019,"Delhi",7,"Other Roads",8620,7662,2100
+168,2019,"Delhi",7,"State Highways",1180,1000,374
+169,2019,"Goa",30,"Expressways",0,0,0
+170,2019,"Goa",30,"National Highways",1255,445,121
+171,2019,"Goa",30,"Other Roads",1886,838,149
+172,2019,"Goa",30,"State Highways",299,177,29
+173,2019,"Gujarat",24,"Expressways",75,121,42
+174,2019,"Gujarat",24,"National Highways",3328,3153,1942
+175,2019,"Gujarat",24,"Other Roads",8832,8409,3280
+176,2019,"Gujarat",24,"State Highways",4268,4293,2164
+177,2019,"Haryana",6,"Expressways",173,128,104
+178,2019,"Haryana",6,"National Highways",3182,2633,1829
+179,2019,"Haryana",6,"Other Roads",5040,4383,2062
+180,2019,"Haryana",6,"State Highways",2542,2103,1274
+181,2019,"Himachal Pradesh",2,"Expressways",0,0,0
+182,2019,"Himachal Pradesh",2,"National Highways",1289,2149,451
+183,2019,"Himachal Pradesh",2,"Other Roads",1093,1629,462
+184,2019,"Himachal Pradesh",2,"State Highways",514,962,211
+185,2019,"Jammu And Kashmir",1,"Expressways",0,0,0
+186,2019,"Jammu And Kashmir",1,"National Highways",2140,2582,364
+187,2019,"Jammu And Kashmir",1,"Other Roads",2895,3992,527
+188,2019,"Jammu And Kashmir",1,"State Highways",760,943,118
+189,2019,"Jharkhand",20,"Expressways",101,56,66
+190,2019,"Jharkhand",20,"National Highways",1858,1392,1511
+191,2019,"Jharkhand",20,"Other Roads",1817,1287,1237
+192,2019,"Jharkhand",20,"State Highways",1441,1083,987
+193,2019,"Karnataka",29,"Expressways",0,0,0
+194,2019,"Karnataka",29,"National Highways",13343,16835,3826
+195,2019,"Karnataka",29,"Other Roads",16857,19528,3946
+196,2019,"Karnataka",29,"State Highways",10444,14079,3179
+197,2019,"Kerala",32,"Expressways",0,0,0
+198,2019,"Kerala",32,"National Highways",9431,10984,1290
+199,2019,"Kerala",32,"Other Roads",21395,23586,2040
+200,2019,"Kerala",32,"State Highways",9118,9897,1040
+201,2019,"Lakshadweep",31,"Expressways",0,0,0
+202,2019,"Lakshadweep",31,"National Highways",0,0,0
+203,2019,"Lakshadweep",31,"Other Roads",1,1,0
+204,2019,"Lakshadweep",31,"State Highways",0,0,0
+205,2019,"Madhya Pradesh",23,"Expressways",0,0,0
+206,2019,"Madhya Pradesh",23,"National Highways",10406,10647,3165
+207,2019,"Madhya Pradesh",23,"Other Roads",27234,28671,5392
+208,2019,"Madhya Pradesh",23,"State Highways",14001,14447,3299
+209,2019,"Maharashtra",27,"Expressways",666,687,167
+210,2019,"Maharashtra",27,"National Highways",7594,7179,5083
+211,2019,"Maharashtra",27,"Other Roads",12491,9829,5545
+212,2019,"Maharashtra",27,"State Highways",6535,5594,3813
+213,2019,"Manipur",14,"Expressways",0,0,0
+214,2019,"Manipur",14,"National Highways",395,602,111
+215,2019,"Manipur",14,"Other Roads",74,126,10
+216,2019,"Manipur",14,"State Highways",203,327,35
+217,2019,"Meghalaya",17,"Expressways",0,0,0
+218,2019,"Meghalaya",17,"National Highways",138,192,104
+219,2019,"Meghalaya",17,"Other Roads",63,77,48
+220,2019,"Meghalaya",17,"State Highways",35,18,24
+221,2019,"Mizoram",15,"Expressways",0,0,0
+222,2019,"Mizoram",15,"National Highways",24,8,25
+223,2019,"Mizoram",15,"Other Roads",7,0,9
+224,2019,"Mizoram",15,"State Highways",26,17,29
+225,2019,"Nagaland",13,"Expressways",0,0,0
+226,2019,"Nagaland",13,"National Highways",15,10,11
+227,2019,"Nagaland",13,"Other Roads",6,23,8
+228,2019,"Nagaland",13,"State Highways",5,26,3
+229,2019,"Odisha",21,"Expressways",96,111,64
+230,2019,"Odisha",21,"National Highways",3963,4454,2107
+231,2019,"Odisha",21,"Other Roads",3902,3317,1679
+232,2019,"Odisha",21,"State Highways",3103,3295,1483
+233,2019,"Puducherry",34,"Expressways",0,0,0
+234,2019,"Puducherry",34,"National Highways",653,763,120
+235,2019,"Puducherry",34,"Other Roads",537,603,8
+236,2019,"Puducherry",34,"State Highways",202,253,19
+237,2019,"Punjab",3,"Expressways",17,28,15
+238,2019,"Punjab",3,"National Highways",2124,1162,1670
+239,2019,"Punjab",3,"Other Roads",2599,1457,1782
+240,2019,"Punjab",3,"State Highways",1576,1079,1146
+241,2019,"Rajasthan",8,"Expressways",213,212,91
+242,2019,"Rajasthan",8,"National Highways",6809,6885,3891
+243,2019,"Rajasthan",8,"Other Roads",12806,12199,4577
+244,2019,"Rajasthan",8,"State Highways",3650,3683,2004
+245,2019,"Sikkim",11,"Expressways",0,0,0
+246,2019,"Sikkim",11,"National Highways",56,85,27
+247,2019,"Sikkim",11,"Other Roads",54,113,32
+248,2019,"Sikkim",11,"State Highways",62,131,25
+249,2019,"Tamil Nadu",33,"Expressways",0,0,0
+250,2019,"Tamil Nadu",33,"National Highways",17633,21727,3921
+251,2019,"Tamil Nadu",33,"Other Roads",20316,22998,3181
+252,2019,"Tamil Nadu",33,"State Highways",19279,22412,3423
+253,2019,"Telangana",36,"Expressways",3,1,0
+254,2019,"Telangana",36,"National Highways",7349,7590,2384
+255,2019,"Telangana",36,"Other Roads",11717,11794,3622
+256,2019,"Telangana",36,"State Highways",2501,2614,958
+257,2019,"The Dadra And Nagar Haveli And Daman And Diu",38,"Expressways",0,0,0
+258,2019,"The Dadra And Nagar Haveli And Daman And Diu",38,"National Highways",0,0,0
+259,2019,"The Dadra And Nagar Haveli And Daman And Diu",38,"Other Roads",96,146,50
+260,2019,"The Dadra And Nagar Haveli And Daman And Diu",38,"State Highways",35,33,28
+261,2019,"Tripura",16,"Expressways",0,0,0
+262,2019,"Tripura",16,"National Highways",250,326,105
+263,2019,"Tripura",16,"Other Roads",194,230,64
+264,2019,"Tripura",16,"State Highways",211,260,70
+265,2019,"Uttar Pradesh",9,"Expressways",881,540,761
+266,2019,"Uttar Pradesh",9,"National Highways",11677,6770,7187
+267,2019,"Uttar Pradesh",9,"Other Roads",14547,8854,8952
+268,2019,"Uttar Pradesh",9,"State Highways",10432,6087,6385
+269,2019,"Uttarakhand",5,"Expressways",0,0,0
+270,2019,"Uttarakhand",5,"National Highways",687,704,339
+271,2019,"Uttarakhand",5,"Other Roads",404,354,294
+272,2019,"Uttarakhand",5,"State Highways",261,399,234
+273,2019,"West Bengal",19,"Expressways",178,113,79
+274,2019,"West Bengal",19,"National Highways",3465,3439,1967
+275,2019,"West Bengal",19,"Other Roads",5908,5526,2061
+276,2019,"West Bengal",19,"State Highways",2682,2666,1617
+277,2020,"Andaman And Nicobar Islands",35,"Expressways",0,0,0
+278,2020,"Andaman And Nicobar Islands",35,"National Highways",42,55,8
+279,2020,"Andaman And Nicobar Islands",35,"Other Roads",65,62,3
+280,2020,"Andaman And Nicobar Islands",35,"State Highways",34,28,3
+281,2020,"Andhra Pradesh",28,"Expressways",0,0,0
+282,2020,"Andhra Pradesh",28,"National Highways",6487,7215,2858
+283,2020,"Andhra Pradesh",28,"Other Roads",7102,7630,2477
+284,2020,"Andhra Pradesh",28,"State Highways",4335,4830,1704
+285,2020,"Arunachal Pradesh",12,"Expressways",0,0,0
+286,2020,"Arunachal Pradesh",12,"National Highways",60,53,33
+287,2020,"Arunachal Pradesh",12,"Other Roads",37,24,23
+288,2020,"Arunachal Pradesh",12,"State Highways",62,66,34
+289,2020,"Assam",18,"Expressways",247,171,67
+290,2020,"Assam",18,"National Highways",2896,2202,1370
+291,2020,"Assam",18,"Other Roads",1861,1373,743
+292,2020,"Assam",18,"State Highways",1733,1319,633
+293,2020,"Bihar",10,"Expressways",0,0,0
+294,2020,"Bihar",10,"National Highways",3932,2613,3061
+295,2020,"Bihar",10,"Other Roads",2396,2193,1735
+296,2020,"Bihar",10,"State Highways",2311,2213,1902
+297,2020,"Chandigarh",4,"Expressways",0,0,0
+298,2020,"Chandigarh",4,"National Highways",42,24,12
+299,2020,"Chandigarh",4,"Other Roads",272,272,94
+300,2020,"Chandigarh",4,"State Highways",0,0,0
+301,2020,"Chhattisgarh",22,"Expressways",0,0,0
+302,2020,"Chhattisgarh",22,"National Highways",3544,2985,1469
+303,2020,"Chhattisgarh",22,"Other Roads",6010,5670,2204
+304,2020,"Chhattisgarh",22,"State Highways",2120,1894,943
+305,2020,"Delhi",7,"Expressways",34,28,10
+306,2020,"Delhi",7,"National Highways",1318,940,432
+307,2020,"Delhi",7,"Other Roads",6472,5406,1842
+308,2020,"Delhi",7,"State Highways",550,534,108
+309,2020,"Goa",30,"Expressways",0,0,0
+310,2020,"Goa",30,"National Highways",770,273,75
+311,2020,"Goa",30,"Other Roads",1246,477,115
+312,2020,"Goa",30,"State Highways",359,125,34
+313,2020,"Gujarat",24,"Expressways",63,80,28
+314,2020,"Gujarat",24,"National Highways",3201,2753,1724
+315,2020,"Gujarat",24,"Other Roads",6543,5904,2496
+316,2020,"Gujarat",24,"State Highways",3600,3247,1952
+317,2020,"Haryana",6,"Expressways",125,102,108
+318,2020,"Haryana",6,"National Highways",2867,2159,1489
+319,2020,"Haryana",6,"Other Roads",4697,3839,2058
+320,2020,"Haryana",6,"State Highways",1817,1527,976
+321,2020,"Himachal Pradesh",2,"Expressways",0,0,0
+322,2020,"Himachal Pradesh",2,"National Highways",1021,1505,356
+323,2020,"Himachal Pradesh",2,"Other Roads",876,1175,385
+324,2020,"Himachal Pradesh",2,"State Highways",338,528,123
+325,2020,"Jammu And Kashmir",1,"Expressways",0,0,0
+326,2020,"Jammu And Kashmir",1,"National Highways",1550,1854,267
+327,2020,"Jammu And Kashmir",1,"Other Roads",2642,3312,377
+328,2020,"Jammu And Kashmir",1,"State Highways",669,758,87
+329,2020,"Jharkhand",20,"Expressways",0,0,0
+330,2020,"Jharkhand",20,"National Highways",1736,1247,1176
+331,2020,"Jharkhand",20,"Other Roads",1392,1149,857
+332,2020,"Jharkhand",20,"State Highways",1277,899,1011
+333,2020,"Karnataka",29,"Expressways",0,0,0
+334,2020,"Karnataka",29,"National Highways",11230,13131,3330
+335,2020,"Karnataka",29,"Other Roads",13483,14570,3531
+336,2020,"Karnataka",29,"State Highways",9465,11791,2899
+337,2020,"Kerala",32,"Expressways",0,0,0
+338,2020,"Kerala",32,"National Highways",6625,7373,864
+339,2020,"Kerala",32,"Other Roads",14331,15369,1389
+340,2020,"Kerala",32,"State Highways",6843,7760,724
+341,2020,"Ladakh",37,"Expressways",0,0,0
+342,2020,"Ladakh",37,"National Highways",84,94,19
+343,2020,"Ladakh",37,"Other Roads",23,19,6
+344,2020,"Ladakh",37,"State Highways",32,33,7
+345,2020,"Lakshadweep",31,"Expressways",0,0,0
+346,2020,"Lakshadweep",31,"National Highways",0,0,0
+347,2020,"Lakshadweep",31,"Other Roads",1,1,0
+348,2020,"Lakshadweep",31,"State Highways",0,0,0
+349,2020,"Madhya Pradesh",23,"Expressways",0,0,0
+350,2020,"Madhya Pradesh",23,"National Highways",8669,8691,3001
+351,2020,"Madhya Pradesh",23,"Other Roads",22791,22361,5716
+352,2020,"Madhya Pradesh",23,"State Highways",10936,10730,2948
+353,2020,"Maharashtra",27,"Expressways",143,94,60
+354,2020,"Maharashtra",27,"National Highways",5665,4618,3334
+355,2020,"Maharashtra",27,"Other Roads",10603,7781,5259
+356,2020,"Maharashtra",27,"State Highways",5800,4672,3365
+357,2020,"Manipur",14,"Expressways",0,0,0
+358,2020,"Manipur",14,"National Highways",273,401,90
+359,2020,"Manipur",14,"Other Roads",53,85,21
+360,2020,"Manipur",14,"State Highways",106,176,16
+361,2020,"Meghalaya",17,"Expressways",0,0,0
+362,2020,"Meghalaya",17,"National Highways",125,162,80
+363,2020,"Meghalaya",17,"Other Roads",65,37,49
+364,2020,"Meghalaya",17,"State Highways",15,13,9
+365,2020,"Mizoram",15,"Expressways",0,0,0
+366,2020,"Mizoram",15,"National Highways",23,27,26
+367,2020,"Mizoram",15,"Other Roads",7,4,6
+368,2020,"Mizoram",15,"State Highways",17,14,21
+369,2020,"Nagaland",13,"Expressways",0,0,0
+370,2020,"Nagaland",13,"National Highways",13,12,11
+371,2020,"Nagaland",13,"Other Roads",6,7,7
+372,2020,"Nagaland",13,"State Highways",8,11,9
+373,2020,"Odisha",21,"Expressways",71,73,31
+374,2020,"Odisha",21,"National Highways",3613,3351,1760
+375,2020,"Odisha",21,"Other Roads",3639,3240,1702
+376,2020,"Odisha",21,"State Highways",2494,2158,1245
+377,2020,"Puducherry",34,"Expressways",0,0,0
+378,2020,"Puducherry",34,"National Highways",527,439,123
+379,2020,"Puducherry",34,"Other Roads",309,464,5
+380,2020,"Puducherry",34,"State Highways",133,116,17
+381,2020,"Punjab",3,"Expressways",24,11,20
+382,2020,"Punjab",3,"National Highways",1723,903,1409
+383,2020,"Punjab",3,"Other Roads",2075,1071,1547
+384,2020,"Punjab",3,"State Highways",1351,896,940
+385,2020,"Rajasthan",8,"Expressways",44,34,28
+386,2020,"Rajasthan",8,"National Highways",5719,5083,3289
+387,2020,"Rajasthan",8,"Other Roads",10043,8806,4129
+388,2020,"Rajasthan",8,"State Highways",3315,2860,1806
+389,2020,"Sikkim",11,"Expressways",0,0,0
+390,2020,"Sikkim",11,"National Highways",32,51,11
+391,2020,"Sikkim",11,"Other Roads",39,88,22
+392,2020,"Sikkim",11,"State Highways",37,57,9
+393,2020,"Tamil Nadu",33,"Expressways",0,0,0
+394,2020,"Tamil Nadu",33,"National Highways",14302,16458,3027
+395,2020,"Tamil Nadu",33,"Other Roads",15711,16767,2517
+396,2020,"Tamil Nadu",33,"State Highways",15471,17326,2515
+397,2020,"Telangana",36,"Expressways",149,138,40
+398,2020,"Telangana",36,"National Highways",6670,6470,2496
+399,2020,"Telangana",36,"Other Roads",10362,10032,3555
+400,2020,"Telangana",36,"State Highways",1991,2021,791
+401,2020,"The Dadra And Nagar Haveli And Daman And Diu",38,"Expressways",0,0,0
+402,2020,"The Dadra And Nagar Haveli And Daman And Diu",38,"National Highways",0,0,0
+403,2020,"The Dadra And Nagar Haveli And Daman And Diu",38,"Other Roads",65,94,46
+404,2020,"The Dadra And Nagar Haveli And Daman And Diu",38,"State Highways",33,25,18
+405,2020,"Tripura",16,"Expressways",0,0,0
+406,2020,"Tripura",16,"National Highways",184,182,78
+407,2020,"Tripura",16,"Other Roads",108,119,47
+408,2020,"Tripura",16,"State Highways",174,169,67
+409,2020,"Uttar Pradesh",9,"Expressways",807,523,711
+410,2020,"Uttar Pradesh",9,"National Highways",8924,4972,6137
+411,2020,"Uttar Pradesh",9,"Other Roads",10949,5824,6865
+412,2020,"Uttar Pradesh",9,"State Highways",7973,4663,5324
+413,2020,"Uttarakhand",5,"Expressways",0,0,0
+414,2020,"Uttarakhand",5,"National Highways",535,401,367
+415,2020,"Uttarakhand",5,"Other Roads",336,260,195
+416,2020,"Uttarakhand",5,"State Highways",179,201,131
+417,2020,"West Bengal",19,"Expressways",153,98,71
+418,2020,"West Bengal",19,"National Highways",3211,2943,1715
+419,2020,"West Bengal",19,"Other Roads",5066,4206,1878
+420,2020,"West Bengal",19,"State Highways",2413,2309,1507
+421,2021,"Andaman And Nicobar Islands",35,"Expressways",0,0,0
+422,2021,"Andaman And Nicobar Islands",35,"National Highways",42,44,6
+423,2021,"Andaman And Nicobar Islands",35,"Other Roads",44,28,12
+424,2021,"Andaman And Nicobar Islands",35,"State Highways",31,25,4
+425,2021,"Andhra Pradesh",28,"Expressways",0,0,0
+426,2021,"Andhra Pradesh",28,"National Highways",8241,8323,3602
+427,2021,"Andhra Pradesh",28,"Other Roads",8611,7931,2680
+428,2021,"Andhra Pradesh",28,"State Highways",4704,4786,1904
+429,2021,"Arunachal Pradesh",12,"Expressways",0,0,0
+430,2021,"Arunachal Pradesh",12,"National Highways",110,112,59
+431,2021,"Arunachal Pradesh",12,"Other Roads",86,77,58
+432,2021,"Arunachal Pradesh",12,"State Highways",65,77,56
+433,2021,"Assam",18,"Expressways",0,0,0
+434,2021,"Assam",18,"National Highways",3197,2560,1586
+435,2021,"Assam",18,"Other Roads",1959,1344,704
+436,2021,"Assam",18,"State Highways",1913,1516,724
+437,2021,"Bihar",10,"Expressways",0,0,0
+438,2021,"Bihar",10,"National Highways",4348,3536,3493
+439,2021,"Bihar",10,"Other Roads",3089,2482,2390
+440,2021,"Bihar",10,"State Highways",2116,1928,1777
+441,2021,"Chandigarh",4,"Expressways",0,0,0
+442,2021,"Chandigarh",4,"National Highways",58,42,42
+443,2021,"Chandigarh",4,"Other Roads",358,302,150
+444,2021,"Chandigarh",4,"State Highways",0,0,0
+445,2021,"Chhattisgarh",22,"Expressways",0,0,0
+446,2021,"Chhattisgarh",22,"National Highways",3658,2885,1665
+447,2021,"Chhattisgarh",22,"Other Roads",6548,5714,2656
+448,2021,"Chhattisgarh",22,"State Highways",2189,2083,1092
+449,2021,"Delhi",7,"Expressways",16,6,10
+450,2021,"Delhi",7,"National Highways",1130,722,464
+451,2021,"Delhi",7,"Other Roads",7690,6854,1752
+452,2021,"Delhi",7,"State Highways",604,396,252
+453,2021,"Goa",30,"Expressways",0,0,0
+454,2021,"Goa",30,"National Highways",1069,272,93
+455,2021,"Goa",30,"Other Roads",1415,474,101
+456,2021,"Goa",30,"State Highways",366,110,32
+457,2021,"Gujarat",24,"Expressways",44,31,33
+458,2021,"Gujarat",24,"National Highways",3376,2687,2017
+459,2021,"Gujarat",24,"Other Roads",7360,6803,2864
+460,2021,"Gujarat",24,"State Highways",4420,4201,2543
+461,2021,"Haryana",6,"Expressways",158,99,126
+462,2021,"Haryana",6,"National Highways",3525,2855,1846
+463,2021,"Haryana",6,"Other Roads",4754,3761,2126
+464,2021,"Haryana",6,"State Highways",1612,1257,885
+465,2021,"Himachal Pradesh",2,"Expressways",0,0,0
+466,2021,"Himachal Pradesh",2,"National Highways",1075,1467,388
+467,2021,"Himachal Pradesh",2,"Other Roads",934,1421,507
+468,2021,"Himachal Pradesh",2,"State Highways",399,557,137
+469,2021,"Jammu And Kashmir",1,"Expressways",2,0,1
+470,2021,"Jammu And Kashmir",1,"National Highways",1905,2370,367
+471,2021,"Jammu And Kashmir",1,"Other Roads",2738,3384,342
+472,2021,"Jammu And Kashmir",1,"State Highways",757,1102,94
+473,2021,"Jharkhand",20,"Expressways",0,0,0
+474,2021,"Jharkhand",20,"National Highways",1263,1038,1106
+475,2021,"Jharkhand",20,"Other Roads",2101,1414,1347
+476,2021,"Jharkhand",20,"State Highways",1364,775,1060
+477,2021,"Karnataka",29,"Expressways",0,0,0
+478,2021,"Karnataka",29,"National Highways",11482,13367,3490
+479,2021,"Karnataka",29,"Other Roads",14353,15853,3790
+480,2021,"Karnataka",29,"State Highways",8812,11534,2758
+481,2021,"Kerala",32,"Expressways",0,0,0
+482,2021,"Kerala",32,"National Highways",7806,8716,1021
+483,2021,"Kerala",32,"Other Roads",16850,18581,1531
+484,2021,"Kerala",32,"State Highways",8103,9217,877
+485,2021,"Ladakh",37,"Expressways",0,0,0
+486,2021,"Ladakh",37,"National Highways",126,166,30
+487,2021,"Ladakh",37,"Other Roads",23,32,0
+488,2021,"Ladakh",37,"State Highways",88,93,26
+489,2021,"Lakshadweep",31,"Expressways",0,0,0
+490,2021,"Lakshadweep",31,"National Highways",0,0,0
+491,2021,"Lakshadweep",31,"Other Roads",4,6,1
+492,2021,"Lakshadweep",31,"State Highways",0,0,0
+493,2021,"Madhya Pradesh",23,"Expressways",0,0,0
+494,2021,"Madhya Pradesh",23,"National Highways",10233,9922,3287
+495,2021,"Madhya Pradesh",23,"Other Roads",26831,25863,6105
+496,2021,"Madhya Pradesh",23,"State Highways",11155,11332,3088
+497,2021,"Maharashtra",27,"Expressways",199,130,87
+498,2021,"Maharashtra",27,"National Highways",6976,5330,3996
+499,2021,"Maharashtra",27,"Other Roads",12538,8777,6021
+500,2021,"Maharashtra",27,"State Highways",6885,5439,3807
+501,2021,"Manipur",14,"Expressways",0,0,0
+502,2021,"Manipur",14,"National Highways",236,322,76
+503,2021,"Manipur",14,"Other Roads",55,83,13
+504,2021,"Manipur",14,"State Highways",75,99,21
+505,2021,"Meghalaya",17,"Expressways",0,0,0
+506,2021,"Meghalaya",17,"National Highways",141,161,118
+507,2021,"Meghalaya",17,"Other Roads",56,61,37
+508,2021,"Meghalaya",17,"State Highways",47,41,32
+509,2021,"Mizoram",15,"Expressways",0,0,0
+510,2021,"Mizoram",15,"National Highways",24,10,23
+511,2021,"Mizoram",15,"Other Roads",11,7,11
+512,2021,"Mizoram",15,"State Highways",29,11,30
+513,2021,"Nagaland",13,"Expressways",0,0,0
+514,2021,"Nagaland",13,"National Highways",12,5,10
+515,2021,"Nagaland",13,"Other Roads",2,1,2
+516,2021,"Nagaland",13,"State Highways",11,29,11
+517,2021,"Odisha",21,"Expressways",47,24,32
+518,2021,"Odisha",21,"National Highways",4038,3533,1888
+519,2021,"Odisha",21,"Other Roads",4560,4068,2091
+520,2021,"Odisha",21,"State Highways",2338,2157,1070
+521,2021,"Puducherry",34,"Expressways",0,0,0
+522,2021,"Puducherry",34,"National Highways",565,487,120
+523,2021,"Puducherry",34,"Other Roads",339,490,6
+524,2021,"Puducherry",34,"State Highways",145,122,17
+525,2021,"Punjab",3,"Expressways",107,64,43
+526,2021,"Punjab",3,"National Highways",1898,970,1545
+527,2021,"Punjab",3,"Other Roads",2077,1005,1483
+528,2021,"Punjab",3,"State Highways",2015,995,1445
+529,2021,"Rajasthan",8,"Expressways",29,12,18
+530,2021,"Rajasthan",8,"National Highways",6378,5884,3653
+531,2021,"Rajasthan",8,"Other Roads",10881,10006,4460
+532,2021,"Rajasthan",8,"State Highways",3666,3455,1912
+533,2021,"Sikkim",11,"Expressways",0,0,0
+534,2021,"Sikkim",11,"National Highways",47,45,23
+535,2021,"Sikkim",11,"Other Roads",29,62,21
+536,2021,"Sikkim",11,"State Highways",46,71,20
+537,2021,"Tamil Nadu",33,"Expressways",7,7,2
+538,2021,"Tamil Nadu",33,"National Highways",17074,17377,5360
+539,2021,"Tamil Nadu",33,"Other Roads",20041,19777,4955
+540,2021,"Tamil Nadu",33,"State Highways",18560,18835,5067
+541,2021,"Telangana",36,"Expressways",14,16,3
+542,2021,"Telangana",36,"National Highways",7200,6911,2732
+543,2021,"Telangana",36,"Other Roads",11909,11105,3958
+544,2021,"Telangana",36,"State Highways",2192,2075,864
+545,2021,"The Dadra And Nagar Haveli And Daman And Diu",38,"Expressways",0,0,0
+546,2021,"The Dadra And Nagar Haveli And Daman And Diu",38,"National Highways",0,0,0
+547,2021,"The Dadra And Nagar Haveli And Daman And Diu",38,"Other Roads",71,93,39
+548,2021,"The Dadra And Nagar Haveli And Daman And Diu",38,"State Highways",69,78,37
+549,2021,"Tripura",16,"Expressways",0,0,0
+550,2021,"Tripura",16,"National Highways",199,207,94
+551,2021,"Tripura",16,"Other Roads",108,96,39
+552,2021,"Tripura",16,"State Highways",171,243,61
+553,2021,"Uttar Pradesh",9,"Expressways",1157,749,965
+554,2021,"Uttar Pradesh",9,"National Highways",11168,6150,7212
+555,2021,"Uttar Pradesh",9,"Other Roads",12216,7512,7724
+556,2021,"Uttar Pradesh",9,"State Highways",9170,5402,5891
+557,2021,"Uttarakhand",5,"Expressways",0,0,0
+558,2021,"Uttarakhand",5,"National Highways",565,460,345
+559,2021,"Uttarakhand",5,"Other Roads",616,435,307
+560,2021,"Uttarakhand",5,"State Highways",224,232,172
+561,2021,"West Bengal",19,"Expressways",127,79,41
+562,2021,"West Bengal",19,"National Highways",3633,3232,2111
+563,2021,"West Bengal",19,"Other Roads",5329,4389,2279
+564,2021,"West Bengal",19,"State Highways",2412,2096,1400
+565,2022,"Andaman And Nicobar Islands",35,"Expressways",0,0,0
+566,2022,"Andaman And Nicobar Islands",35,"National Highways",43,39,11
+567,2022,"Andaman And Nicobar Islands",35,"Other Roads",56,55,6
+568,2022,"Andaman And Nicobar Islands",35,"State Highways",42,42,2
+569,2022,"Andhra Pradesh",28,"Expressways",0,0,0
+570,2022,"Andhra Pradesh",28,"National Highways",8554,8890,3793
+571,2022,"Andhra Pradesh",28,"Other Roads",7678,7519,2631
+572,2022,"Andhra Pradesh",28,"State Highways",4838,4931,1869
+573,2022,"Arunachal Pradesh",12,"Expressways",0,0,0
+574,2022,"Arunachal Pradesh",12,"National Highways",103,78,54
+575,2022,"Arunachal Pradesh",12,"Other Roads",87,91,82
+576,2022,"Arunachal Pradesh",12,"State Highways",25,8,16
+577,2022,"Assam",18,"Expressways",0,0,0
+578,2022,"Assam",18,"National Highways",3354,2686,1547
+579,2022,"Assam",18,"Other Roads",1924,1556,845
+580,2022,"Assam",18,"State Highways",1750,1437,668
+581,2022,"Bihar",10,"Expressways",0,0,0
+582,2022,"Bihar",10,"National Highways",4601,3158,3926
+583,2022,"Bihar",10,"Other Roads",3772,2289,2940
+584,2022,"Bihar",10,"State Highways",2428,1621,2032
+585,2022,"Chandigarh",4,"Expressways",0,0,0
+586,2022,"Chandigarh",4,"National Highways",58,42,18
+587,2022,"Chandigarh",4,"Other Roads",418,364,148
+588,2022,"Chandigarh",4,"State Highways",0,0,0
+589,2022,"Chhattisgarh",22,"Expressways",0,0,0
+590,2022,"Chhattisgarh",22,"National Highways",3989,3166,1861
+591,2022,"Chhattisgarh",22,"Other Roads",6993,6032,3028
+592,2022,"Chhattisgarh",22,"State Highways",2109,2261,1001
+593,2022,"Delhi",7,"Expressways",0,0,0
+594,2022,"Delhi",7,"National Highways",1034,828,314
+595,2022,"Delhi",7,"Other Roads",9088,7806,2350
+596,2022,"Delhi",7,"State Highways",998,792,258
+597,2022,"Goa",30,"Expressways",0,0,0
+598,2022,"Goa",30,"National Highways",1227,344,121
+599,2022,"Goa",30,"Other Roads",1377,533,116
+600,2022,"Goa",30,"State Highways",408,194,37
+601,2022,"Gujarat",24,"Expressways",114,183,64
+602,2022,"Gujarat",24,"National Highways",3396,2995,2029
+603,2022,"Gujarat",24,"Other Roads",8170,7619,3378
+604,2022,"Gujarat",24,"State Highways",4097,4342,2163
+605,2022,"Haryana",6,"Expressways",127,67,107
+606,2022,"Haryana",6,"National Highways",3636,2924,2083
+607,2022,"Haryana",6,"Other Roads",4949,3705,2116
+608,2022,"Haryana",6,"State Highways",1942,1657,922
+609,2022,"Himachal Pradesh",2,"Expressways",0,0,0
+610,2022,"Himachal Pradesh",2,"National Highways",1165,1720,393
+611,2022,"Himachal Pradesh",2,"Other Roads",767,1207,372
+612,2022,"Himachal Pradesh",2,"State Highways",552,964,214
+613,2022,"Jammu And Kashmir",1,"Expressways",15,0,0
+614,2022,"Jammu And Kashmir",1,"National Highways",2212,3019,386
+615,2022,"Jammu And Kashmir",1,"Other Roads",2769,3714,376
+616,2022,"Jammu And Kashmir",1,"State Highways",1094,1617,76
+617,2022,"Jharkhand",20,"Expressways",0,0,0
+618,2022,"Jharkhand",20,"National Highways",2125,1410,1699
+619,2022,"Jharkhand",20,"Other Roads",1981,1501,1387
+620,2022,"Jharkhand",20,"State Highways",1069,836,812
+621,2022,"Karnataka",29,"Expressways",0,0,0
+622,2022,"Karnataka",29,"National Highways",13389,16587,4201
+623,2022,"Karnataka",29,"Other Roads",16580,19091,4228
+624,2022,"Karnataka",29,"State Highways",9796,12476,3276
+625,2022,"Kerala",32,"Expressways",0,0,0
+626,2022,"Kerala",32,"National Highways",9773,11425,1281
+627,2022,"Kerala",32,"Other Roads",23847,26252,1986
+628,2022,"Kerala",32,"State Highways",9972,11640,1050
+629,2022,"Ladakh",37,"Expressways",0,0,0
+630,2022,"Ladakh",37,"National Highways",134,174,38
+631,2022,"Ladakh",37,"Other Roads",33,32,4
+632,2022,"Ladakh",37,"State Highways",101,127,24
+633,2022,"Lakshadweep",31,"Expressways",0,0,0
+634,2022,"Lakshadweep",31,"National Highways",0,0,0
+635,2022,"Lakshadweep",31,"Other Roads",4,3,2
+636,2022,"Lakshadweep",31,"State Highways",0,0,0
+637,2022,"Madhya Pradesh",23,"Expressways",0,0,0
+638,2022,"Madhya Pradesh",23,"National Highways",11907,11814,3673
+639,2022,"Madhya Pradesh",23,"Other Roads",28161,27353,6736
+640,2022,"Madhya Pradesh",23,"State Highways",11897,12097,3509
+641,2022,"Maharashtra",27,"Expressways",191,163,88
+642,2022,"Maharashtra",27,"National Highways",8339,7099,4833
+643,2022,"Maharashtra",27,"Other Roads",14526,10874,6729
+644,2022,"Maharashtra",27,"State Highways",7490,5742,4098
+645,2022,"Manipur",14,"Expressways",0,0,0
+646,2022,"Manipur",14,"National Highways",309,466,71
+647,2022,"Manipur",14,"Other Roads",98,195,35
+648,2022,"Manipur",14,"State Highways",101,156,21
+649,2022,"Meghalaya",17,"Expressways",0,0,0
+650,2022,"Meghalaya",17,"National Highways",154,201,88
+651,2022,"Meghalaya",17,"Other Roads",62,74,48
+652,2022,"Meghalaya",17,"State Highways",30,35,26
+653,2022,"Mizoram",15,"Expressways",0,0,0
+654,2022,"Mizoram",15,"National Highways",43,11,50
+655,2022,"Mizoram",15,"Other Roads",2,3,2
+656,2022,"Mizoram",15,"State Highways",26,14,31
+657,2022,"Nagaland",13,"Expressways",0,0,0
+658,2022,"Nagaland",13,"National Highways",13,14,13
+659,2022,"Nagaland",13,"Other Roads",5,1,4
+660,2022,"Nagaland",13,"State Highways",6,27,5
+661,2022,"Odisha",21,"Expressways",76,138,50
+662,2022,"Odisha",21,"National Highways",4241,3632,1998
+663,2022,"Odisha",21,"Other Roads",4698,4233,2150
+664,2022,"Odisha",21,"State Highways",2648,2266,1272
+665,2022,"Puducherry",34,"Expressways",0,0,0
+666,2022,"Puducherry",34,"National Highways",448,428,71
+667,2022,"Puducherry",34,"Other Roads",639,754,100
+668,2022,"Puducherry",34,"State Highways",94,100,10
+669,2022,"Punjab",3,"Expressways",29,23,27
+670,2022,"Punjab",3,"National Highways",2082,1205,1590
+671,2022,"Punjab",3,"Other Roads",2230,1123,1799
+672,2022,"Punjab",3,"State Highways",1781,1021,1272
+673,2022,"Rajasthan",8,"Expressways",42,25,29
+674,2022,"Rajasthan",8,"National Highways",6996,6577,3997
+675,2022,"Rajasthan",8,"Other Roads",12284,11598,4682
+676,2022,"Rajasthan",8,"State Highways",4298,4049,2395
+677,2022,"Sikkim",11,"Expressways",0,0,0
+678,2022,"Sikkim",11,"National Highways",86,172,28
+679,2022,"Sikkim",11,"Other Roads",52,86,45
+680,2022,"Sikkim",11,"State Highways",61,113,25
+681,2022,"Tamil Nadu",33,"Expressways",0,0,0
+682,2022,"Tamil Nadu",33,"National Highways",18972,21138,5978
+683,2022,"Tamil Nadu",33,"Other Roads",22500,23178,5542
+684,2022,"Tamil Nadu",33,"State Highways",22633,23387,6364
+685,2022,"Telangana",36,"Expressways",9,5,4
+686,2022,"Telangana",36,"National Highways",7496,6945,3006
+687,2022,"Telangana",36,"Other Roads",11931,11217,3729
+688,2022,"Telangana",36,"State Highways",2183,2042,820
+689,2022,"The Dadra And Nagar Haveli And Daman And Diu",38,"Expressways",0,0,0
+690,2022,"The Dadra And Nagar Haveli And Daman And Diu",38,"National Highways",2,1,1
+691,2022,"The Dadra And Nagar Haveli And Daman And Diu",38,"Other Roads",86,158,46
+692,2022,"The Dadra And Nagar Haveli And Daman And Diu",38,"State Highways",87,98,33
+693,2022,"Tripura",16,"Expressways",0,0,0
+694,2022,"Tripura",16,"National Highways",241,224,105
+695,2022,"Tripura",16,"Other Roads",141,136,59
+696,2022,"Tripura",16,"State Highways",193,181,77
+697,2022,"Uttar Pradesh",9,"Expressways",1680,961,1310
+698,2022,"Uttar Pradesh",9,"National Highways",12380,7330,8236
+699,2022,"Uttar Pradesh",9,"Other Roads",13637,8139,8493
+700,2022,"Uttar Pradesh",9,"State Highways",9178,5266,6070
+701,2022,"Uttarakhand",5,"Expressways",0,0,0
+702,2022,"Uttarakhand",5,"National Highways",660,733,464
+703,2022,"Uttarakhand",5,"Other Roads",516,395,282
+704,2022,"Uttarakhand",5,"State Highways",498,485,296
+705,2022,"West Bengal",19,"Expressways",163,86,101
+706,2022,"West Bengal",19,"National Highways",3506,2586,1882
+707,2022,"West Bengal",19,"Other Roads",4737,3509,2417
+708,2022,"West Bengal",19,"State Highways",2229,1943,1388
+709,2023,"Andaman And Nicobar Islands",35,"Expressways",0,0,0
+710,2023,"Andaman And Nicobar Islands",35,"National Highways",21,6,21
+711,2023,"Andaman And Nicobar Islands",35,"Other Roads",36,24,42
+712,2023,"Andaman And Nicobar Islands",35,"State Highways",18,3,18
+713,2023,"Andhra Pradesh",28,"Expressways",0,0,0
+714,2023,"Andhra Pradesh",28,"National Highways",24828,25521,11418
+715,2023,"Andhra Pradesh",28,"Other Roads",21522,21921,7332
+716,2023,"Andhra Pradesh",28,"State Highways",13497,13785,5661
+717,2023,"Arunachal Pradesh",12,"Expressways",0,0,0
+718,2023,"Arunachal Pradesh",12,"National Highways",438,450,225
+719,2023,"Arunachal Pradesh",12,"Other Roads",192,156,132
+720,2023,"Arunachal Pradesh",12,"State Highways",69,48,51
+721,2023,"Assam",18,"Expressways",0,0,0
+722,2023,"Assam",18,"National Highways",10281,8310,4692
+723,2023,"Assam",18,"Other Roads",6732,5079,3075
+724,2023,"Assam",18,"State Highways",5250,4362,2121
+725,2023,"Bihar",10,"Expressways",0,0,0
+726,2023,"Bihar",10,"National Highways",14775,8775,12168
+727,2023,"Bihar",10,"Other Roads",11475,6615,9036
+728,2023,"Bihar",10,"State Highways",6792,4227,5415
+729,2023,"Chandigarh",4,"Expressways",0,0,0
+730,2023,"Chandigarh",4,"National Highways",66,30,24
+731,2023,"Chandigarh",4,"Other Roads",1026,996,378
+732,2023,"Chandigarh",4,"State Highways",0,0,0
+733,2023,"Chhattisgarh",22,"Expressways",0,0,0
+734,2023,"Chhattisgarh",22,"National Highways",12072,10482,5763
+735,2023,"Chhattisgarh",22,"Other Roads",22086,19125,9537
+736,2023,"Chhattisgarh",22,"State Highways",6249,5565,3198
+737,2023,"Delhi",7,"Expressways",78,24,54
+738,2023,"Delhi",7,"National Highways",4272,3798,1386
+739,2023,"Delhi",7,"Other Roads",27756,23826,6672
+740,2023,"Delhi",7,"State Highways",2184,1632,630
+741,2023,"Goa",30,"Expressways",0,0,0
+742,2023,"Goa",30,"National Highways",3456,1086,306
+743,2023,"Goa",30,"Other Roads",3888,1881,423
+744,2023,"Goa",30,"State Highways",1197,573,147
+745,2023,"Gujarat",24,"Expressways",306,282,165
+746,2023,"Gujarat",24,"National Highways",10431,8859,6417
+747,2023,"Gujarat",24,"Other Roads",26295,24504,10179
+748,2023,"Gujarat",24,"State Highways",12015,12504,6801
+749,2023,"Haryana",6,"Expressways",567,480,414
+750,2023,"Haryana",6,"National Highways",10671,8172,5709
+751,2023,"Haryana",6,"Other Roads",16524,12852,7311
+752,2023,"Haryana",6,"State Highways",5487,4494,2769
+753,2023,"Himachal Pradesh",2,"Expressways",0,0,0
+754,2023,"Himachal Pradesh",2,"National Highways",3207,4632,1074
+755,2023,"Himachal Pradesh",2,"Other Roads",2331,3633,1173
+756,2023,"Himachal Pradesh",2,"State Highways",1227,1638,408
+757,2023,"Jammu And Kashmir",1,"Expressways",0,0,0
+758,2023,"Jammu And Kashmir",1,"National Highways",6990,9543,1248
+759,2023,"Jammu And Kashmir",1,"Other Roads",9723,12519,1200
+760,2023,"Jammu And Kashmir",1,"State Highways",2187,3186,243
+761,2023,"Jharkhand",20,"Expressways",0,0,0
+762,2023,"Jharkhand",20,"National Highways",5982,3636,5016
+763,2023,"Jharkhand",20,"Other Roads",6711,5052,4929
+764,2023,"Jharkhand",20,"State Highways",3255,2070,2574
+765,2023,"Karnataka",29,"Expressways",1563,1620,564
+766,2023,"Karnataka",29,"National Highways",41268,50568,12690
+767,2023,"Karnataka",29,"Other Roads",54549,62151,13365
+768,2023,"Karnataka",29,"State Highways",32937,43302,10347
+769,2023,"Kerala",32,"Expressways",81,75,0
+770,2023,"Kerala",32,"National Highways",29139,35718,3036
+771,2023,"Kerala",32,"Other Roads",74097,85854,6012
+772,2023,"Kerala",32,"State Highways",34626,41331,3192
+773,2023,"Ladakh",37,"Expressways",0,0,0
+774,2023,"Ladakh",37,"National Highways",423,627,114
+775,2023,"Ladakh",37,"Other Roads",111,222,24
+776,2023,"Ladakh",37,"State Highways",333,81,39
+777,2023,"Lakshadweep",31,"Expressways",0,0,0
+778,2023,"Lakshadweep",31,"National Highways",0,0,0
+779,2023,"Lakshadweep",31,"Other Roads",3,3,0
+780,2023,"Lakshadweep",31,"State Highways",0,0,0
+781,2023,"Madhya Pradesh",23,"Expressways",0,0,0
+782,2023,"Madhya Pradesh",23,"National Highways",41835,41529,12552
+783,2023,"Madhya Pradesh",23,"Other Roads",87861,85152,20250
+784,2023,"Madhya Pradesh",23,"State Highways",34593,37416,9492
+785,2023,"Maharashtra",27,"Expressways",579,381,459
+786,2023,"Maharashtra",27,"National Highways",27081,23883,15312
+787,2023,"Maharashtra",27,"Other Roads",46422,43113,19683
+788,2023,"Maharashtra",27,"State Highways",19959,17259,10848
+789,2023,"Manipur",14,"Expressways",0,0,0
+790,2023,"Manipur",14,"National Highways",816,1392,156
+791,2023,"Manipur",14,"Other Roads",213,312,36
+792,2023,"Manipur",14,"State Highways",165,204,27
+793,2023,"Meghalaya",17,"Expressways",0,0,0
+794,2023,"Meghalaya",17,"National Highways",375,357,240
+795,2023,"Meghalaya",17,"Other Roads",216,306,165
+796,2023,"Meghalaya",17,"State Highways",105,114,99
+797,2023,"Mizoram",15,"Expressways",0,0,0
+798,2023,"Mizoram",15,"National Highways",93,108,84
+799,2023,"Mizoram",15,"Other Roads",21,0,36
+800,2023,"Mizoram",15,"State Highways",27,51,27
+801,2023,"Nagaland",13,"Expressways",0,0,0
+802,2023,"Nagaland",13,"National Highways",66,54,81
+803,2023,"Nagaland",13,"Other Roads",9,3,9
+804,2023,"Nagaland",13,"State Highways",30,81,21
+805,2023,"Odisha",21,"Expressways",618,456,348
+806,2023,"Odisha",21,"National Highways",13338,11247,6279
+807,2023,"Odisha",21,"Other Roads",15138,13056,7230
+808,2023,"Odisha",21,"State Highways",6873,6342,3354
+809,2023,"Puducherry",34,"Expressways",0,0,0
+810,2023,"Puducherry",34,"National Highways",1491,1506,213
+811,2023,"Puducherry",34,"Other Roads",2028,2808,165
+812,2023,"Puducherry",34,"State Highways",405,420,69
+813,2023,"Punjab",3,"Expressways",0,0,0
+814,2023,"Punjab",3,"National Highways",6792,3933,5688
+815,2023,"Punjab",3,"Other Roads",7401,3288,5406
+816,2023,"Punjab",3,"State Highways",4635,2694,3624
+817,2023,"Rajasthan",8,"Expressways",210,171,138
+818,2023,"Rajasthan",8,"National Highways",21444,21099,12330
+819,2023,"Rajasthan",8,"Other Roads",39789,35991,16416
+820,2023,"Rajasthan",8,"State Highways",13140,12543,6912
+821,2023,"Sikkim",11,"Expressways",0,0,0
+822,2023,"Sikkim",11,"National Highways",189,441,57
+823,2023,"Sikkim",11,"Other Roads",138,189,57
+824,2023,"Sikkim",11,"State Highways",195,498,90
+825,2023,"Tamil Nadu",33,"Expressways",0,0,0
+826,2023,"Tamil Nadu",33,"National Highways",61746,70725,18774
+827,2023,"Tamil Nadu",33,"Other Roads",70395,72891,17292
+828,2023,"Tamil Nadu",33,"State Highways",69498,73260,18975
+829,2023,"Telangana",36,"Expressways",45,24,15
+830,2023,"Telangana",36,"National Highways",24264,21324,9159
+831,2023,"Telangana",36,"Other Roads",38820,36603,11655
+832,2023,"Telangana",36,"State Highways",5580,5115,2151
+833,2023,"The Dadra And Nagar Haveli And Daman And Diu",38,"Expressways",0,0,0
+834,2023,"The Dadra And Nagar Haveli And Daman And Diu",38,"National Highways",12,15,9
+835,2023,"The Dadra And Nagar Haveli And Daman And Diu",38,"Other Roads",288,444,114
+836,2023,"The Dadra And Nagar Haveli And Daman And Diu",38,"State Highways",249,189,120
+837,2023,"Tripura",16,"Expressways",0,0,0
+838,2023,"Tripura",16,"National Highways",765,762,387
+839,2023,"Tripura",16,"Other Roads",339,396,141
+840,2023,"Tripura",16,"State Highways",627,669,255
+841,2023,"Uttar Pradesh",9,"Expressways",6399,4659,4827
+842,2023,"Uttar Pradesh",9,"National Highways",32970,21345,21123
+843,2023,"Uttar Pradesh",9,"Other Roads",44868,28233,27837
+844,2023,"Uttar Pradesh",9,"State Highways",29055,17292,18054
+845,2023,"Uttarakhand",5,"Expressways",0,0,0
+846,2023,"Uttarakhand",5,"National Highways",2451,2094,1539
+847,2023,"Uttarakhand",5,"Other Roads",1713,1443,924
+848,2023,"Uttarakhand",5,"State Highways",909,927,699
+849,2023,"West Bengal",19,"Expressways",483,126,159
+850,2023,"West Bengal",19,"National Highways",10371,8466,5796
+851,2023,"West Bengal",19,"Other Roads",13194,9864,7437
+852,2023,"West Bengal",19,"State Highways",7152,5889,3717
+853,2024,"Andaman And Nicobar Islands",35,"Expressways",0,0,0
+854,2024,"Andaman And Nicobar Islands",35,"National Highways",11,24,14
+855,2024,"Andaman And Nicobar Islands",35,"Other Roads",9,0,10
+856,2024,"Andaman And Nicobar Islands",35,"State Highways",7,4,7
+857,2024,"Andhra Pradesh",28,"Expressways",0,0,0
+858,2024,"Andhra Pradesh",28,"National Highways",8258,8603,4014
+859,2024,"Andhra Pradesh",28,"Other Roads",6893,6922,2423
+860,2024,"Andhra Pradesh",28,"State Highways",4406,4369,1909
+861,2024,"Arunachal Pradesh",12,"Expressways",0,0,0
+862,2024,"Arunachal Pradesh",12,"National Highways",179,142,111
+863,2024,"Arunachal Pradesh",12,"Other Roads",45,35,42
+864,2024,"Arunachal Pradesh",12,"State Highways",10,6,5
+865,2024,"Assam",18,"Expressways",22,0,0
+866,2024,"Assam",18,"National Highways",3657,3380,1644
+867,2024,"Assam",18,"Other Roads",2683,2345,1023
+868,2024,"Assam",18,"State Highways",1486,1408,684
+869,2024,"Bihar",10,"Expressways",0,0,0
+870,2024,"Bihar",10,"National Highways",4858,2871,4055
+871,2024,"Bihar",10,"Other Roads",3986,2181,2977
+872,2024,"Bihar",10,"State Highways",2684,1548,2186
+873,2024,"Chandigarh",4,"Expressways",0,0,0
+874,2024,"Chandigarh",4,"National Highways",0,0,0
+875,2024,"Chandigarh",4,"Other Roads",340,256,126
+876,2024,"Chandigarh",4,"State Highways",0,0,0
+877,2024,"Chhattisgarh",22,"Expressways",9,0,9
+878,2024,"Chhattisgarh",22,"National Highways",4064,3151,1977
+879,2024,"Chhattisgarh",22,"Other Roads",8248,6768,3650
+880,2024,"Chhattisgarh",22,"State Highways",2540,2481,1423
+881,2024,"Delhi",7,"Expressways",10,16,2
+882,2024,"Delhi",7,"National Highways",1130,836,542
+883,2024,"Delhi",7,"Other Roads",9694,8236,2492
+884,2024,"Delhi",7,"State Highways",312,348,66
+885,2024,"Goa",30,"Expressways",0,0,0
+886,2024,"Goa",30,"National Highways",1023,365,117
+887,2024,"Goa",30,"Other Roads",1358,498,144
+888,2024,"Goa",30,"State Highways",301,184,28
+889,2024,"Gujarat",24,"Expressways",93,73,60
+890,2024,"Gujarat",24,"National Highways",3402,3032,2160
+891,2024,"Gujarat",24,"Other Roads",8269,7666,3272
+892,2024,"Gujarat",24,"State Highways",3824,4169,2225
+893,2024,"Haryana",6,"Expressways",217,178,186
+894,2024,"Haryana",6,"National Highways",3490,2859,1999
+895,2024,"Haryana",6,"Other Roads",5120,4010,2210
+896,2024,"Haryana",6,"State Highways",1742,1391,792
+897,2024,"Himachal Pradesh",2,"Expressways",0,0,0
+898,2024,"Himachal Pradesh",2,"National Highways",1074,1521,346
+899,2024,"Himachal Pradesh",2,"Other Roads",677,1008,345
+900,2024,"Himachal Pradesh",2,"State Highways",407,678,173
+901,2024,"Jammu And Kashmir",1,"Expressways",0,0,0
+902,2024,"Jammu And Kashmir",1,"National Highways",1820,2435,311
+903,2024,"Jammu And Kashmir",1,"Other Roads",3440,4631,460
+904,2024,"Jammu And Kashmir",1,"State Highways",517,780,69
+905,2024,"Jharkhand",20,"Expressways",0,0,0
+906,2024,"Jharkhand",20,"National Highways",2039,1105,1686
+907,2024,"Jharkhand",20,"Other Roads",1982,1330,1574
+908,2024,"Jharkhand",20,"State Highways",1175,831,854
+909,2024,"Karnataka",29,"Expressways",415,484,102
+910,2024,"Karnataka",29,"National Highways",13819,17779,4145
+911,2024,"Karnataka",29,"Other Roads",17988,19836,4627
+912,2024,"Karnataka",29,"State Highways",10840,14492,3516
+913,2024,"Kerala",32,"Expressways",0,0,0
+914,2024,"Kerala",32,"National Highways",9056,11105,945
+915,2024,"Kerala",32,"Other Roads",26020,29631,1950
+916,2024,"Kerala",32,"State Highways",11515,14075,981
+917,2024,"Ladakh",37,"Expressways",0,0,0
+918,2024,"Ladakh",37,"National Highways",154,174,45
+919,2024,"Ladakh",37,"Other Roads",25,29,0
+920,2024,"Ladakh",37,"State Highways",85,83,16
+921,2024,"Lakshadweep",31,"Expressways",0,0,0
+922,2024,"Lakshadweep",31,"National Highways",0,0,0
+923,2024,"Lakshadweep",31,"Other Roads",0,0,0
+924,2024,"Lakshadweep",31,"State Highways",0,0,0
+925,2024,"Madhya Pradesh",23,"Expressways",6,0,6
+926,2024,"Madhya Pradesh",23,"National Highways",13805,14114,4711
+927,2024,"Madhya Pradesh",23,"Other Roads",30399,30502,7010
+928,2024,"Madhya Pradesh",23,"State Highways",11501,11655,3425
+929,2024,"Maharashtra",27,"Expressways",261,282,174
+930,2024,"Maharashtra",27,"National Highways",8776,7519,5098
+931,2024,"Maharashtra",27,"Other Roads",15161,11754,6993
+932,2024,"Maharashtra",27,"State Highways",6437,5294,3623
+933,2024,"Manipur",14,"Expressways",0,0,0
+934,2024,"Manipur",14,"National Highways",210,325,47
+935,2024,"Manipur",14,"Other Roads",41,59,13
+936,2024,"Manipur",14,"State Highways",48,78,12
+937,2024,"Meghalaya",17,"Expressways",0,0,0
+938,2024,"Meghalaya",17,"National Highways",134,96,102
+939,2024,"Meghalaya",17,"Other Roads",93,84,70
+940,2024,"Meghalaya",17,"State Highways",41,46,24
+941,2024,"Mizoram",15,"Expressways",0,0,0
+942,2024,"Mizoram",15,"National Highways",38,27,42
+943,2024,"Mizoram",15,"Other Roads",12,26,13
+944,2024,"Mizoram",15,"State Highways",19,11,18
+945,2024,"Nagaland",13,"Expressways",0,0,0
+946,2024,"Nagaland",13,"National Highways",6,9,6
+947,2024,"Nagaland",13,"Other Roads",9,18,11
+948,2024,"Nagaland",13,"State Highways",8,0,8
+949,2024,"Odisha",21,"Expressways",84,55,57
+950,2024,"Odisha",21,"National Highways",4472,4202,2302
+951,2024,"Odisha",21,"Other Roads",5534,4645,2624
+952,2024,"Odisha",21,"State Highways",2285,1868,1159
+953,2024,"Puducherry",34,"Expressways",0,0,0
+954,2024,"Puducherry",34,"National Highways",563,582,61
+955,2024,"Puducherry",34,"Other Roads",738,893,69
+956,2024,"Puducherry",34,"State Highways",130,145,28
+957,2024,"Punjab",3,"Expressways",0,0,0
+958,2024,"Punjab",3,"National Highways",1683,1051,1413
+959,2024,"Punjab",3,"Other Roads",3306,1724,2576
+960,2024,"Punjab",3,"State Highways",1177,632,947
+961,2024,"Rajasthan",8,"Expressways",136,123,110
+962,2024,"Rajasthan",8,"National Highways",6756,6334,3929
+963,2024,"Rajasthan",8,"Other Roads",13009,11923,5184
+964,2024,"Rajasthan",8,"State Highways",4218,3994,2221
+965,2024,"Sikkim",11,"Expressways",0,0,0
+966,2024,"Sikkim",11,"National Highways",55,105,24
+967,2024,"Sikkim",11,"Other Roads",43,47,19
+968,2024,"Sikkim",11,"State Highways",48,93,28
+969,2024,"Tamil Nadu",33,"Expressways",0,0,0
+970,2024,"Tamil Nadu",33,"National Highways",20364,23136,6359
+971,2024,"Tamil Nadu",33,"Other Roads",25474,25283,5991
+972,2024,"Tamil Nadu",33,"State Highways",21688,23074,6099
+973,2024,"Telangana",36,"Expressways",5,3,1
+974,2024,"Telangana",36,"National Highways",8594,7873,3065
+975,2024,"Telangana",36,"Other Roads",15359,13967,4197
+976,2024,"Telangana",36,"State Highways",2028,1815,686
+977,2024,"The Dadra And Nagar Haveli And Daman And Diu",38,"Expressways",0,0,0
+978,2024,"The Dadra And Nagar Haveli And Daman And Diu",38,"National Highways",0,0,0
+979,2024,"The Dadra And Nagar Haveli And Daman And Diu",38,"Other Roads",89,82,58
+980,2024,"The Dadra And Nagar Haveli And Daman And Diu",38,"State Highways",55,39,35
+981,2024,"Tripura",16,"Expressways",0,0,0
+982,2024,"Tripura",16,"National Highways",243,286,112
+983,2024,"Tripura",16,"Other Roads",99,88,39
+984,2024,"Tripura",16,"State Highways",236,248,75
+985,2024,"Uttar Pradesh",9,"Expressways",2250,1879,1348
+986,2024,"Uttar Pradesh",9,"National Highways",12174,8102,7621
+987,2024,"Uttar Pradesh",9,"Other Roads",15538,10225,8369
+988,2024,"Uttar Pradesh",9,"State Highways",8455,5231,5585
+989,2024,"Uttarakhand",5,"Expressways",0,0,0
+990,2024,"Uttarakhand",5,"National Highways",819,783,511
+991,2024,"Uttarakhand",5,"Other Roads",476,352,303
+992,2024,"Uttarakhand",5,"State Highways",451,398,268
+993,2024,"West Bengal",19,"Expressways",83,43,65
+994,2024,"West Bengal",19,"National Highways",3272,2334,1651
+995,2024,"West Bengal",19,"Other Roads",5050,3621,2219
+996,2024,"West Bengal",19,"State Highways",2238,1672,1213

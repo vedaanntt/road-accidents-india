@@ -1,0 +1,1993 @@
+year,time,day_night,number_of_accidents,state
+2018,12 AM to 3 AM,Night,6,Andaman And Nicobar Islands
+2018,3 AM to 6 AM,Night,10,Andaman And Nicobar Islands
+2018,6 AM to 9 AM,Day,35,Andaman And Nicobar Islands
+2018,9 AM to 12 PM,Day,38,Andaman And Nicobar Islands
+2018,12 PM to 3 PM,Day,40,Andaman And Nicobar Islands
+2018,3 PM to 6 PM,Day,48,Andaman And Nicobar Islands
+2018,6 PM to 9 PM,Night,52,Andaman And Nicobar Islands
+2018,9 PM to 12 AM,Night,25,Andaman And Nicobar Islands
+2018,12 AM to 3 AM,Night,1241,Andhra Pradesh
+2018,3 AM to 6 AM,Night,1462,Andhra Pradesh
+2018,6 AM to 9 AM,Day,2309,Andhra Pradesh
+2018,9 AM to 12 PM,Day,2933,Andhra Pradesh
+2018,12 PM to 3 PM,Day,3229,Andhra Pradesh
+2018,3 PM to 6 PM,Day,3705,Andhra Pradesh
+2018,6 PM to 9 PM,Night,4007,Andhra Pradesh
+2018,9 PM to 12 AM,Night,2122,Andhra Pradesh
+2018,12 AM to 3 AM,Night,12,Arunachal Pradesh
+2018,3 AM to 6 AM,Night,12,Arunachal Pradesh
+2018,6 AM to 9 AM,Day,18,Arunachal Pradesh
+2018,9 AM to 12 PM,Day,28,Arunachal Pradesh
+2018,12 PM to 3 PM,Day,30,Arunachal Pradesh
+2018,3 PM to 6 PM,Day,63,Arunachal Pradesh
+2018,6 PM to 9 PM,Night,43,Arunachal Pradesh
+2018,9 PM to 12 AM,Night,23,Arunachal Pradesh
+2018,12 AM to 3 AM,Night,385,Assam
+2018,3 AM to 6 AM,Night,721,Assam
+2018,6 AM to 9 AM,Day,999,Assam
+2018,9 AM to 12 PM,Day,1166,Assam
+2018,12 PM to 3 PM,Day,985,Assam
+2018,3 PM to 6 PM,Day,1225,Assam
+2018,6 PM to 9 PM,Night,1002,Assam
+2018,9 PM to 12 AM,Night,697,Assam
+2018,12 AM to 3 AM,Night,477,Bihar
+2018,3 AM to 6 AM,Night,1131,Bihar
+2018,6 AM to 9 AM,Day,1714,Bihar
+2018,9 AM to 12 PM,Day,1851,Bihar
+2018,12 PM to 3 PM,Day,1483,Bihar
+2018,3 PM to 6 PM,Day,1329,Bihar
+2018,6 PM to 9 PM,Night,1065,Bihar
+2018,9 PM to 12 AM,Night,550,Bihar
+2018,12 AM to 3 AM,Night,38,Chandigarh
+2018,3 AM to 6 AM,Night,20,Chandigarh
+2018,6 AM to 9 AM,Day,104,Chandigarh
+2018,9 AM to 12 PM,Day,146,Chandigarh
+2018,12 PM to 3 PM,Day,66,Chandigarh
+2018,3 PM to 6 PM,Day,104,Chandigarh
+2018,6 PM to 9 PM,Night,86,Chandigarh
+2018,9 PM to 12 AM,Night,70,Chandigarh
+2018,12 AM to 3 AM,Night,673,Chhattisgarh
+2018,3 AM to 6 AM,Night,721,Chhattisgarh
+2018,6 AM to 9 AM,Day,1571,Chhattisgarh
+2018,9 AM to 12 PM,Day,1859,Chhattisgarh
+2018,12 PM to 3 PM,Day,2183,Chhattisgarh
+2018,3 PM to 6 PM,Day,2643,Chhattisgarh
+2018,6 PM to 9 PM,Night,2924,Chhattisgarh
+2018,9 PM to 12 AM,Night,1291,Chhattisgarh
+2018,12 AM to 3 AM,Night,1586,Delhi
+2018,3 AM to 6 AM,Night,1350,Delhi
+2018,6 AM to 9 AM,Day,1476,Delhi
+2018,9 AM to 12 PM,Day,1490,Delhi
+2018,12 PM to 3 PM,Day,1462,Delhi
+2018,3 PM to 6 PM,Day,1634,Delhi
+2018,6 PM to 9 PM,Night,2118,Delhi
+2018,9 PM to 12 AM,Night,1918,Delhi
+2018,12 AM to 3 AM,Night,279,Goa
+2018,3 AM to 6 AM,Night,212,Goa
+2018,6 AM to 9 AM,Day,389,Goa
+2018,9 AM to 12 PM,Day,564,Goa
+2018,12 PM to 3 PM,Day,538,Goa
+2018,3 PM to 6 PM,Day,632,Goa
+2018,6 PM to 9 PM,Night,648,Goa
+2018,9 PM to 12 AM,Night,448,Goa
+2018,12 AM to 3 AM,Night,1182,Gujarat
+2018,3 AM to 6 AM,Night,1101,Gujarat
+2018,6 AM to 9 AM,Day,1929,Gujarat
+2018,9 AM to 12 PM,Day,2862,Gujarat
+2018,12 PM to 3 PM,Day,2990,Gujarat
+2018,3 PM to 6 PM,Day,3129,Gujarat
+2018,6 PM to 9 PM,Night,3271,Gujarat
+2018,9 PM to 12 AM,Night,1950,Gujarat
+2018,12 AM to 3 AM,Night,883,Haryana
+2018,3 AM to 6 AM,Night,1053,Haryana
+2018,6 AM to 9 AM,Day,1360,Haryana
+2018,9 AM to 12 PM,Day,1535,Haryana
+2018,12 PM to 3 PM,Day,1733,Haryana
+2018,3 PM to 6 PM,Day,1661,Haryana
+2018,6 PM to 9 PM,Night,1923,Haryana
+2018,9 PM to 12 AM,Night,1504,Haryana
+2018,12 AM to 3 AM,Night,143,Himachal Pradesh
+2018,3 AM to 6 AM,Night,106,Himachal Pradesh
+2018,6 AM to 9 AM,Day,246,Himachal Pradesh
+2018,9 AM to 12 PM,Day,419,Himachal Pradesh
+2018,12 PM to 3 PM,Day,462,Himachal Pradesh
+2018,3 PM to 6 PM,Day,577,Himachal Pradesh
+2018,6 PM to 9 PM,Night,733,Himachal Pradesh
+2018,9 PM to 12 AM,Night,433,Himachal Pradesh
+2018,12 AM to 3 AM,Night,232,Jammu And Kashmir And Ladakh
+2018,3 AM to 6 AM,Night,338,Jammu And Kashmir And Ladakh
+2018,6 AM to 9 AM,Day,509,Jammu And Kashmir And Ladakh
+2018,9 AM to 12 PM,Day,999,Jammu And Kashmir And Ladakh
+2018,12 PM to 3 PM,Day,1182,Jammu And Kashmir And Ladakh
+2018,3 PM to 6 PM,Day,1276,Jammu And Kashmir And Ladakh
+2018,6 PM to 9 PM,Night,979,Jammu And Kashmir And Ladakh
+2018,9 PM to 12 AM,Night,482,Jammu And Kashmir And Ladakh
+2018,12 AM to 3 AM,Night,243,Jharkhand
+2018,3 AM to 6 AM,Night,304,Jharkhand
+2018,6 AM to 9 AM,Day,762,Jharkhand
+2018,9 AM to 12 PM,Day,953,Jharkhand
+2018,12 PM to 3 PM,Day,830,Jharkhand
+2018,3 PM to 6 PM,Day,976,Jharkhand
+2018,6 PM to 9 PM,Night,883,Jharkhand
+2018,9 PM to 12 AM,Night,443,Jharkhand
+2018,12 AM to 3 AM,Night,2137,Karnataka
+2018,3 AM to 6 AM,Night,2465,Karnataka
+2018,6 AM to 9 AM,Day,4411,Karnataka
+2018,9 AM to 12 PM,Day,6069,Karnataka
+2018,12 PM to 3 PM,Day,6428,Karnataka
+2018,3 PM to 6 PM,Day,7355,Karnataka
+2018,6 PM to 9 PM,Night,8238,Karnataka
+2018,9 PM to 12 AM,Night,4604,Karnataka
+2018,12 AM to 3 AM,Night,914,Kerala
+2018,3 AM to 6 AM,Night,1075,Kerala
+2018,6 AM to 9 AM,Day,4736,Kerala
+2018,9 AM to 12 PM,Day,7396,Kerala
+2018,12 PM to 3 PM,Day,6182,Kerala
+2018,3 PM to 6 PM,Day,8011,Kerala
+2018,6 PM to 9 PM,Night,8382,Kerala
+2018,9 PM to 12 AM,Night,3485,Kerala
+2018,12 AM to 3 AM,Night,0,Lakshadweep
+2018,3 AM to 6 AM,Night,0,Lakshadweep
+2018,6 AM to 9 AM,Day,0,Lakshadweep
+2018,9 AM to 12 PM,Day,0,Lakshadweep
+2018,12 PM to 3 PM,Day,1,Lakshadweep
+2018,3 PM to 6 PM,Day,1,Lakshadweep
+2018,6 PM to 9 PM,Night,1,Lakshadweep
+2018,9 PM to 12 AM,Night,0,Lakshadweep
+2018,12 AM to 3 AM,Night,2432,Madhya Pradesh
+2018,3 AM to 6 AM,Night,2166,Madhya Pradesh
+2018,6 AM to 9 AM,Day,4282,Madhya Pradesh
+2018,9 AM to 12 PM,Day,7376,Madhya Pradesh
+2018,12 PM to 3 PM,Day,8329,Madhya Pradesh
+2018,3 PM to 6 PM,Day,8641,Madhya Pradesh
+2018,6 PM to 9 PM,Night,8988,Madhya Pradesh
+2018,9 PM to 12 AM,Night,5255,Madhya Pradesh
+2018,12 AM to 3 AM,Night,2088,Maharashtra
+2018,3 AM to 6 AM,Night,2187,Maharashtra
+2018,6 AM to 9 AM,Day,2945,Maharashtra
+2018,9 AM to 12 PM,Day,3961,Maharashtra
+2018,12 PM to 3 PM,Day,4453,Maharashtra
+2018,3 PM to 6 PM,Day,4809,Maharashtra
+2018,6 PM to 9 PM,Night,5351,Maharashtra
+2018,9 PM to 12 AM,Night,3946,Maharashtra
+2018,12 AM to 3 AM,Night,36,Manipur
+2018,3 AM to 6 AM,Night,31,Manipur
+2018,6 AM to 9 AM,Day,59,Manipur
+2018,9 AM to 12 PM,Day,82,Manipur
+2018,12 PM to 3 PM,Day,96,Manipur
+2018,3 PM to 6 PM,Day,116,Manipur
+2018,6 PM to 9 PM,Night,130,Manipur
+2018,9 PM to 12 AM,Night,52,Manipur
+2018,12 AM to 3 AM,Night,24,Meghalaya
+2018,3 AM to 6 AM,Night,16,Meghalaya
+2018,6 AM to 9 AM,Day,18,Meghalaya
+2018,9 AM to 12 PM,Day,37,Meghalaya
+2018,12 PM to 3 PM,Day,38,Meghalaya
+2018,3 PM to 6 PM,Day,48,Meghalaya
+2018,6 PM to 9 PM,Night,43,Meghalaya
+2018,9 PM to 12 AM,Night,34,Meghalaya
+2018,12 AM to 3 AM,Night,3,Mizoram
+2018,3 AM to 6 AM,Night,5,Mizoram
+2018,6 AM to 9 AM,Day,6,Mizoram
+2018,9 AM to 12 PM,Day,6,Mizoram
+2018,12 PM to 3 PM,Day,7,Mizoram
+2018,3 PM to 6 PM,Day,12,Mizoram
+2018,6 PM to 9 PM,Night,7,Mizoram
+2018,9 PM to 12 AM,Night,4,Mizoram
+2018,12 AM to 3 AM,Night,3,Nagaland
+2018,3 AM to 6 AM,Night,4,Nagaland
+2018,6 AM to 9 AM,Day,5,Nagaland
+2018,9 AM to 12 PM,Day,3,Nagaland
+2018,12 PM to 3 PM,Day,6,Nagaland
+2018,3 PM to 6 PM,Day,10,Nagaland
+2018,6 PM to 9 PM,Night,8,Nagaland
+2018,9 PM to 12 AM,Night,11,Nagaland
+2018,12 AM to 3 AM,Night,680,Odisha
+2018,3 AM to 6 AM,Night,780,Odisha
+2018,6 AM to 9 AM,Day,1174,Odisha
+2018,9 AM to 12 PM,Day,1584,Odisha
+2018,12 PM to 3 PM,Day,1718,Odisha
+2018,3 PM to 6 PM,Day,1993,Odisha
+2018,6 PM to 9 PM,Night,2207,Odisha
+2018,9 PM to 12 AM,Night,1126,Odisha
+2018,12 AM to 3 AM,Night,58,Puducherry
+2018,3 AM to 6 AM,Night,88,Puducherry
+2018,6 AM to 9 AM,Day,230,Puducherry
+2018,9 AM to 12 PM,Day,301,Puducherry
+2018,12 PM to 3 PM,Day,151,Puducherry
+2018,3 PM to 6 PM,Day,297,Puducherry
+2018,6 PM to 9 PM,Night,346,Puducherry
+2018,9 PM to 12 AM,Night,126,Puducherry
+2018,12 AM to 3 AM,Night,504,Punjab
+2018,3 AM to 6 AM,Night,566,Punjab
+2018,6 AM to 9 AM,Day,818,Punjab
+2018,9 AM to 12 PM,Day,813,Punjab
+2018,12 PM to 3 PM,Day,773,Punjab
+2018,3 PM to 6 PM,Day,881,Punjab
+2018,6 PM to 9 PM,Night,1257,Punjab
+2018,9 PM to 12 AM,Night,812,Punjab
+2018,12 AM to 3 AM,Night,1112,Rajasthan
+2018,3 AM to 6 AM,Night,1281,Rajasthan
+2018,6 AM to 9 AM,Day,2150,Rajasthan
+2018,9 AM to 12 PM,Day,3116,Rajasthan
+2018,12 PM to 3 PM,Day,3565,Rajasthan
+2018,3 PM to 6 PM,Day,4123,Rajasthan
+2018,6 PM to 9 PM,Night,4184,Rajasthan
+2018,9 PM to 12 AM,Night,2212,Rajasthan
+2018,12 AM to 3 AM,Night,14,Sikkim
+2018,3 AM to 6 AM,Night,11,Sikkim
+2018,6 AM to 9 AM,Day,10,Sikkim
+2018,9 AM to 12 PM,Day,23,Sikkim
+2018,12 PM to 3 PM,Day,26,Sikkim
+2018,3 PM to 6 PM,Day,31,Sikkim
+2018,6 PM to 9 PM,Night,35,Sikkim
+2018,9 PM to 12 AM,Night,19,Sikkim
+2018,12 AM to 3 AM,Night,2450,Tamil Nadu
+2018,3 AM to 6 AM,Night,3319,Tamil Nadu
+2018,6 AM to 9 AM,Day,7657,Tamil Nadu
+2018,9 AM to 12 PM,Day,9384,Tamil Nadu
+2018,12 PM to 3 PM,Day,9478,Tamil Nadu
+2018,3 PM to 6 PM,Day,11171,Tamil Nadu
+2018,6 PM to 9 PM,Night,14238,Tamil Nadu
+2018,9 PM to 12 AM,Night,6223,Tamil Nadu
+2018,12 AM to 3 AM,Night,1043,Telangana
+2018,3 AM to 6 AM,Night,1183,Telangana
+2018,6 AM to 9 AM,Day,2372,Telangana
+2018,9 AM to 12 PM,Day,3196,Telangana
+2018,12 PM to 3 PM,Day,3442,Telangana
+2018,3 PM to 6 PM,Day,4249,Telangana
+2018,6 PM to 9 PM,Night,4485,Telangana
+2018,9 PM to 12 AM,Night,2260,Telangana
+2018,12 AM to 3 AM,Night,8,Dadra And Nagar Haveli And Daman And Diu
+2018,3 AM to 6 AM,Night,2,Dadra And Nagar Haveli And Daman And Diu
+2018,6 AM to 9 AM,Day,9,Dadra And Nagar Haveli And Daman And Diu
+2018,9 AM to 12 PM,Day,20,Dadra And Nagar Haveli And Daman And Diu
+2018,12 PM to 3 PM,Day,19,Dadra And Nagar Haveli And Daman And Diu
+2018,3 PM to 6 PM,Day,27,Dadra And Nagar Haveli And Daman And Diu
+2018,6 PM to 9 PM,Night,41,Dadra And Nagar Haveli And Daman And Diu
+2018,9 PM to 12 AM,Night,25,Dadra And Nagar Haveli And Daman And Diu
+2018,12 AM to 3 AM,Night,15,Tripura
+2018,3 AM to 6 AM,Night,7,Tripura
+2018,6 AM to 9 AM,Day,51,Tripura
+2018,9 AM to 12 PM,Day,79,Tripura
+2018,12 PM to 3 PM,Day,88,Tripura
+2018,3 PM to 6 PM,Day,111,Tripura
+2018,6 PM to 9 PM,Night,119,Tripura
+2018,9 PM to 12 AM,Night,81,Tripura
+2018,12 AM to 3 AM,Night,3468,Uttar Pradesh
+2018,3 AM to 6 AM,Night,3305,Uttar Pradesh
+2018,6 AM to 9 AM,Day,4289,Uttar Pradesh
+2018,9 AM to 12 PM,Day,4885,Uttar Pradesh
+2018,12 PM to 3 PM,Day,4590,Uttar Pradesh
+2018,3 PM to 6 PM,Day,5179,Uttar Pradesh
+2018,6 PM to 9 PM,Night,6300,Uttar Pradesh
+2018,9 PM to 12 AM,Night,4839,Uttar Pradesh
+2018,12 AM to 3 AM,Night,107,Uttarakhand
+2018,3 AM to 6 AM,Night,138,Uttarakhand
+2018,6 AM to 9 AM,Day,196,Uttarakhand
+2018,9 AM to 12 PM,Day,178,Uttarakhand
+2018,12 PM to 3 PM,Day,175,Uttarakhand
+2018,3 PM to 6 PM,Day,237,Uttarakhand
+2018,6 PM to 9 PM,Night,260,Uttarakhand
+2018,9 PM to 12 AM,Night,178,Uttarakhand
+2018,12 AM to 3 AM,Night,979,West Bengal
+2018,3 AM to 6 AM,Night,1137,West Bengal
+2018,6 AM to 9 AM,Day,1379,West Bengal
+2018,9 AM to 12 PM,Day,1720,West Bengal
+2018,12 PM to 3 PM,Day,1795,West Bengal
+2018,3 PM to 6 PM,Day,1794,West Bengal
+2018,6 PM to 9 PM,Night,1688,West Bengal
+2018,9 PM to 12 AM,Night,1335,West Bengal
+2019,12 AM to 3 AM,Night,858,Andhra Pradesh
+2019,3 AM to 6 AM,Night,1206,Andhra Pradesh
+2019,6 AM to 9 AM,Day,2311,Andhra Pradesh
+2019,9 AM to 12 PM,Day,2864,Andhra Pradesh
+2019,12 PM to 3 PM,Day,3261,Andhra Pradesh
+2019,3 PM to 6 PM,Day,3679,Andhra Pradesh
+2019,6 PM to 9 PM,Night,4425,Andhra Pradesh
+2019,9 PM to 12 AM,Night,2073,Andhra Pradesh
+2019,12 AM to 3 AM,Night,12,Arunachal Pradesh
+2019,3 AM to 6 AM,Night,12,Arunachal Pradesh
+2019,6 AM to 9 AM,Day,17,Arunachal Pradesh
+2019,9 AM to 12 PM,Day,24,Arunachal Pradesh
+2019,12 PM to 3 PM,Day,24,Arunachal Pradesh
+2019,3 PM to 6 PM,Day,52,Arunachal Pradesh
+2019,6 PM to 9 PM,Night,43,Arunachal Pradesh
+2019,9 PM to 12 AM,Night,16,Arunachal Pradesh
+2019,12 AM to 3 AM,Night,443,Assam
+2019,3 AM to 6 AM,Night,548,Assam
+2019,6 AM to 9 AM,Day,958,Assam
+2019,9 AM to 12 PM,Day,1481,Assam
+2019,12 PM to 3 PM,Day,1244,Assam
+2019,3 PM to 6 PM,Day,1420,Assam
+2019,6 PM to 9 PM,Night,1122,Assam
+2019,9 PM to 12 AM,Night,839,Assam
+2019,12 AM to 3 AM,Night,566,Bihar
+2019,3 AM to 6 AM,Night,1665,Bihar
+2019,6 AM to 9 AM,Day,1627,Bihar
+2019,9 AM to 12 PM,Day,1630,Bihar
+2019,12 PM to 3 PM,Day,1201,Bihar
+2019,3 PM to 6 PM,Day,1485,Bihar
+2019,6 PM to 9 PM,Night,1255,Bihar
+2019,9 PM to 12 AM,Night,578,Bihar
+2019,12 AM to 3 AM,Night,32,Chandigarh
+2019,3 AM to 6 AM,Night,14,Chandigarh
+2019,6 AM to 9 AM,Day,92,Chandigarh
+2019,9 AM to 12 PM,Day,72,Chandigarh
+2019,12 PM to 3 PM,Day,78,Chandigarh
+2019,3 PM to 6 PM,Day,86,Chandigarh
+2019,6 PM to 9 PM,Night,130,Chandigarh
+2019,9 PM to 12 AM,Night,104,Chandigarh
+2019,12 AM to 3 AM,Night,563,Chhattisgarh
+2019,3 AM to 6 AM,Night,632,Chhattisgarh
+2019,6 AM to 9 AM,Day,1515,Chhattisgarh
+2019,9 AM to 12 PM,Day,2107,Chhattisgarh
+2019,12 PM to 3 PM,Day,2226,Chhattisgarh
+2019,3 PM to 6 PM,Day,2598,Chhattisgarh
+2019,6 PM to 9 PM,Night,2882,Chhattisgarh
+2019,9 PM to 12 AM,Night,1376,Chhattisgarh
+2019,12 AM to 3 AM,Night,1042,Delhi
+2019,3 AM to 6 AM,Night,964,Delhi
+2019,6 AM to 9 AM,Day,1290,Delhi
+2019,9 AM to 12 PM,Day,1416,Delhi
+2019,12 PM to 3 PM,Day,1338,Delhi
+2019,3 PM to 6 PM,Day,1470,Delhi
+2019,6 PM to 9 PM,Night,1892,Delhi
+2019,9 PM to 12 AM,Night,1790,Delhi
+2019,12 AM to 3 AM,Night,245,Goa
+2019,3 AM to 6 AM,Night,150,Goa
+2019,6 AM to 9 AM,Day,306,Goa
+2019,9 AM to 12 PM,Day,528,Goa
+2019,12 PM to 3 PM,Day,563,Goa
+2019,3 PM to 6 PM,Day,595,Goa
+2019,6 PM to 9 PM,Night,635,Goa
+2019,9 PM to 12 AM,Night,418,Goa
+2019,12 AM to 3 AM,Night,906,Gujarat
+2019,3 AM to 6 AM,Night,808,Gujarat
+2019,6 AM to 9 AM,Day,1643,Gujarat
+2019,9 AM to 12 PM,Day,2586,Gujarat
+2019,12 PM to 3 PM,Day,2576,Gujarat
+2019,3 PM to 6 PM,Day,2750,Gujarat
+2019,6 PM to 9 PM,Night,3396,Gujarat
+2019,9 PM to 12 AM,Night,1838,Gujarat
+2019,12 AM to 3 AM,Night,740,Haryana
+2019,3 AM to 6 AM,Night,927,Haryana
+2019,6 AM to 9 AM,Day,1281,Haryana
+2019,9 AM to 12 PM,Day,1477,Haryana
+2019,12 PM to 3 PM,Day,1552,Haryana
+2019,3 PM to 6 PM,Day,1738,Haryana
+2019,6 PM to 9 PM,Night,1946,Haryana
+2019,9 PM to 12 AM,Night,1276,Haryana
+2019,12 AM to 3 AM,Night,136,Himachal Pradesh
+2019,3 AM to 6 AM,Night,91,Himachal Pradesh
+2019,6 AM to 9 AM,Day,220,Himachal Pradesh
+2019,9 AM to 12 PM,Day,372,Himachal Pradesh
+2019,12 PM to 3 PM,Day,430,Himachal Pradesh
+2019,3 PM to 6 PM,Day,575,Himachal Pradesh
+2019,6 PM to 9 PM,Night,679,Himachal Pradesh
+2019,9 PM to 12 AM,Night,393,Himachal Pradesh
+2019,12 AM to 3 AM,Night,191,Jammu And Kashmir And Ladakh
+2019,3 AM to 6 AM,Night,250,Jammu And Kashmir And Ladakh
+2019,6 AM to 9 AM,Day,531,Jammu And Kashmir And Ladakh
+2019,9 AM to 12 PM,Day,1088,Jammu And Kashmir And Ladakh
+2019,12 PM to 3 PM,Day,1182,Jammu And Kashmir And Ladakh
+2019,3 PM to 6 PM,Day,1145,Jammu And Kashmir And Ladakh
+2019,6 PM to 9 PM,Night,935,Jammu And Kashmir And Ladakh
+2019,9 PM to 12 AM,Night,473,Jammu And Kashmir And Ladakh
+2019,12 AM to 3 AM,Night,317,Jharkhand
+2019,3 AM to 6 AM,Night,499,Jharkhand
+2019,6 AM to 9 AM,Day,708,Jharkhand
+2019,9 AM to 12 PM,Day,828,Jharkhand
+2019,12 PM to 3 PM,Day,837,Jharkhand
+2019,3 PM to 6 PM,Day,804,Jharkhand
+2019,6 PM to 9 PM,Night,809,Jharkhand
+2019,9 PM to 12 AM,Night,415,Jharkhand
+2019,12 AM to 3 AM,Night,1870,Karnataka
+2019,3 AM to 6 AM,Night,2052,Karnataka
+2019,6 AM to 9 AM,Day,4319,Karnataka
+2019,9 AM to 12 PM,Day,6026,Karnataka
+2019,12 PM to 3 PM,Day,6590,Karnataka
+2019,3 PM to 6 PM,Day,7164,Karnataka
+2019,6 PM to 9 PM,Night,8197,Karnataka
+2019,9 PM to 12 AM,Night,4426,Karnataka
+2019,12 AM to 3 AM,Night,1063,Kerala
+2019,3 AM to 6 AM,Night,1394,Kerala
+2019,6 AM to 9 AM,Day,4866,Kerala
+2019,9 AM to 12 PM,Day,7312,Kerala
+2019,12 PM to 3 PM,Day,6199,Kerala
+2019,3 PM to 6 PM,Day,7862,Kerala
+2019,6 PM to 9 PM,Night,7962,Kerala
+2019,9 PM to 12 AM,Night,3286,Kerala
+2019,12 AM to 3 AM,Night,0,Lakshadweep
+2019,3 AM to 6 AM,Night,0,Lakshadweep
+2019,6 AM to 9 AM,Day,0,Lakshadweep
+2019,9 AM to 12 PM,Day,1,Lakshadweep
+2019,12 PM to 3 PM,Day,0,Lakshadweep
+2019,3 PM to 6 PM,Day,0,Lakshadweep
+2019,6 PM to 9 PM,Night,0,Lakshadweep
+2019,9 PM to 12 AM,Night,0,Lakshadweep
+2019,12 AM to 3 AM,Night,2720,Madhya Pradesh
+2019,3 AM to 6 AM,Night,2467,Madhya Pradesh
+2019,6 AM to 9 AM,Day,4936,Madhya Pradesh
+2019,9 AM to 12 PM,Day,7616,Madhya Pradesh
+2019,12 PM to 3 PM,Day,8884,Madhya Pradesh
+2019,3 PM to 6 PM,Day,9284,Madhya Pradesh
+2019,6 PM to 9 PM,Night,9767,Madhya Pradesh
+2019,9 PM to 12 AM,Night,5967,Madhya Pradesh
+2019,12 AM to 3 AM,Night,2047,Maharashtra
+2019,3 AM to 6 AM,Night,2040,Maharashtra
+2019,6 AM to 9 AM,Day,2694,Maharashtra
+2019,9 AM to 12 PM,Day,3771,Maharashtra
+2019,12 PM to 3 PM,Day,4107,Maharashtra
+2019,3 PM to 6 PM,Day,4509,Maharashtra
+2019,6 PM to 9 PM,Night,4801,Maharashtra
+2019,9 PM to 12 AM,Night,3317,Maharashtra
+2019,12 AM to 3 AM,Night,14,Manipur
+2019,3 AM to 6 AM,Night,16,Manipur
+2019,6 AM to 9 AM,Day,81,Manipur
+2019,9 AM to 12 PM,Day,101,Manipur
+2019,12 PM to 3 PM,Day,127,Manipur
+2019,3 PM to 6 PM,Day,127,Manipur
+2019,6 PM to 9 PM,Night,143,Manipur
+2019,9 PM to 12 AM,Night,63,Manipur
+2019,12 AM to 3 AM,Night,17,Meghalaya
+2019,3 AM to 6 AM,Night,22,Meghalaya
+2019,6 AM to 9 AM,Day,25,Meghalaya
+2019,9 AM to 12 PM,Day,28,Meghalaya
+2019,12 PM to 3 PM,Day,33,Meghalaya
+2019,3 PM to 6 PM,Day,39,Meghalaya
+2019,6 PM to 9 PM,Night,36,Meghalaya
+2019,9 PM to 12 AM,Night,36,Meghalaya
+2019,12 AM to 3 AM,Night,3,Mizoram
+2019,3 AM to 6 AM,Night,7,Mizoram
+2019,6 AM to 9 AM,Day,3,Mizoram
+2019,9 AM to 12 PM,Day,9,Mizoram
+2019,12 PM to 3 PM,Day,4,Mizoram
+2019,3 PM to 6 PM,Day,12,Mizoram
+2019,6 PM to 9 PM,Night,9,Mizoram
+2019,9 PM to 12 AM,Night,10,Mizoram
+2019,12 AM to 3 AM,Night,0,Nagaland
+2019,3 AM to 6 AM,Night,1,Nagaland
+2019,6 AM to 9 AM,Day,3,Nagaland
+2019,9 AM to 12 PM,Day,6,Nagaland
+2019,12 PM to 3 PM,Day,5,Nagaland
+2019,3 PM to 6 PM,Day,5,Nagaland
+2019,6 PM to 9 PM,Night,5,Nagaland
+2019,9 PM to 12 AM,Night,1,Nagaland
+2019,12 AM to 3 AM,Night,1023,Odisha
+2019,3 AM to 6 AM,Night,1193,Odisha
+2019,6 AM to 9 AM,Day,1399,Odisha
+2019,9 AM to 12 PM,Day,1367,Odisha
+2019,12 PM to 3 PM,Day,1359,Odisha
+2019,3 PM to 6 PM,Day,1456,Odisha
+2019,6 PM to 9 PM,Night,1485,Odisha
+2019,9 PM to 12 AM,Night,1782,Odisha
+2019,12 AM to 3 AM,Night,180,Puducherry
+2019,3 AM to 6 AM,Night,185,Puducherry
+2019,6 AM to 9 AM,Day,180,Puducherry
+2019,9 AM to 12 PM,Day,190,Puducherry
+2019,12 PM to 3 PM,Day,201,Puducherry
+2019,3 PM to 6 PM,Day,190,Puducherry
+2019,6 PM to 9 PM,Night,114,Puducherry
+2019,9 PM to 12 AM,Night,152,Puducherry
+2019,12 AM to 3 AM,Night,347,Punjab
+2019,3 AM to 6 AM,Night,414,Punjab
+2019,6 AM to 9 AM,Day,705,Punjab
+2019,9 AM to 12 PM,Day,824,Punjab
+2019,12 PM to 3 PM,Day,867,Punjab
+2019,3 PM to 6 PM,Day,967,Punjab
+2019,6 PM to 9 PM,Night,1215,Punjab
+2019,9 PM to 12 AM,Night,977,Punjab
+2019,12 AM to 3 AM,Night,1048,Rajasthan
+2019,3 AM to 6 AM,Night,1200,Rajasthan
+2019,6 AM to 9 AM,Day,2503,Rajasthan
+2019,9 AM to 12 PM,Day,3395,Rajasthan
+2019,12 PM to 3 PM,Day,4022,Rajasthan
+2019,3 PM to 6 PM,Day,4702,Rajasthan
+2019,6 PM to 9 PM,Night,4369,Rajasthan
+2019,9 PM to 12 AM,Night,2239,Rajasthan
+2019,12 AM to 3 AM,Night,5,Sikkim
+2019,3 AM to 6 AM,Night,6,Sikkim
+2019,6 AM to 9 AM,Day,11,Sikkim
+2019,9 AM to 12 PM,Day,28,Sikkim
+2019,12 PM to 3 PM,Day,37,Sikkim
+2019,3 PM to 6 PM,Day,33,Sikkim
+2019,6 PM to 9 PM,Night,41,Sikkim
+2019,9 PM to 12 AM,Night,11,Sikkim
+2019,12 AM to 3 AM,Night,2008,Tamil Nadu
+2019,3 AM to 6 AM,Night,2781,Tamil Nadu
+2019,6 AM to 9 AM,Day,6768,Tamil Nadu
+2019,9 AM to 12 PM,Day,8190,Tamil Nadu
+2019,12 PM to 3 PM,Day,8109,Tamil Nadu
+2019,3 PM to 6 PM,Day,9971,Tamil Nadu
+2019,6 PM to 9 PM,Night,13143,Tamil Nadu
+2019,9 PM to 12 AM,Night,6258,Tamil Nadu
+2019,12 AM to 3 AM,Night,1124,Telangana
+2019,3 AM to 6 AM,Night,991,Telangana
+2019,6 AM to 9 AM,Day,2227,Telangana
+2019,9 AM to 12 PM,Day,3105,Telangana
+2019,12 PM to 3 PM,Day,3260,Telangana
+2019,3 PM to 6 PM,Day,4131,Telangana
+2019,6 PM to 9 PM,Night,4489,Telangana
+2019,9 PM to 12 AM,Night,2243,Telangana
+2019,12 AM to 3 AM,Night,9,Dadra And Nagar Haveli And Daman And Diu
+2019,3 AM to 6 AM,Night,3,Dadra And Nagar Haveli And Daman And Diu
+2019,6 AM to 9 AM,Day,6,Dadra And Nagar Haveli And Daman And Diu
+2019,9 AM to 12 PM,Day,8,Dadra And Nagar Haveli And Daman And Diu
+2019,12 PM to 3 PM,Day,24,Dadra And Nagar Haveli And Daman And Diu
+2019,3 PM to 6 PM,Day,32,Dadra And Nagar Haveli And Daman And Diu
+2019,6 PM to 9 PM,Night,25,Dadra And Nagar Haveli And Daman And Diu
+2019,9 PM to 12 AM,Night,24,Dadra And Nagar Haveli And Daman And Diu
+2019,12 AM to 3 AM,Night,13,Tripura
+2019,3 AM to 6 AM,Night,8,Tripura
+2019,6 AM to 9 AM,Day,59,Tripura
+2019,9 AM to 12 PM,Day,128,Tripura
+2019,12 PM to 3 PM,Day,133,Tripura
+2019,3 PM to 6 PM,Day,149,Tripura
+2019,6 PM to 9 PM,Night,114,Tripura
+2019,9 PM to 12 AM,Night,51,Tripura
+2019,12 AM to 3 AM,Night,3612,Uttar Pradesh
+2019,3 AM to 6 AM,Night,3701,Uttar Pradesh
+2019,6 AM to 9 AM,Day,4401,Uttar Pradesh
+2019,9 AM to 12 PM,Day,4953,Uttar Pradesh
+2019,12 PM to 3 PM,Day,4962,Uttar Pradesh
+2019,3 PM to 6 PM,Day,5476,Uttar Pradesh
+2019,6 PM to 9 PM,Night,5823,Uttar Pradesh
+2019,9 PM to 12 AM,Night,4609,Uttar Pradesh
+2019,12 AM to 3 AM,Night,115,Uttarakhand
+2019,3 AM to 6 AM,Night,116,Uttarakhand
+2019,6 AM to 9 AM,Day,152,Uttarakhand
+2019,9 AM to 12 PM,Day,185,Uttarakhand
+2019,12 PM to 3 PM,Day,209,Uttarakhand
+2019,3 PM to 6 PM,Day,202,Uttarakhand
+2019,6 PM to 9 PM,Night,200,Uttarakhand
+2019,9 PM to 12 AM,Night,173,Uttarakhand
+2019,12 AM to 3 AM,Night,944,West Bengal
+2019,3 AM to 6 AM,Night,992,West Bengal
+2019,6 AM to 9 AM,Day,1345,West Bengal
+2019,9 AM to 12 PM,Day,1821,West Bengal
+2019,12 PM to 3 PM,Day,1742,West Bengal
+2019,3 PM to 6 PM,Day,1990,West Bengal
+2019,6 PM to 9 PM,Night,1979,West Bengal
+2019,9 PM to 12 AM,Night,1420,West Bengal
+2020,12 AM to 3 AM,Night,1,Andaman And Nicobar Islands
+2020,3 AM to 6 AM,Night,3,Andaman And Nicobar Islands
+2020,6 AM to 9 AM,Day,10,Andaman And Nicobar Islands
+2020,9 AM to 12 PM,Day,14,Andaman And Nicobar Islands
+2020,12 PM to 3 PM,Day,28,Andaman And Nicobar Islands
+2020,3 PM to 6 PM,Day,29,Andaman And Nicobar Islands
+2020,6 PM to 9 PM,Night,41,Andaman And Nicobar Islands
+2020,9 PM to 12 AM,Night,15,Andaman And Nicobar Islands
+2020,12 AM to 3 AM,Night,483,Andhra Pradesh
+2020,3 AM to 6 AM,Night,966,Andhra Pradesh
+2020,6 AM to 9 AM,Day,2242,Andhra Pradesh
+2020,9 AM to 12 PM,Day,2776,Andhra Pradesh
+2020,12 PM to 3 PM,Day,2748,Andhra Pradesh
+2020,3 PM to 6 PM,Day,3476,Andhra Pradesh
+2020,6 PM to 9 PM,Night,3793,Andhra Pradesh
+2020,9 PM to 12 AM,Night,1440,Andhra Pradesh
+2020,12 AM to 3 AM,Night,7,Arunachal Pradesh
+2020,3 AM to 6 AM,Night,4,Arunachal Pradesh
+2020,6 AM to 9 AM,Day,15,Arunachal Pradesh
+2020,9 AM to 12 PM,Day,22,Arunachal Pradesh
+2020,12 PM to 3 PM,Day,24,Arunachal Pradesh
+2020,3 PM to 6 PM,Day,34,Arunachal Pradesh
+2020,6 PM to 9 PM,Night,34,Arunachal Pradesh
+2020,9 PM to 12 AM,Night,19,Arunachal Pradesh
+2020,12 AM to 3 AM,Night,495,Assam
+2020,3 AM to 6 AM,Night,577,Assam
+2020,6 AM to 9 AM,Day,726,Assam
+2020,9 AM to 12 PM,Day,1205,Assam
+2020,12 PM to 3 PM,Day,1114,Assam
+2020,3 PM to 6 PM,Day,1087,Assam
+2020,6 PM to 9 PM,Night,915,Assam
+2020,9 PM to 12 AM,Night,618,Assam
+2020,12 AM to 3 AM,Night,422,Bihar
+2020,3 AM to 6 AM,Night,837,Bihar
+2020,6 AM to 9 AM,Day,1100,Bihar
+2020,9 AM to 12 PM,Day,1599,Bihar
+2020,12 PM to 3 PM,Day,1093,Bihar
+2020,3 PM to 6 PM,Day,1829,Bihar
+2020,6 PM to 9 PM,Night,1178,Bihar
+2020,9 PM to 12 AM,Night,581,Bihar
+2020,12 AM to 3 AM,Night,16,Chandigarh
+2020,3 AM to 6 AM,Night,12,Chandigarh
+2020,6 AM to 9 AM,Day,30,Chandigarh
+2020,9 AM to 12 PM,Day,24,Chandigarh
+2020,12 PM to 3 PM,Day,28,Chandigarh
+2020,3 PM to 6 PM,Day,48,Chandigarh
+2020,6 PM to 9 PM,Night,80,Chandigarh
+2020,9 PM to 12 AM,Night,76,Chandigarh
+2020,12 AM to 3 AM,Night,598,Chhattisgarh
+2020,3 AM to 6 AM,Night,738,Chhattisgarh
+2020,6 AM to 9 AM,Day,1225,Chhattisgarh
+2020,9 AM to 12 PM,Day,1808,Chhattisgarh
+2020,12 PM to 3 PM,Day,2083,Chhattisgarh
+2020,3 PM to 6 PM,Day,2228,Chhattisgarh
+2020,6 PM to 9 PM,Night,2082,Chhattisgarh
+2020,9 PM to 12 AM,Night,912,Chhattisgarh
+2020,12 AM to 3 AM,Night,892,Delhi
+2020,3 AM to 6 AM,Night,680,Delhi
+2020,6 AM to 9 AM,Day,940,Delhi
+2020,9 AM to 12 PM,Day,1116,Delhi
+2020,12 PM to 3 PM,Day,908,Delhi
+2020,3 PM to 6 PM,Day,1066,Delhi
+2020,6 PM to 9 PM,Night,1310,Delhi
+2020,9 PM to 12 AM,Night,1462,Delhi
+2020,12 AM to 3 AM,Night,175,Goa
+2020,3 AM to 6 AM,Night,95,Goa
+2020,6 AM to 9 AM,Day,208,Goa
+2020,9 AM to 12 PM,Day,372,Goa
+2020,12 PM to 3 PM,Day,338,Goa
+2020,3 PM to 6 PM,Day,413,Goa
+2020,6 PM to 9 PM,Night,463,Goa
+2020,9 PM to 12 AM,Night,311,Goa
+2020,12 AM to 3 AM,Night,777,Gujarat
+2020,3 AM to 6 AM,Night,808,Gujarat
+2020,6 AM to 9 AM,Day,1476,Gujarat
+2020,9 AM to 12 PM,Day,2035,Gujarat
+2020,12 PM to 3 PM,Day,2207,Gujarat
+2020,3 PM to 6 PM,Day,2272,Gujarat
+2020,6 PM to 9 PM,Night,2616,Gujarat
+2020,9 PM to 12 AM,Night,1216,Gujarat
+2020,12 AM to 3 AM,Night,547,Haryana
+2020,3 AM to 6 AM,Night,800,Haryana
+2020,6 AM to 9 AM,Day,1110,Haryana
+2020,9 AM to 12 PM,Day,1216,Haryana
+2020,12 PM to 3 PM,Day,1299,Haryana
+2020,3 PM to 6 PM,Day,1453,Haryana
+2020,6 PM to 9 PM,Night,1876,Haryana
+2020,9 PM to 12 AM,Night,1205,Haryana
+2020,12 AM to 3 AM,Night,101,Himachal Pradesh
+2020,3 AM to 6 AM,Night,47,Himachal Pradesh
+2020,6 AM to 9 AM,Day,190,Himachal Pradesh
+2020,9 AM to 12 PM,Day,283,Himachal Pradesh
+2020,12 PM to 3 PM,Day,292,Himachal Pradesh
+2020,3 PM to 6 PM,Day,471,Himachal Pradesh
+2020,6 PM to 9 PM,Night,545,Himachal Pradesh
+2020,9 PM to 12 AM,Night,306,Himachal Pradesh
+2020,12 AM to 3 AM,Night,99,Jammu And Kashmir And Ladakh
+2020,3 AM to 6 AM,Night,154,Jammu And Kashmir And Ladakh
+2020,6 AM to 9 AM,Day,601,Jammu And Kashmir And Ladakh
+2020,9 AM to 12 PM,Day,908,Jammu And Kashmir And Ladakh
+2020,12 PM to 3 PM,Day,1018,Jammu And Kashmir And Ladakh
+2020,3 PM to 6 PM,Day,1024,Jammu And Kashmir And Ladakh
+2020,6 PM to 9 PM,Night,778,Jammu And Kashmir And Ladakh
+2020,9 PM to 12 AM,Night,279,Jammu And Kashmir And Ladakh
+2020,12 AM to 3 AM,Night,213,Jharkhand
+2020,3 AM to 6 AM,Night,266,Jharkhand
+2020,6 AM to 9 AM,Day,575,Jharkhand
+2020,9 AM to 12 PM,Day,827,Jharkhand
+2020,12 PM to 3 PM,Day,817,Jharkhand
+2020,3 PM to 6 PM,Day,698,Jharkhand
+2020,6 PM to 9 PM,Night,664,Jharkhand
+2020,9 PM to 12 AM,Night,345,Jharkhand
+2020,12 AM to 3 AM,Night,1835,Karnataka
+2020,3 AM to 6 AM,Night,1921,Karnataka
+2020,6 AM to 9 AM,Day,3459,Karnataka
+2020,9 AM to 12 PM,Day,5098,Karnataka
+2020,12 PM to 3 PM,Day,5630,Karnataka
+2020,3 PM to 6 PM,Day,5774,Karnataka
+2020,6 PM to 9 PM,Night,6914,Karnataka
+2020,9 PM to 12 AM,Night,3547,Karnataka
+2020,12 AM to 3 AM,Night,630,Kerala
+2020,3 AM to 6 AM,Night,958,Kerala
+2020,6 AM to 9 AM,Day,3517,Kerala
+2020,9 AM to 12 PM,Day,5141,Kerala
+2020,12 PM to 3 PM,Day,4216,Kerala
+2020,3 PM to 6 PM,Day,5635,Kerala
+2020,6 PM to 9 PM,Night,5690,Kerala
+2020,9 PM to 12 AM,Night,2012,Kerala
+2020,12 AM to 3 AM,Night,0,Jammu And Kashmir And Ladakh
+2020,3 AM to 6 AM,Night,2,Jammu And Kashmir And Ladakh
+2020,6 AM to 9 AM,Day,17,Jammu And Kashmir And Ladakh
+2020,9 AM to 12 PM,Day,33,Jammu And Kashmir And Ladakh
+2020,12 PM to 3 PM,Day,33,Jammu And Kashmir And Ladakh
+2020,3 PM to 6 PM,Day,25,Jammu And Kashmir And Ladakh
+2020,6 PM to 9 PM,Night,19,Jammu And Kashmir And Ladakh
+2020,9 PM to 12 AM,Night,10,Jammu And Kashmir And Ladakh
+2020,12 AM to 3 AM,Night,0,Lakshadweep
+2020,3 AM to 6 AM,Night,0,Lakshadweep
+2020,6 AM to 9 AM,Day,0,Lakshadweep
+2020,9 AM to 12 PM,Day,0,Lakshadweep
+2020,12 PM to 3 PM,Day,0,Lakshadweep
+2020,3 PM to 6 PM,Day,1,Lakshadweep
+2020,6 PM to 9 PM,Night,0,Lakshadweep
+2020,9 PM to 12 AM,Night,0,Lakshadweep
+2020,12 AM to 3 AM,Night,1994,Madhya Pradesh
+2020,3 AM to 6 AM,Night,1731,Madhya Pradesh
+2020,6 AM to 9 AM,Day,3672,Madhya Pradesh
+2020,9 AM to 12 PM,Day,5860,Madhya Pradesh
+2020,12 PM to 3 PM,Day,7190,Madhya Pradesh
+2020,3 PM to 6 PM,Day,7994,Madhya Pradesh
+2020,6 PM to 9 PM,Night,9008,Madhya Pradesh
+2020,9 PM to 12 AM,Night,4947,Madhya Pradesh
+2020,12 AM to 3 AM,Night,1442,Maharashtra
+2020,3 AM to 6 AM,Night,1299,Maharashtra
+2020,6 AM to 9 AM,Day,2301,Maharashtra
+2020,9 AM to 12 PM,Day,3058,Maharashtra
+2020,12 PM to 3 PM,Day,3369,Maharashtra
+2020,3 PM to 6 PM,Day,3712,Maharashtra
+2020,6 PM to 9 PM,Night,4365,Maharashtra
+2020,9 PM to 12 AM,Night,2665,Maharashtra
+2020,12 AM to 3 AM,Night,8,Manipur
+2020,3 AM to 6 AM,Night,5,Manipur
+2020,6 AM to 9 AM,Day,52,Manipur
+2020,9 AM to 12 PM,Day,71,Manipur
+2020,12 PM to 3 PM,Day,71,Manipur
+2020,3 PM to 6 PM,Day,95,Manipur
+2020,6 PM to 9 PM,Night,91,Manipur
+2020,9 PM to 12 AM,Night,39,Manipur
+2020,12 AM to 3 AM,Night,15,Meghalaya
+2020,3 AM to 6 AM,Night,14,Meghalaya
+2020,6 AM to 9 AM,Day,18,Meghalaya
+2020,9 AM to 12 PM,Day,24,Meghalaya
+2020,12 PM to 3 PM,Day,26,Meghalaya
+2020,3 PM to 6 PM,Day,29,Meghalaya
+2020,6 PM to 9 PM,Night,42,Meghalaya
+2020,9 PM to 12 AM,Night,37,Meghalaya
+2020,12 AM to 3 AM,Night,2,Mizoram
+2020,3 AM to 6 AM,Night,1,Mizoram
+2020,6 AM to 9 AM,Day,5,Mizoram
+2020,9 AM to 12 PM,Day,11,Mizoram
+2020,12 PM to 3 PM,Day,8,Mizoram
+2020,3 PM to 6 PM,Day,7,Mizoram
+2020,6 PM to 9 PM,Night,5,Mizoram
+2020,9 PM to 12 AM,Night,8,Mizoram
+2020,12 AM to 3 AM,Night,1,Nagaland
+2020,3 AM to 6 AM,Night,1,Nagaland
+2020,6 AM to 9 AM,Day,1,Nagaland
+2020,9 AM to 12 PM,Day,2,Nagaland
+2020,12 PM to 3 PM,Day,6,Nagaland
+2020,3 PM to 6 PM,Day,9,Nagaland
+2020,6 PM to 9 PM,Night,3,Nagaland
+2020,9 PM to 12 AM,Night,4,Nagaland
+2020,12 AM to 3 AM,Night,480,Odisha
+2020,3 AM to 6 AM,Night,646,Odisha
+2020,6 AM to 9 AM,Day,947,Odisha
+2020,9 AM to 12 PM,Day,1426,Odisha
+2020,12 PM to 3 PM,Day,1646,Odisha
+2020,3 PM to 6 PM,Day,1885,Odisha
+2020,6 PM to 9 PM,Night,1849,Odisha
+2020,9 PM to 12 AM,Night,938,Odisha
+2020,12 AM to 3 AM,Night,112,Puducherry
+2020,3 AM to 6 AM,Night,123,Puducherry
+2020,6 AM to 9 AM,Day,106,Puducherry
+2020,9 AM to 12 PM,Day,121,Puducherry
+2020,12 PM to 3 PM,Day,130,Puducherry
+2020,3 PM to 6 PM,Day,115,Puducherry
+2020,6 PM to 9 PM,Night,130,Puducherry
+2020,9 PM to 12 AM,Night,132,Puducherry
+2020,12 AM to 3 AM,Night,348,Punjab
+2020,3 AM to 6 AM,Night,494,Punjab
+2020,6 AM to 9 AM,Day,620,Punjab
+2020,9 AM to 12 PM,Day,737,Punjab
+2020,12 PM to 3 PM,Day,638,Punjab
+2020,3 PM to 6 PM,Day,742,Punjab
+2020,6 PM to 9 PM,Night,986,Punjab
+2020,9 PM to 12 AM,Night,608,Punjab
+2020,12 AM to 3 AM,Night,758,Rajasthan
+2020,3 AM to 6 AM,Night,893,Rajasthan
+2020,6 AM to 9 AM,Day,2106,Rajasthan
+2020,9 AM to 12 PM,Day,2830,Rajasthan
+2020,12 PM to 3 PM,Day,3043,Rajasthan
+2020,3 PM to 6 PM,Day,3647,Rajasthan
+2020,6 PM to 9 PM,Night,3742,Rajasthan
+2020,9 PM to 12 AM,Night,2102,Rajasthan
+2020,12 AM to 3 AM,Night,6,Sikkim
+2020,3 AM to 6 AM,Night,1,Sikkim
+2020,6 AM to 9 AM,Day,14,Sikkim
+2020,9 AM to 12 PM,Day,17,Sikkim
+2020,12 PM to 3 PM,Day,17,Sikkim
+2020,3 PM to 6 PM,Day,17,Sikkim
+2020,6 PM to 9 PM,Night,19,Sikkim
+2020,9 PM to 12 AM,Night,17,Sikkim
+2020,12 AM to 3 AM,Night,1906,Tamil Nadu
+2020,3 AM to 6 AM,Night,2060,Tamil Nadu
+2020,6 AM to 9 AM,Day,5186,Tamil Nadu
+2020,9 AM to 12 PM,Day,6864,Tamil Nadu
+2020,12 PM to 3 PM,Day,6853,Tamil Nadu
+2020,3 PM to 6 PM,Day,7751,Tamil Nadu
+2020,6 PM to 9 PM,Night,10751,Tamil Nadu
+2020,9 PM to 12 AM,Night,4113,Tamil Nadu
+2020,12 AM to 3 AM,Night,1299,Telangana
+2020,3 AM to 6 AM,Night,1240,Telangana
+2020,6 AM to 9 AM,Day,1912,Telangana
+2020,9 AM to 12 PM,Day,2460,Telangana
+2020,12 PM to 3 PM,Day,2797,Telangana
+2020,3 PM to 6 PM,Day,3479,Telangana
+2020,6 PM to 9 PM,Night,3988,Telangana
+2020,9 PM to 12 AM,Night,1997,Telangana
+2020,12 AM to 3 AM,Night,3,Dadra And Nagar Haveli And Daman And Diu
+2020,3 AM to 6 AM,Night,2,Dadra And Nagar Haveli And Daman And Diu
+2020,6 AM to 9 AM,Day,8,Dadra And Nagar Haveli And Daman And Diu
+2020,9 AM to 12 PM,Day,10,Dadra And Nagar Haveli And Daman And Diu
+2020,12 PM to 3 PM,Day,16,Dadra And Nagar Haveli And Daman And Diu
+2020,3 PM to 6 PM,Day,22,Dadra And Nagar Haveli And Daman And Diu
+2020,6 PM to 9 PM,Night,17,Dadra And Nagar Haveli And Daman And Diu
+2020,9 PM to 12 AM,Night,20,Dadra And Nagar Haveli And Daman And Diu
+2020,12 AM to 3 AM,Night,8,Tripura
+2020,3 AM to 6 AM,Night,4,Tripura
+2020,6 AM to 9 AM,Day,46,Tripura
+2020,9 AM to 12 PM,Day,99,Tripura
+2020,12 PM to 3 PM,Day,85,Tripura
+2020,3 PM to 6 PM,Day,110,Tripura
+2020,6 PM to 9 PM,Night,70,Tripura
+2020,9 PM to 12 AM,Night,44,Tripura
+2020,12 AM to 3 AM,Night,2472,Uttar Pradesh
+2020,3 AM to 6 AM,Night,2755,Uttar Pradesh
+2020,6 AM to 9 AM,Day,3208,Uttar Pradesh
+2020,9 AM to 12 PM,Day,3967,Uttar Pradesh
+2020,12 PM to 3 PM,Day,3619,Uttar Pradesh
+2020,3 PM to 6 PM,Day,4336,Uttar Pradesh
+2020,6 PM to 9 PM,Night,4894,Uttar Pradesh
+2020,9 PM to 12 AM,Night,3402,Uttar Pradesh
+2020,12 AM to 3 AM,Night,76,Uttarakhand
+2020,3 AM to 6 AM,Night,79,Uttarakhand
+2020,6 AM to 9 AM,Day,105,Uttarakhand
+2020,9 AM to 12 PM,Day,137,Uttarakhand
+2020,12 PM to 3 PM,Day,177,Uttarakhand
+2020,3 PM to 6 PM,Day,178,Uttarakhand
+2020,6 PM to 9 PM,Night,180,Uttarakhand
+2020,9 PM to 12 AM,Night,118,Uttarakhand
+2020,12 AM to 3 AM,Night,781,West Bengal
+2020,3 AM to 6 AM,Night,813,West Bengal
+2020,6 AM to 9 AM,Day,1199,West Bengal
+2020,9 AM to 12 PM,Day,1709,West Bengal
+2020,12 PM to 3 PM,Day,1714,West Bengal
+2020,3 PM to 6 PM,Day,1793,West Bengal
+2020,6 PM to 9 PM,Night,1740,West Bengal
+2020,9 PM to 12 AM,Night,1094,West Bengal
+2021,12 AM to 3 AM,Night,3,Andaman And Nicobar Islands
+2021,3 AM to 6 AM,Night,3,Andaman And Nicobar Islands
+2021,6 AM to 9 AM,Day,6,Andaman And Nicobar Islands
+2021,9 AM to 12 PM,Day,11,Andaman And Nicobar Islands
+2021,12 PM to 3 PM,Day,20,Andaman And Nicobar Islands
+2021,3 PM to 6 PM,Day,31,Andaman And Nicobar Islands
+2021,6 PM to 9 PM,Night,25,Andaman And Nicobar Islands
+2021,9 PM to 12 AM,Night,18,Andaman And Nicobar Islands
+2021,12 AM to 3 AM,Night,780,Andhra Pradesh
+2021,3 AM to 6 AM,Night,1126,Andhra Pradesh
+2021,6 AM to 9 AM,Day,2337,Andhra Pradesh
+2021,9 AM to 12 PM,Day,3324,Andhra Pradesh
+2021,12 PM to 3 PM,Day,3416,Andhra Pradesh
+2021,3 PM to 6 PM,Day,4125,Andhra Pradesh
+2021,6 PM to 9 PM,Night,4522,Andhra Pradesh
+2021,9 PM to 12 AM,Night,1926,Andhra Pradesh
+2021,12 AM to 3 AM,Night,10,Arunachal Pradesh
+2021,3 AM to 6 AM,Night,6,Arunachal Pradesh
+2021,6 AM to 9 AM,Day,41,Arunachal Pradesh
+2021,9 AM to 12 PM,Day,42,Arunachal Pradesh
+2021,12 PM to 3 PM,Day,40,Arunachal Pradesh
+2021,3 PM to 6 PM,Day,62,Arunachal Pradesh
+2021,6 PM to 9 PM,Night,43,Arunachal Pradesh
+2021,9 PM to 12 AM,Night,17,Arunachal Pradesh
+2021,12 AM to 3 AM,Night,377,Assam
+2021,3 AM to 6 AM,Night,551,Assam
+2021,6 AM to 9 AM,Day,820,Assam
+2021,9 AM to 12 PM,Day,1187,Assam
+2021,12 PM to 3 PM,Day,1034,Assam
+2021,3 PM to 6 PM,Day,1323,Assam
+2021,6 PM to 9 PM,Night,1014,Assam
+2021,9 PM to 12 AM,Night,763,Assam
+2021,12 AM to 3 AM,Night,242,Bihar
+2021,3 AM to 6 AM,Night,1357,Bihar
+2021,6 AM to 9 AM,Day,1414,Bihar
+2021,9 AM to 12 PM,Day,1526,Bihar
+2021,12 PM to 3 PM,Day,1363,Bihar
+2021,3 PM to 6 PM,Day,1508,Bihar
+2021,6 PM to 9 PM,Night,1497,Bihar
+2021,9 PM to 12 AM,Night,646,Bihar
+2021,12 AM to 3 AM,Night,44,Chandigarh
+2021,3 AM to 6 AM,Night,14,Chandigarh
+2021,6 AM to 9 AM,Day,32,Chandigarh
+2021,9 AM to 12 PM,Day,56,Chandigarh
+2021,12 PM to 3 PM,Day,36,Chandigarh
+2021,3 PM to 6 PM,Day,62,Chandigarh
+2021,6 PM to 9 PM,Night,84,Chandigarh
+2021,9 PM to 12 AM,Night,88,Chandigarh
+2021,12 AM to 3 AM,Night,546,Chhattisgarh
+2021,3 AM to 6 AM,Night,810,Chhattisgarh
+2021,6 AM to 9 AM,Day,1047,Chhattisgarh
+2021,9 AM to 12 PM,Day,1807,Chhattisgarh
+2021,12 PM to 3 PM,Day,2224,Chhattisgarh
+2021,3 PM to 6 PM,Day,2415,Chhattisgarh
+2021,6 PM to 9 PM,Night,2480,Chhattisgarh
+2021,9 PM to 12 AM,Night,1066,Chhattisgarh
+2021,12 AM to 3 AM,Night,1154,Delhi
+2021,3 AM to 6 AM,Night,742,Delhi
+2021,6 AM to 9 AM,Day,1034,Delhi
+2021,9 AM to 12 PM,Day,1100,Delhi
+2021,12 PM to 3 PM,Day,1080,Delhi
+2021,3 PM to 6 PM,Day,1322,Delhi
+2021,6 PM to 9 PM,Night,1608,Delhi
+2021,9 PM to 12 AM,Night,1400,Delhi
+2021,12 AM to 3 AM,Night,237,Goa
+2021,3 AM to 6 AM,Night,164,Goa
+2021,6 AM to 9 AM,Day,263,Goa
+2021,9 AM to 12 PM,Day,402,Goa
+2021,12 PM to 3 PM,Day,453,Goa
+2021,3 PM to 6 PM,Day,463,Goa
+2021,6 PM to 9 PM,Night,521,Goa
+2021,9 PM to 12 AM,Night,347,Goa
+2021,12 AM to 3 AM,Night,798,Gujarat
+2021,3 AM to 6 AM,Night,663,Gujarat
+2021,6 AM to 9 AM,Day,1622,Gujarat
+2021,9 AM to 12 PM,Day,2372,Gujarat
+2021,12 PM to 3 PM,Day,2416,Gujarat
+2021,3 PM to 6 PM,Day,2598,Gujarat
+2021,6 PM to 9 PM,Night,3114,Gujarat
+2021,9 PM to 12 AM,Night,1617,Gujarat
+2021,12 AM to 3 AM,Night,777,Haryana
+2021,3 AM to 6 AM,Night,835,Haryana
+2021,6 AM to 9 AM,Day,1166,Haryana
+2021,9 AM to 12 PM,Day,1168,Haryana
+2021,12 PM to 3 PM,Day,1239,Haryana
+2021,3 PM to 6 PM,Day,1547,Haryana
+2021,6 PM to 9 PM,Night,1955,Haryana
+2021,9 PM to 12 AM,Night,1362,Haryana
+2021,12 AM to 3 AM,Night,122,Himachal Pradesh
+2021,3 AM to 6 AM,Night,55,Himachal Pradesh
+2021,6 AM to 9 AM,Day,246,Himachal Pradesh
+2021,9 AM to 12 PM,Day,315,Himachal Pradesh
+2021,12 PM to 3 PM,Day,335,Himachal Pradesh
+2021,3 PM to 6 PM,Day,449,Himachal Pradesh
+2021,6 PM to 9 PM,Night,574,Himachal Pradesh
+2021,9 PM to 12 AM,Night,312,Himachal Pradesh
+2021,12 AM to 3 AM,Night,124,Jammu And Kashmir And Ladakh
+2021,3 AM to 6 AM,Night,162,Jammu And Kashmir And Ladakh
+2021,6 AM to 9 AM,Day,560,Jammu And Kashmir And Ladakh
+2021,9 AM to 12 PM,Day,1050,Jammu And Kashmir And Ladakh
+2021,12 PM to 3 PM,Day,1257,Jammu And Kashmir And Ladakh
+2021,3 PM to 6 PM,Day,1026,Jammu And Kashmir And Ladakh
+2021,6 PM to 9 PM,Night,860,Jammu And Kashmir And Ladakh
+2021,9 PM to 12 AM,Night,363,Jammu And Kashmir And Ladakh
+2021,12 AM to 3 AM,Night,307,Jharkhand
+2021,3 AM to 6 AM,Night,512,Jharkhand
+2021,6 AM to 9 AM,Day,639,Jharkhand
+2021,9 AM to 12 PM,Day,730,Jharkhand
+2021,12 PM to 3 PM,Day,679,Jharkhand
+2021,3 PM to 6 PM,Day,783,Jharkhand
+2021,6 PM to 9 PM,Night,686,Jharkhand
+2021,9 PM to 12 AM,Night,392,Jharkhand
+2021,12 AM to 3 AM,Night,1909,Karnataka
+2021,3 AM to 6 AM,Night,1990,Karnataka
+2021,6 AM to 9 AM,Day,3674,Karnataka
+2021,9 AM to 12 PM,Day,5117,Karnataka
+2021,12 PM to 3 PM,Day,5560,Karnataka
+2021,3 PM to 6 PM,Day,5983,Karnataka
+2021,6 PM to 9 PM,Night,6684,Karnataka
+2021,9 PM to 12 AM,Night,3730,Karnataka
+2021,12 AM to 3 AM,Night,718,Kerala
+2021,3 AM to 6 AM,Night,1167,Kerala
+2021,6 AM to 9 AM,Day,3882,Kerala
+2021,9 AM to 12 PM,Day,6099,Kerala
+2021,12 PM to 3 PM,Day,5327,Kerala
+2021,3 PM to 6 PM,Day,6308,Kerala
+2021,6 PM to 9 PM,Night,6765,Kerala
+2021,9 PM to 12 AM,Night,2493,Kerala
+2021,12 AM to 3 AM,Night,8,Jammu And Kashmir And Ladakh
+2021,3 AM to 6 AM,Night,2,Jammu And Kashmir And Ladakh
+2021,6 AM to 9 AM,Day,29,Jammu And Kashmir And Ladakh
+2021,9 AM to 12 PM,Day,46,Jammu And Kashmir And Ladakh
+2021,12 PM to 3 PM,Day,48,Jammu And Kashmir And Ladakh
+2021,3 PM to 6 PM,Day,81,Jammu And Kashmir And Ladakh
+2021,6 PM to 9 PM,Night,22,Jammu And Kashmir And Ladakh
+2021,9 PM to 12 AM,Night,1,Jammu And Kashmir And Ladakh
+2021,12 AM to 3 AM,Night,0,Lakshadweep
+2021,3 AM to 6 AM,Night,0,Lakshadweep
+2021,6 AM to 9 AM,Day,0,Lakshadweep
+2021,9 AM to 12 PM,Day,2,Lakshadweep
+2021,12 PM to 3 PM,Day,0,Lakshadweep
+2021,3 PM to 6 PM,Day,1,Lakshadweep
+2021,6 PM to 9 PM,Night,0,Lakshadweep
+2021,9 PM to 12 AM,Night,1,Lakshadweep
+2021,12 AM to 3 AM,Night,2316,Madhya Pradesh
+2021,3 AM to 6 AM,Night,2197,Madhya Pradesh
+2021,6 AM to 9 AM,Day,4131,Madhya Pradesh
+2021,9 AM to 12 PM,Day,7180,Madhya Pradesh
+2021,12 PM to 3 PM,Day,8211,Madhya Pradesh
+2021,3 PM to 6 PM,Day,8969,Madhya Pradesh
+2021,6 PM to 9 PM,Night,9798,Madhya Pradesh
+2021,9 PM to 12 AM,Night,5417,Madhya Pradesh
+2021,12 AM to 3 AM,Night,1579,Maharashtra
+2021,3 AM to 6 AM,Night,1601,Maharashtra
+2021,6 AM to 9 AM,Day,2563,Maharashtra
+2021,9 AM to 12 PM,Day,3626,Maharashtra
+2021,12 PM to 3 PM,Day,4150,Maharashtra
+2021,3 PM to 6 PM,Day,4321,Maharashtra
+2021,6 PM to 9 PM,Night,5304,Maharashtra
+2021,9 PM to 12 AM,Night,3454,Maharashtra
+2021,12 AM to 3 AM,Night,14,Manipur
+2021,3 AM to 6 AM,Night,21,Manipur
+2021,6 AM to 9 AM,Day,52,Manipur
+2021,9 AM to 12 PM,Day,45,Manipur
+2021,12 PM to 3 PM,Day,60,Manipur
+2021,3 PM to 6 PM,Day,75,Manipur
+2021,6 PM to 9 PM,Night,69,Manipur
+2021,9 PM to 12 AM,Night,30,Manipur
+2021,12 AM to 3 AM,Night,12,Meghalaya
+2021,3 AM to 6 AM,Night,18,Meghalaya
+2021,6 AM to 9 AM,Day,25,Meghalaya
+2021,9 AM to 12 PM,Day,24,Meghalaya
+2021,12 PM to 3 PM,Day,30,Meghalaya
+2021,3 PM to 6 PM,Day,58,Meghalaya
+2021,6 PM to 9 PM,Night,38,Meghalaya
+2021,9 PM to 12 AM,Night,39,Meghalaya
+2021,12 AM to 3 AM,Night,4,Mizoram
+2021,3 AM to 6 AM,Night,2,Mizoram
+2021,6 AM to 9 AM,Day,9,Mizoram
+2021,9 AM to 12 PM,Day,12,Mizoram
+2021,12 PM to 3 PM,Day,12,Mizoram
+2021,3 PM to 6 PM,Day,12,Mizoram
+2021,6 PM to 9 PM,Night,10,Mizoram
+2021,9 PM to 12 AM,Night,3,Mizoram
+2021,12 AM to 3 AM,Night,1,Nagaland
+2021,3 AM to 6 AM,Night,0,Nagaland
+2021,6 AM to 9 AM,Day,5,Nagaland
+2021,9 AM to 12 PM,Day,3,Nagaland
+2021,12 PM to 3 PM,Day,4,Nagaland
+2021,3 PM to 6 PM,Day,5,Nagaland
+2021,6 PM to 9 PM,Night,3,Nagaland
+2021,9 PM to 12 AM,Night,4,Nagaland
+2021,12 AM to 3 AM,Night,544,Odisha
+2021,3 AM to 6 AM,Night,830,Odisha
+2021,6 AM to 9 AM,Day,1189,Odisha
+2021,9 AM to 12 PM,Day,1619,Odisha
+2021,12 PM to 3 PM,Day,1776,Odisha
+2021,3 PM to 6 PM,Day,1908,Odisha
+2021,6 PM to 9 PM,Night,2102,Odisha
+2021,9 PM to 12 AM,Night,1015,Odisha
+2021,12 AM to 3 AM,Night,119,Puducherry
+2021,3 AM to 6 AM,Night,127,Puducherry
+2021,6 AM to 9 AM,Day,114,Puducherry
+2021,9 AM to 12 PM,Day,129,Puducherry
+2021,12 PM to 3 PM,Day,132,Puducherry
+2021,3 PM to 6 PM,Day,125,Puducherry
+2021,6 PM to 9 PM,Night,138,Puducherry
+2021,9 PM to 12 AM,Night,165,Puducherry
+2021,12 AM to 3 AM,Night,490,Punjab
+2021,3 AM to 6 AM,Night,500,Punjab
+2021,6 AM to 9 AM,Day,666,Punjab
+2021,9 AM to 12 PM,Day,708,Punjab
+2021,12 PM to 3 PM,Day,743,Punjab
+2021,3 PM to 6 PM,Day,962,Punjab
+2021,6 PM to 9 PM,Night,1135,Punjab
+2021,9 PM to 12 AM,Night,893,Punjab
+2021,12 AM to 3 AM,Night,894,Rajasthan
+2021,3 AM to 6 AM,Night,1058,Rajasthan
+2021,6 AM to 9 AM,Day,2345,Rajasthan
+2021,9 AM to 12 PM,Day,2905,Rajasthan
+2021,12 PM to 3 PM,Day,3317,Rajasthan
+2021,3 PM to 6 PM,Day,4179,Rajasthan
+2021,6 PM to 9 PM,Night,4269,Rajasthan
+2021,9 PM to 12 AM,Night,1987,Rajasthan
+2021,12 AM to 3 AM,Night,7,Sikkim
+2021,3 AM to 6 AM,Night,8,Sikkim
+2021,6 AM to 9 AM,Day,11,Sikkim
+2021,9 AM to 12 PM,Day,9,Sikkim
+2021,12 PM to 3 PM,Day,17,Sikkim
+2021,3 PM to 6 PM,Day,22,Sikkim
+2021,6 PM to 9 PM,Night,28,Sikkim
+2021,9 PM to 12 AM,Night,20,Sikkim
+2021,12 AM to 3 AM,Night,1141,Tamil Nadu
+2021,3 AM to 6 AM,Night,2244,Tamil Nadu
+2021,6 AM to 9 AM,Day,6248,Tamil Nadu
+2021,9 AM to 12 PM,Day,8357,Tamil Nadu
+2021,12 PM to 3 PM,Day,8437,Tamil Nadu
+2021,3 PM to 6 PM,Day,10383,Tamil Nadu
+2021,6 PM to 9 PM,Night,14415,Tamil Nadu
+2021,9 PM to 12 AM,Night,4457,Tamil Nadu
+2021,12 AM to 3 AM,Night,935,Telangana
+2021,3 AM to 6 AM,Night,936,Telangana
+2021,6 AM to 9 AM,Day,2120,Telangana
+2021,9 AM to 12 PM,Day,3115,Telangana
+2021,12 PM to 3 PM,Day,3452,Telangana
+2021,3 PM to 6 PM,Day,4028,Telangana
+2021,6 PM to 9 PM,Night,4587,Telangana
+2021,9 PM to 12 AM,Night,2142,Telangana
+2021,12 AM to 3 AM,Night,4,Dadra And Nagar Haveli And Daman And Diu
+2021,3 AM to 6 AM,Night,3,Dadra And Nagar Haveli And Daman And Diu
+2021,6 AM to 9 AM,Day,14,Dadra And Nagar Haveli And Daman And Diu
+2021,9 AM to 12 PM,Day,9,Dadra And Nagar Haveli And Daman And Diu
+2021,12 PM to 3 PM,Day,22,Dadra And Nagar Haveli And Daman And Diu
+2021,3 PM to 6 PM,Day,25,Dadra And Nagar Haveli And Daman And Diu
+2021,6 PM to 9 PM,Night,37,Dadra And Nagar Haveli And Daman And Diu
+2021,9 PM to 12 AM,Night,26,Dadra And Nagar Haveli And Daman And Diu
+2021,12 AM to 3 AM,Night,4,Tripura
+2021,3 AM to 6 AM,Night,13,Tripura
+2021,6 AM to 9 AM,Day,48,Tripura
+2021,9 AM to 12 PM,Day,85,Tripura
+2021,12 PM to 3 PM,Day,86,Tripura
+2021,3 PM to 6 PM,Day,101,Tripura
+2021,6 PM to 9 PM,Night,101,Tripura
+2021,9 PM to 12 AM,Night,40,Tripura
+2021,12 AM to 3 AM,Night,3484,Uttar Pradesh
+2021,3 AM to 6 AM,Night,3325,Uttar Pradesh
+2021,6 AM to 9 AM,Day,3954,Uttar Pradesh
+2021,9 AM to 12 PM,Day,4069,Uttar Pradesh
+2021,12 PM to 3 PM,Day,4313,Uttar Pradesh
+2021,3 PM to 6 PM,Day,5017,Uttar Pradesh
+2021,6 PM to 9 PM,Night,5592,Uttar Pradesh
+2021,9 PM to 12 AM,Night,3957,Uttar Pradesh
+2021,12 AM to 3 AM,Night,107,Uttarakhand
+2021,3 AM to 6 AM,Night,121,Uttarakhand
+2021,6 AM to 9 AM,Day,136,Uttarakhand
+2021,9 AM to 12 PM,Day,198,Uttarakhand
+2021,12 PM to 3 PM,Day,176,Uttarakhand
+2021,3 PM to 6 PM,Day,233,Uttarakhand
+2021,6 PM to 9 PM,Night,261,Uttarakhand
+2021,9 PM to 12 AM,Night,173,Uttarakhand
+2021,12 AM to 3 AM,Night,841,West Bengal
+2021,3 AM to 6 AM,Night,1014,West Bengal
+2021,6 AM to 9 AM,Day,1208,West Bengal
+2021,9 AM to 12 PM,Day,1740,West Bengal
+2021,12 PM to 3 PM,Day,1680,West Bengal
+2021,3 PM to 6 PM,Day,1893,West Bengal
+2021,6 PM to 9 PM,Night,1915,West Bengal
+2021,9 PM to 12 AM,Night,1210,West Bengal
+2022,12 AM to 3 AM,Night,6,Andaman And Nicobar Islands
+2022,3 AM to 6 AM,Night,6,Andaman And Nicobar Islands
+2022,6 AM to 9 AM,Day,12,Andaman And Nicobar Islands
+2022,9 AM to 12 PM,Day,15,Andaman And Nicobar Islands
+2022,12 PM to 3 PM,Day,27,Andaman And Nicobar Islands
+2022,3 PM to 6 PM,Day,32,Andaman And Nicobar Islands
+2022,6 PM to 9 PM,Night,20,Andaman And Nicobar Islands
+2022,9 PM to 12 AM,Night,23,Andaman And Nicobar Islands
+2022,12 AM to 3 AM,Night,886,Andhra Pradesh
+2022,3 AM to 6 AM,Night,1045,Andhra Pradesh
+2022,6 AM to 9 AM,Day,2290,Andhra Pradesh
+2022,9 AM to 12 PM,Day,3139,Andhra Pradesh
+2022,12 PM to 3 PM,Day,3141,Andhra Pradesh
+2022,3 PM to 6 PM,Day,3813,Andhra Pradesh
+2022,6 PM to 9 PM,Night,4591,Andhra Pradesh
+2022,9 PM to 12 AM,Night,2165,Andhra Pradesh
+2022,12 AM to 3 AM,Night,11,Arunachal Pradesh
+2022,3 AM to 6 AM,Night,12,Arunachal Pradesh
+2022,6 AM to 9 AM,Day,14,Arunachal Pradesh
+2022,9 AM to 12 PM,Day,25,Arunachal Pradesh
+2022,12 PM to 3 PM,Day,46,Arunachal Pradesh
+2022,3 PM to 6 PM,Day,47,Arunachal Pradesh
+2022,6 PM to 9 PM,Night,36,Arunachal Pradesh
+2022,9 PM to 12 AM,Night,24,Arunachal Pradesh
+2022,12 AM to 3 AM,Night,409,Assam
+2022,3 AM to 6 AM,Night,452,Assam
+2022,6 AM to 9 AM,Day,903,Assam
+2022,9 AM to 12 PM,Day,1063,Assam
+2022,12 PM to 3 PM,Day,1143,Assam
+2022,3 PM to 6 PM,Day,1156,Assam
+2022,6 PM to 9 PM,Night,1133,Assam
+2022,9 PM to 12 AM,Night,769,Assam
+2022,12 AM to 3 AM,Night,485,Bihar
+2022,3 AM to 6 AM,Night,1117,Bihar
+2022,6 AM to 9 AM,Day,1602,Bihar
+2022,9 AM to 12 PM,Day,1700,Bihar
+2022,12 PM to 3 PM,Day,1405,Bihar
+2022,3 PM to 6 PM,Day,1784,Bihar
+2022,6 PM to 9 PM,Night,1865,Bihar
+2022,9 PM to 12 AM,Night,843,Bihar
+2022,12 AM to 3 AM,Night,72,Chandigarh
+2022,3 AM to 6 AM,Night,16,Chandigarh
+2022,6 AM to 9 AM,Day,32,Chandigarh
+2022,9 AM to 12 PM,Day,36,Chandigarh
+2022,12 PM to 3 PM,Day,50,Chandigarh
+2022,3 PM to 6 PM,Day,72,Chandigarh
+2022,6 PM to 9 PM,Night,70,Chandigarh
+2022,9 PM to 12 AM,Night,128,Chandigarh
+2022,12 AM to 3 AM,Night,442,Chhattisgarh
+2022,3 AM to 6 AM,Night,493,Chhattisgarh
+2022,6 AM to 9 AM,Day,1099,Chhattisgarh
+2022,9 AM to 12 PM,Day,1875,Chhattisgarh
+2022,12 PM to 3 PM,Day,2059,Chhattisgarh
+2022,3 PM to 6 PM,Day,2500,Chhattisgarh
+2022,6 PM to 9 PM,Night,3215,Chhattisgarh
+2022,9 PM to 12 AM,Night,1408,Chhattisgarh
+2022,12 AM to 3 AM,Night,1252,Delhi
+2022,3 AM to 6 AM,Night,1056,Delhi
+2022,6 AM to 9 AM,Day,1218,Delhi
+2022,9 AM to 12 PM,Day,1334,Delhi
+2022,12 PM to 3 PM,Day,1552,Delhi
+2022,3 PM to 6 PM,Day,1384,Delhi
+2022,6 PM to 9 PM,Night,1656,Delhi
+2022,9 PM to 12 AM,Night,1668,Delhi
+2022,12 AM to 3 AM,Night,286,Goa
+2022,3 AM to 6 AM,Night,152,Goa
+2022,6 AM to 9 AM,Day,260,Goa
+2022,9 AM to 12 PM,Day,393,Goa
+2022,12 PM to 3 PM,Day,471,Goa
+2022,3 PM to 6 PM,Day,457,Goa
+2022,6 PM to 9 PM,Night,619,Goa
+2022,9 PM to 12 AM,Night,374,Goa
+2022,12 AM to 3 AM,Night,957,Gujarat
+2022,3 AM to 6 AM,Night,817,Gujarat
+2022,6 AM to 9 AM,Day,1727,Gujarat
+2022,9 AM to 12 PM,Day,2333,Gujarat
+2022,12 PM to 3 PM,Day,2477,Gujarat
+2022,3 PM to 6 PM,Day,2596,Gujarat
+2022,6 PM to 9 PM,Night,3167,Gujarat
+2022,9 PM to 12 AM,Night,1703,Gujarat
+2022,12 AM to 3 AM,Night,1048,Haryana
+2022,3 AM to 6 AM,Night,801,Haryana
+2022,6 AM to 9 AM,Day,1217,Haryana
+2022,9 AM to 12 PM,Day,1330,Haryana
+2022,12 PM to 3 PM,Day,1250,Haryana
+2022,3 PM to 6 PM,Day,1554,Haryana
+2022,6 PM to 9 PM,Night,2153,Haryana
+2022,9 PM to 12 AM,Night,1301,Haryana
+2022,12 AM to 3 AM,Night,156,Himachal Pradesh
+2022,3 AM to 6 AM,Night,169,Himachal Pradesh
+2022,6 AM to 9 AM,Day,211,Himachal Pradesh
+2022,9 AM to 12 PM,Day,299,Himachal Pradesh
+2022,12 PM to 3 PM,Day,364,Himachal Pradesh
+2022,3 PM to 6 PM,Day,426,Himachal Pradesh
+2022,6 PM to 9 PM,Night,548,Himachal Pradesh
+2022,9 PM to 12 AM,Night,311,Himachal Pradesh
+2022,12 AM to 3 AM,Night,130,Jammu And Kashmir And Ladakh
+2022,3 AM to 6 AM,Night,227,Jammu And Kashmir And Ladakh
+2022,6 AM to 9 AM,Day,742,Jammu And Kashmir And Ladakh
+2022,9 AM to 12 PM,Day,1167,Jammu And Kashmir And Ladakh
+2022,12 PM to 3 PM,Day,1350,Jammu And Kashmir And Ladakh
+2022,3 PM to 6 PM,Day,1204,Jammu And Kashmir And Ladakh
+2022,6 PM to 9 PM,Night,951,Jammu And Kashmir And Ladakh
+2022,9 PM to 12 AM,Night,319,Jammu And Kashmir And Ladakh
+2022,12 AM to 3 AM,Night,330,Jharkhand
+2022,3 AM to 6 AM,Night,390,Jharkhand
+2022,6 AM to 9 AM,Day,686,Jharkhand
+2022,9 AM to 12 PM,Day,769,Jharkhand
+2022,12 PM to 3 PM,Day,823,Jharkhand
+2022,3 PM to 6 PM,Day,933,Jharkhand
+2022,6 PM to 9 PM,Night,833,Jharkhand
+2022,9 PM to 12 AM,Night,411,Jharkhand
+2022,12 AM to 3 AM,Night,2246,Karnataka
+2022,3 AM to 6 AM,Night,3119,Karnataka
+2022,6 AM to 9 AM,Day,4018,Karnataka
+2022,9 AM to 12 PM,Day,5628,Karnataka
+2022,12 PM to 3 PM,Day,5780,Karnataka
+2022,3 PM to 6 PM,Day,6233,Karnataka
+2022,6 PM to 9 PM,Night,7424,Karnataka
+2022,9 PM to 12 AM,Night,5317,Karnataka
+2022,12 AM to 3 AM,Night,1021,Kerala
+2022,3 AM to 6 AM,Night,1426,Kerala
+2022,6 AM to 9 AM,Day,5240,Kerala
+2022,9 AM to 12 PM,Day,7790,Kerala
+2022,12 PM to 3 PM,Day,6613,Kerala
+2022,3 PM to 6 PM,Day,8543,Kerala
+2022,6 PM to 9 PM,Night,9089,Kerala
+2022,9 PM to 12 AM,Night,3870,Kerala
+2022,12 AM to 3 AM,Night,0,Jammu And Kashmir And Ladakh
+2022,3 AM to 6 AM,Night,12,Jammu And Kashmir And Ladakh
+2022,6 AM to 9 AM,Day,32,Jammu And Kashmir And Ladakh
+2022,9 AM to 12 PM,Day,48,Jammu And Kashmir And Ladakh
+2022,12 PM to 3 PM,Day,90,Jammu And Kashmir And Ladakh
+2022,3 PM to 6 PM,Day,65,Jammu And Kashmir And Ladakh
+2022,6 PM to 9 PM,Night,20,Jammu And Kashmir And Ladakh
+2022,9 PM to 12 AM,Night,1,Jammu And Kashmir And Ladakh
+2022,12 AM to 3 AM,Night,0,Lakshadweep
+2022,3 AM to 6 AM,Night,0,Lakshadweep
+2022,6 AM to 9 AM,Day,0,Lakshadweep
+2022,9 AM to 12 PM,Day,2,Lakshadweep
+2022,12 PM to 3 PM,Day,0,Lakshadweep
+2022,3 PM to 6 PM,Day,0,Lakshadweep
+2022,6 PM to 9 PM,Night,2,Lakshadweep
+2022,9 PM to 12 AM,Night,0,Lakshadweep
+2022,12 AM to 3 AM,Night,2935,Madhya Pradesh
+2022,3 AM to 6 AM,Night,2234,Madhya Pradesh
+2022,6 AM to 9 AM,Day,4560,Madhya Pradesh
+2022,9 AM to 12 PM,Day,7508,Madhya Pradesh
+2022,12 PM to 3 PM,Day,8837,Madhya Pradesh
+2022,3 PM to 6 PM,Day,9568,Madhya Pradesh
+2022,6 PM to 9 PM,Night,9907,Madhya Pradesh
+2022,9 PM to 12 AM,Night,6416,Madhya Pradesh
+2022,12 AM to 3 AM,Night,2010,Maharashtra
+2022,3 AM to 6 AM,Night,1876,Maharashtra
+2022,6 AM to 9 AM,Day,2829,Maharashtra
+2022,9 AM to 12 PM,Day,4100,Maharashtra
+2022,12 PM to 3 PM,Day,4467,Maharashtra
+2022,3 PM to 6 PM,Day,5218,Maharashtra
+2022,6 PM to 9 PM,Night,6095,Maharashtra
+2022,9 PM to 12 AM,Night,3951,Maharashtra
+2022,12 AM to 3 AM,Night,17,Manipur
+2022,3 AM to 6 AM,Night,3,Manipur
+2022,6 AM to 9 AM,Day,48,Manipur
+2022,9 AM to 12 PM,Day,96,Manipur
+2022,12 PM to 3 PM,Day,67,Manipur
+2022,3 PM to 6 PM,Day,91,Manipur
+2022,6 PM to 9 PM,Night,117,Manipur
+2022,9 PM to 12 AM,Night,69,Manipur
+2022,12 AM to 3 AM,Night,13,Meghalaya
+2022,3 AM to 6 AM,Night,9,Meghalaya
+2022,6 AM to 9 AM,Day,24,Meghalaya
+2022,9 AM to 12 PM,Day,48,Meghalaya
+2022,12 PM to 3 PM,Day,29,Meghalaya
+2022,3 PM to 6 PM,Day,51,Meghalaya
+2022,6 PM to 9 PM,Night,41,Meghalaya
+2022,9 PM to 12 AM,Night,31,Meghalaya
+2022,12 AM to 3 AM,Night,1,Mizoram
+2022,3 AM to 6 AM,Night,3,Mizoram
+2022,6 AM to 9 AM,Day,14,Mizoram
+2022,9 AM to 12 PM,Day,15,Mizoram
+2022,12 PM to 3 PM,Day,18,Mizoram
+2022,3 PM to 6 PM,Day,6,Mizoram
+2022,6 PM to 9 PM,Night,13,Mizoram
+2022,9 PM to 12 AM,Night,1,Mizoram
+2022,12 AM to 3 AM,Night,3,Nagaland
+2022,3 AM to 6 AM,Night,1,Nagaland
+2022,6 AM to 9 AM,Day,6,Nagaland
+2022,9 AM to 12 PM,Day,4,Nagaland
+2022,12 PM to 3 PM,Day,3,Nagaland
+2022,3 PM to 6 PM,Day,2,Nagaland
+2022,6 PM to 9 PM,Night,2,Nagaland
+2022,9 PM to 12 AM,Night,3,Nagaland
+2022,12 AM to 3 AM,Night,629,Odisha
+2022,3 AM to 6 AM,Night,741,Odisha
+2022,6 AM to 9 AM,Day,1252,Odisha
+2022,9 AM to 12 PM,Day,1753,Odisha
+2022,12 PM to 3 PM,Day,1767,Odisha
+2022,3 PM to 6 PM,Day,2112,Odisha
+2022,6 PM to 9 PM,Night,2279,Odisha
+2022,9 PM to 12 AM,Night,1130,Odisha
+2022,12 AM to 3 AM,Night,32,Puducherry
+2022,3 AM to 6 AM,Night,35,Puducherry
+2022,6 AM to 9 AM,Day,144,Puducherry
+2022,9 AM to 12 PM,Day,157,Puducherry
+2022,12 PM to 3 PM,Day,199,Puducherry
+2022,3 PM to 6 PM,Day,202,Puducherry
+2022,6 PM to 9 PM,Night,261,Puducherry
+2022,9 PM to 12 AM,Night,151,Puducherry
+2022,12 AM to 3 AM,Night,383,Punjab
+2022,3 AM to 6 AM,Night,450,Punjab
+2022,6 AM to 9 AM,Day,721,Punjab
+2022,9 AM to 12 PM,Day,737,Punjab
+2022,12 PM to 3 PM,Day,850,Punjab
+2022,3 PM to 6 PM,Day,949,Punjab
+2022,6 PM to 9 PM,Night,1140,Punjab
+2022,9 PM to 12 AM,Night,892,Punjab
+2022,12 AM to 3 AM,Night,933,Rajasthan
+2022,3 AM to 6 AM,Night,902,Rajasthan
+2022,6 AM to 9 AM,Day,2534,Rajasthan
+2022,9 AM to 12 PM,Day,3379,Rajasthan
+2022,12 PM to 3 PM,Day,3811,Rajasthan
+2022,3 PM to 6 PM,Day,4496,Rajasthan
+2022,6 PM to 9 PM,Night,5147,Rajasthan
+2022,9 PM to 12 AM,Night,2418,Rajasthan
+2022,12 AM to 3 AM,Night,18,Sikkim
+2022,3 AM to 6 AM,Night,9,Sikkim
+2022,6 AM to 9 AM,Day,17,Sikkim
+2022,9 AM to 12 PM,Day,28,Sikkim
+2022,12 PM to 3 PM,Day,29,Sikkim
+2022,3 PM to 6 PM,Day,37,Sikkim
+2022,6 PM to 9 PM,Night,40,Sikkim
+2022,9 PM to 12 AM,Night,21,Sikkim
+2022,12 AM to 3 AM,Night,1624,Tamil Nadu
+2022,3 AM to 6 AM,Night,2737,Tamil Nadu
+2022,6 AM to 9 AM,Day,7397,Tamil Nadu
+2022,9 AM to 12 PM,Day,9202,Tamil Nadu
+2022,12 PM to 3 PM,Day,9107,Tamil Nadu
+2022,3 PM to 6 PM,Day,11506,Tamil Nadu
+2022,6 PM to 9 PM,Night,16285,Tamil Nadu
+2022,9 PM to 12 AM,Night,6247,Tamil Nadu
+2022,12 AM to 3 AM,Night,1094,Telangana
+2022,3 AM to 6 AM,Night,952,Telangana
+2022,6 AM to 9 AM,Day,2163,Telangana
+2022,9 AM to 12 PM,Day,2988,Telangana
+2022,12 PM to 3 PM,Day,3312,Telangana
+2022,3 PM to 6 PM,Day,4051,Telangana
+2022,6 PM to 9 PM,Night,4544,Telangana
+2022,9 PM to 12 AM,Night,2515,Telangana
+2022,12 AM to 3 AM,Night,8,Dadra And Nagar Haveli And Daman And Diu
+2022,3 AM to 6 AM,Night,1,Dadra And Nagar Haveli And Daman And Diu
+2022,6 AM to 9 AM,Day,15,Dadra And Nagar Haveli And Daman And Diu
+2022,9 AM to 12 PM,Day,27,Dadra And Nagar Haveli And Daman And Diu
+2022,12 PM to 3 PM,Day,17,Dadra And Nagar Haveli And Daman And Diu
+2022,3 PM to 6 PM,Day,37,Dadra And Nagar Haveli And Daman And Diu
+2022,6 PM to 9 PM,Night,44,Dadra And Nagar Haveli And Daman And Diu
+2022,9 PM to 12 AM,Night,26,Dadra And Nagar Haveli And Daman And Diu
+2022,12 AM to 3 AM,Night,12,Tripura
+2022,3 AM to 6 AM,Night,16,Tripura
+2022,6 AM to 9 AM,Day,54,Tripura
+2022,9 AM to 12 PM,Day,104,Tripura
+2022,12 PM to 3 PM,Day,93,Tripura
+2022,3 PM to 6 PM,Day,100,Tripura
+2022,6 PM to 9 PM,Night,123,Tripura
+2022,9 PM to 12 AM,Night,73,Tripura
+2022,12 AM to 3 AM,Night,3941,Uttar Pradesh
+2022,3 AM to 6 AM,Night,3886,Uttar Pradesh
+2022,6 AM to 9 AM,Day,3937,Uttar Pradesh
+2022,9 AM to 12 PM,Day,4299,Uttar Pradesh
+2022,12 PM to 3 PM,Day,4580,Uttar Pradesh
+2022,3 PM to 6 PM,Day,5213,Uttar Pradesh
+2022,6 PM to 9 PM,Night,6154,Uttar Pradesh
+2022,9 PM to 12 AM,Night,4865,Uttar Pradesh
+2022,12 AM to 3 AM,Night,122,Uttarakhand
+2022,3 AM to 6 AM,Night,141,Uttarakhand
+2022,6 AM to 9 AM,Day,207,Uttarakhand
+2022,9 AM to 12 PM,Day,244,Uttarakhand
+2022,12 PM to 3 PM,Day,235,Uttarakhand
+2022,3 PM to 6 PM,Day,248,Uttarakhand
+2022,6 PM to 9 PM,Night,243,Uttarakhand
+2022,9 PM to 12 AM,Night,234,Uttarakhand
+2022,12 AM to 3 AM,Night,838,West Bengal
+2022,3 AM to 6 AM,Night,910,West Bengal
+2022,6 AM to 9 AM,Day,1193,West Bengal
+2022,9 AM to 12 PM,Day,1523,West Bengal
+2022,12 PM to 3 PM,Day,1495,West Bengal
+2022,3 PM to 6 PM,Day,1556,West Bengal
+2022,6 PM to 9 PM,Night,1699,West Bengal
+2022,9 PM to 12 AM,Night,1421,West Bengal
+2023,12 AM to 3 AM,Night,0,Andaman And Nicobar Islands
+2023,3 AM to 6 AM,Night,3,Andaman And Nicobar Islands
+2023,6 AM to 9 AM,Day,3,Andaman And Nicobar Islands
+2023,9 AM to 12 PM,Day,12,Andaman And Nicobar Islands
+2023,12 PM to 3 PM,Day,24,Andaman And Nicobar Islands
+2023,3 PM to 6 PM,Day,3,Andaman And Nicobar Islands
+2023,6 PM to 9 PM,Night,18,Andaman And Nicobar Islands
+2023,9 PM to 12 AM,Night,12,Andaman And Nicobar Islands
+2023,12 AM to 3 AM,Night,2973,Andhra Pradesh
+2023,3 AM to 6 AM,Night,3429,Andhra Pradesh
+2023,6 AM to 9 AM,Day,6768,Andhra Pradesh
+2023,9 AM to 12 PM,Day,8112,Andhra Pradesh
+2023,12 PM to 3 PM,Day,9174,Andhra Pradesh
+2023,3 PM to 6 PM,Day,10209,Andhra Pradesh
+2023,6 PM to 9 PM,Night,12765,Andhra Pradesh
+2023,9 PM to 12 AM,Night,6417,Andhra Pradesh
+2023,12 AM to 3 AM,Night,54,Arunachal Pradesh
+2023,3 AM to 6 AM,Night,39,Arunachal Pradesh
+2023,6 AM to 9 AM,Day,69,Arunachal Pradesh
+2023,9 AM to 12 PM,Day,66,Arunachal Pradesh
+2023,12 PM to 3 PM,Day,108,Arunachal Pradesh
+2023,3 PM to 6 PM,Day,165,Arunachal Pradesh
+2023,6 PM to 9 PM,Night,138,Arunachal Pradesh
+2023,9 PM to 12 AM,Night,60,Arunachal Pradesh
+2023,12 AM to 3 AM,Night,1038,Assam
+2023,3 AM to 6 AM,Night,1167,Assam
+2023,6 AM to 9 AM,Day,2667,Assam
+2023,9 AM to 12 PM,Day,3075,Assam
+2023,12 PM to 3 PM,Day,3153,Assam
+2023,3 PM to 6 PM,Day,3981,Assam
+2023,6 PM to 9 PM,Night,3882,Assam
+2023,9 PM to 12 AM,Night,3300,Assam
+2023,12 AM to 3 AM,Night,2103,Bihar
+2023,3 AM to 6 AM,Night,2811,Bihar
+2023,6 AM to 9 AM,Day,5022,Bihar
+2023,9 AM to 12 PM,Day,4818,Bihar
+2023,12 PM to 3 PM,Day,4575,Bihar
+2023,3 PM to 6 PM,Day,5454,Bihar
+2023,6 PM to 9 PM,Night,5409,Bihar
+2023,9 PM to 12 AM,Night,2850,Bihar
+2023,12 AM to 3 AM,Night,108,Chandigarh
+2023,3 AM to 6 AM,Night,48,Chandigarh
+2023,6 AM to 9 AM,Day,102,Chandigarh
+2023,9 AM to 12 PM,Day,150,Chandigarh
+2023,12 PM to 3 PM,Day,150,Chandigarh
+2023,3 PM to 6 PM,Day,162,Chandigarh
+2023,6 PM to 9 PM,Night,204,Chandigarh
+2023,9 PM to 12 AM,Night,168,Chandigarh
+2023,12 AM to 3 AM,Night,1392,Chhattisgarh
+2023,3 AM to 6 AM,Night,1218,Chhattisgarh
+2023,6 AM to 9 AM,Day,3201,Chhattisgarh
+2023,9 AM to 12 PM,Day,5970,Chhattisgarh
+2023,12 PM to 3 PM,Day,6633,Chhattisgarh
+2023,3 PM to 6 PM,Day,7602,Chhattisgarh
+2023,6 PM to 9 PM,Night,9837,Chhattisgarh
+2023,9 PM to 12 AM,Night,4554,Chhattisgarh
+2023,12 AM to 3 AM,Night,3708,Delhi
+2023,3 AM to 6 AM,Night,3330,Delhi
+2023,6 AM to 9 AM,Day,3912,Delhi
+2023,9 AM to 12 PM,Day,4422,Delhi
+2023,12 PM to 3 PM,Day,3726,Delhi
+2023,3 PM to 6 PM,Day,5040,Delhi
+2023,6 PM to 9 PM,Night,5034,Delhi
+2023,9 PM to 12 AM,Night,5118,Delhi
+2023,12 AM to 3 AM,Night,639,Goa
+2023,3 AM to 6 AM,Night,456,Goa
+2023,6 AM to 9 AM,Day,765,Goa
+2023,9 AM to 12 PM,Day,1278,Goa
+2023,12 PM to 3 PM,Day,1284,Goa
+2023,3 PM to 6 PM,Day,1446,Goa
+2023,6 PM to 9 PM,Night,1626,Goa
+2023,9 PM to 12 AM,Night,1047,Goa
+2023,12 AM to 3 AM,Night,2730,Gujarat
+2023,3 AM to 6 AM,Night,2100,Gujarat
+2023,6 AM to 9 AM,Day,4791,Gujarat
+2023,9 AM to 12 PM,Day,7119,Gujarat
+2023,12 PM to 3 PM,Day,7581,Gujarat
+2023,3 PM to 6 PM,Day,8157,Gujarat
+2023,6 PM to 9 PM,Night,10515,Gujarat
+2023,9 PM to 12 AM,Night,6054,Gujarat
+2023,12 AM to 3 AM,Night,2829,Haryana
+2023,3 AM to 6 AM,Night,2859,Haryana
+2023,6 AM to 9 AM,Day,3729,Haryana
+2023,9 AM to 12 PM,Day,4587,Haryana
+2023,12 PM to 3 PM,Day,4341,Haryana
+2023,3 PM to 6 PM,Day,4602,Haryana
+2023,6 PM to 9 PM,Night,6021,Haryana
+2023,9 PM to 12 AM,Night,4281,Haryana
+2023,12 AM to 3 AM,Night,399,Himachal Pradesh
+2023,3 AM to 6 AM,Night,246,Himachal Pradesh
+2023,6 AM to 9 AM,Day,546,Himachal Pradesh
+2023,9 AM to 12 PM,Day,819,Himachal Pradesh
+2023,12 PM to 3 PM,Day,963,Himachal Pradesh
+2023,3 PM to 6 PM,Day,1290,Himachal Pradesh
+2023,6 PM to 9 PM,Night,1533,Himachal Pradesh
+2023,9 PM to 12 AM,Night,969,Himachal Pradesh
+2023,12 AM to 3 AM,Night,669,Jammu And Kashmir And Ladakh
+2023,3 AM to 6 AM,Night,756,Jammu And Kashmir And Ladakh
+2023,6 AM to 9 AM,Day,1833,Jammu And Kashmir And Ladakh
+2023,9 AM to 12 PM,Day,3423,Jammu And Kashmir And Ladakh
+2023,12 PM to 3 PM,Day,3765,Jammu And Kashmir And Ladakh
+2023,3 PM to 6 PM,Day,4110,Jammu And Kashmir And Ladakh
+2023,6 PM to 9 PM,Night,3012,Jammu And Kashmir And Ladakh
+2023,9 PM to 12 AM,Night,1332,Jammu And Kashmir And Ladakh
+2023,12 AM to 3 AM,Night,912,Jharkhand
+2023,3 AM to 6 AM,Night,942,Jharkhand
+2023,6 AM to 9 AM,Day,1851,Jharkhand
+2023,9 AM to 12 PM,Day,2100,Jharkhand
+2023,12 PM to 3 PM,Day,2472,Jharkhand
+2023,3 PM to 6 PM,Day,2946,Jharkhand
+2023,6 PM to 9 PM,Night,3333,Jharkhand
+2023,9 PM to 12 AM,Night,1392,Jharkhand
+2023,12 AM to 3 AM,Night,6936,Karnataka
+2023,3 AM to 6 AM,Night,7110,Karnataka
+2023,6 AM to 9 AM,Day,12015,Karnataka
+2023,9 AM to 12 PM,Day,17724,Karnataka
+2023,12 PM to 3 PM,Day,20118,Karnataka
+2023,3 PM to 6 PM,Day,22635,Karnataka
+2023,6 PM to 9 PM,Night,27795,Karnataka
+2023,9 PM to 12 AM,Night,15984,Karnataka
+2023,12 AM to 3 AM,Night,3309,Kerala
+2023,3 AM to 6 AM,Night,4485,Kerala
+2023,6 AM to 9 AM,Day,16233,Kerala
+2023,9 AM to 12 PM,Day,24846,Kerala
+2023,12 PM to 3 PM,Day,21189,Kerala
+2023,3 PM to 6 PM,Day,26811,Kerala
+2023,6 PM to 9 PM,Night,28626,Kerala
+2023,9 PM to 12 AM,Night,12444,Kerala
+2023,12 AM to 3 AM,Night,0,Jammu And Kashmir And Ladakh
+2023,3 AM to 6 AM,Night,3,Jammu And Kashmir And Ladakh
+2023,6 AM to 9 AM,Day,63,Jammu And Kashmir And Ladakh
+2023,9 AM to 12 PM,Day,180,Jammu And Kashmir And Ladakh
+2023,12 PM to 3 PM,Day,270,Jammu And Kashmir And Ladakh
+2023,3 PM to 6 PM,Day,237,Jammu And Kashmir And Ladakh
+2023,6 PM to 9 PM,Night,81,Jammu And Kashmir And Ladakh
+2023,9 PM to 12 AM,Night,33,Jammu And Kashmir And Ladakh
+2023,12 AM to 3 AM,Night,0,Lakshadweep
+2023,3 AM to 6 AM,Night,0,Lakshadweep
+2023,6 AM to 9 AM,Day,0,Lakshadweep
+2023,9 AM to 12 PM,Day,0,Lakshadweep
+2023,12 PM to 3 PM,Day,0,Lakshadweep
+2023,3 PM to 6 PM,Day,0,Lakshadweep
+2023,6 PM to 9 PM,Night,0,Lakshadweep
+2023,9 PM to 12 AM,Night,3,Lakshadweep
+2023,12 AM to 3 AM,Night,9990,Madhya Pradesh
+2023,3 AM to 6 AM,Night,8142,Madhya Pradesh
+2023,6 AM to 9 AM,Day,13404,Madhya Pradesh
+2023,9 AM to 12 PM,Day,22428,Madhya Pradesh
+2023,12 PM to 3 PM,Day,27651,Madhya Pradesh
+2023,3 PM to 6 PM,Day,30681,Madhya Pradesh
+2023,6 PM to 9 PM,Night,31839,Madhya Pradesh
+2023,9 PM to 12 AM,Night,20154,Madhya Pradesh
+2023,12 AM to 3 AM,Night,6195,Maharashtra
+2023,3 AM to 6 AM,Night,6000,Maharashtra
+2023,6 AM to 9 AM,Day,9015,Maharashtra
+2023,9 AM to 12 PM,Day,12864,Maharashtra
+2023,12 PM to 3 PM,Day,13836,Maharashtra
+2023,3 PM to 6 PM,Day,14676,Maharashtra
+2023,6 PM to 9 PM,Night,19104,Maharashtra
+2023,9 PM to 12 AM,Night,12351,Maharashtra
+2023,12 AM to 3 AM,Night,36,Manipur
+2023,3 AM to 6 AM,Night,15,Manipur
+2023,6 AM to 9 AM,Day,81,Manipur
+2023,9 AM to 12 PM,Day,150,Manipur
+2023,12 PM to 3 PM,Day,174,Manipur
+2023,3 PM to 6 PM,Day,270,Manipur
+2023,6 PM to 9 PM,Night,339,Manipur
+2023,9 PM to 12 AM,Night,129,Manipur
+2023,12 AM to 3 AM,Night,33,Meghalaya
+2023,3 AM to 6 AM,Night,30,Meghalaya
+2023,6 AM to 9 AM,Day,60,Meghalaya
+2023,9 AM to 12 PM,Day,117,Meghalaya
+2023,12 PM to 3 PM,Day,96,Meghalaya
+2023,3 PM to 6 PM,Day,144,Meghalaya
+2023,6 PM to 9 PM,Night,138,Meghalaya
+2023,9 PM to 12 AM,Night,78,Meghalaya
+2023,12 AM to 3 AM,Night,12,Mizoram
+2023,3 AM to 6 AM,Night,9,Mizoram
+2023,6 AM to 9 AM,Day,12,Mizoram
+2023,9 AM to 12 PM,Day,18,Mizoram
+2023,12 PM to 3 PM,Day,12,Mizoram
+2023,3 PM to 6 PM,Day,36,Mizoram
+2023,6 PM to 9 PM,Night,27,Mizoram
+2023,9 PM to 12 AM,Night,15,Mizoram
+2023,12 AM to 3 AM,Night,6,Nagaland
+2023,3 AM to 6 AM,Night,15,Nagaland
+2023,6 AM to 9 AM,Day,9,Nagaland
+2023,9 AM to 12 PM,Day,15,Nagaland
+2023,12 PM to 3 PM,Day,15,Nagaland
+2023,3 PM to 6 PM,Day,18,Nagaland
+2023,6 PM to 9 PM,Night,12,Nagaland
+2023,9 PM to 12 AM,Night,15,Nagaland
+2023,12 AM to 3 AM,Night,2205,Odisha
+2023,3 AM to 6 AM,Night,2748,Odisha
+2023,6 AM to 9 AM,Day,4173,Odisha
+2023,9 AM to 12 PM,Day,5319,Odisha
+2023,12 PM to 3 PM,Day,5346,Odisha
+2023,3 PM to 6 PM,Day,6162,Odisha
+2023,6 PM to 9 PM,Night,6486,Odisha
+2023,9 PM to 12 AM,Night,3528,Odisha
+2023,12 AM to 3 AM,Night,117,Puducherry
+2023,3 AM to 6 AM,Night,126,Puducherry
+2023,6 AM to 9 AM,Day,471,Puducherry
+2023,9 AM to 12 PM,Day,564,Puducherry
+2023,12 PM to 3 PM,Day,570,Puducherry
+2023,3 PM to 6 PM,Day,645,Puducherry
+2023,6 PM to 9 PM,Night,885,Puducherry
+2023,9 PM to 12 AM,Night,546,Puducherry
+2023,12 AM to 3 AM,Night,1011,Punjab
+2023,3 AM to 6 AM,Night,1146,Punjab
+2023,6 AM to 9 AM,Day,1953,Punjab
+2023,9 AM to 12 PM,Day,2571,Punjab
+2023,12 PM to 3 PM,Day,2340,Punjab
+2023,3 PM to 6 PM,Day,2763,Punjab
+2023,6 PM to 9 PM,Night,4383,Punjab
+2023,9 PM to 12 AM,Night,2661,Punjab
+2023,12 AM to 3 AM,Night,2940,Rajasthan
+2023,3 AM to 6 AM,Night,3585,Rajasthan
+2023,6 AM to 9 AM,Day,7815,Rajasthan
+2023,9 AM to 12 PM,Day,10509,Rajasthan
+2023,12 PM to 3 PM,Day,11841,Rajasthan
+2023,3 PM to 6 PM,Day,14292,Rajasthan
+2023,6 PM to 9 PM,Night,15687,Rajasthan
+2023,9 PM to 12 AM,Night,7914,Rajasthan
+2023,12 AM to 3 AM,Night,27,Sikkim
+2023,3 AM to 6 AM,Night,27,Sikkim
+2023,6 AM to 9 AM,Day,45,Sikkim
+2023,9 AM to 12 PM,Day,84,Sikkim
+2023,12 PM to 3 PM,Day,93,Sikkim
+2023,3 PM to 6 PM,Day,102,Sikkim
+2023,6 PM to 9 PM,Night,84,Sikkim
+2023,9 PM to 12 AM,Night,60,Sikkim
+2023,12 AM to 3 AM,Night,5100,Tamil Nadu
+2023,3 AM to 6 AM,Night,8376,Tamil Nadu
+2023,6 AM to 9 AM,Day,22605,Tamil Nadu
+2023,9 AM to 12 PM,Day,28887,Tamil Nadu
+2023,12 PM to 3 PM,Day,29310,Tamil Nadu
+2023,3 PM to 6 PM,Day,35169,Tamil Nadu
+2023,6 PM to 9 PM,Night,51477,Tamil Nadu
+2023,9 PM to 12 AM,Night,20715,Tamil Nadu
+2023,12 AM to 3 AM,Night,5004,Telangana
+2023,3 AM to 6 AM,Night,3888,Telangana
+2023,6 AM to 9 AM,Day,6387,Telangana
+2023,9 AM to 12 PM,Day,8790,Telangana
+2023,12 PM to 3 PM,Day,10311,Telangana
+2023,3 PM to 6 PM,Day,12594,Telangana
+2023,6 PM to 9 PM,Night,13731,Telangana
+2023,9 PM to 12 AM,Night,8004,Telangana
+2023,12 AM to 3 AM,Night,24,Dadra And Nagar Haveli And Daman And Diu
+2023,3 AM to 6 AM,Night,12,Dadra And Nagar Haveli And Daman And Diu
+2023,6 AM to 9 AM,Day,48,Dadra And Nagar Haveli And Daman And Diu
+2023,9 AM to 12 PM,Day,48,Dadra And Nagar Haveli And Daman And Diu
+2023,12 PM to 3 PM,Day,48,Dadra And Nagar Haveli And Daman And Diu
+2023,3 PM to 6 PM,Day,111,Dadra And Nagar Haveli And Daman And Diu
+2023,6 PM to 9 PM,Night,138,Dadra And Nagar Haveli And Daman And Diu
+2023,9 PM to 12 AM,Night,120,Dadra And Nagar Haveli And Daman And Diu
+2023,12 AM to 3 AM,Night,66,Tripura
+2023,3 AM to 6 AM,Night,36,Tripura
+2023,6 AM to 9 AM,Day,120,Tripura
+2023,9 AM to 12 PM,Day,294,Tripura
+2023,12 PM to 3 PM,Day,303,Tripura
+2023,3 PM to 6 PM,Day,369,Tripura
+2023,6 PM to 9 PM,Night,342,Tripura
+2023,9 PM to 12 AM,Night,201,Tripura
+2023,12 AM to 3 AM,Night,10776,Uttar Pradesh
+2023,3 AM to 6 AM,Night,11301,Uttar Pradesh
+2023,6 AM to 9 AM,Day,12927,Uttar Pradesh
+2023,9 AM to 12 PM,Day,12666,Uttar Pradesh
+2023,12 PM to 3 PM,Day,13563,Uttar Pradesh
+2023,3 PM to 6 PM,Day,16122,Uttar Pradesh
+2023,6 PM to 9 PM,Night,20592,Uttar Pradesh
+2023,9 PM to 12 AM,Night,15345,Uttar Pradesh
+2023,12 AM to 3 AM,Night,426,Uttarakhand
+2023,3 AM to 6 AM,Night,324,Uttarakhand
+2023,6 AM to 9 AM,Day,705,Uttarakhand
+2023,9 AM to 12 PM,Day,669,Uttarakhand
+2023,12 PM to 3 PM,Day,588,Uttarakhand
+2023,3 PM to 6 PM,Day,747,Uttarakhand
+2023,6 PM to 9 PM,Night,960,Uttarakhand
+2023,9 PM to 12 AM,Night,654,Uttarakhand
+2023,12 AM to 3 AM,Night,3048,West Bengal
+2023,3 AM to 6 AM,Night,2967,West Bengal
+2023,6 AM to 9 AM,Day,3735,West Bengal
+2023,9 AM to 12 PM,Day,4242,West Bengal
+2023,12 PM to 3 PM,Day,4506,West Bengal
+2023,3 PM to 6 PM,Day,4296,West Bengal
+2023,6 PM to 9 PM,Night,4518,West Bengal
+2023,9 PM to 12 AM,Night,3888,West Bengal
+2024,12 AM to 3 AM,Night,1,Andaman And Nicobar Islands
+2024,3 AM to 6 AM,Night,2,Andaman And Nicobar Islands
+2024,6 AM to 9 AM,Day,4,Andaman And Nicobar Islands
+2024,9 AM to 12 PM,Day,3,Andaman And Nicobar Islands
+2024,12 PM to 3 PM,Day,4,Andaman And Nicobar Islands
+2024,3 PM to 6 PM,Day,3,Andaman And Nicobar Islands
+2024,6 PM to 9 PM,Night,5,Andaman And Nicobar Islands
+2024,9 PM to 12 AM,Night,5,Andaman And Nicobar Islands
+2024,12 AM to 3 AM,Night,915,Andhra Pradesh
+2024,3 AM to 6 AM,Night,959,Andhra Pradesh
+2024,6 AM to 9 AM,Day,2168,Andhra Pradesh
+2024,9 AM to 12 PM,Day,2801,Andhra Pradesh
+2024,12 PM to 3 PM,Day,2968,Andhra Pradesh
+2024,3 PM to 6 PM,Day,3436,Andhra Pradesh
+2024,6 PM to 9 PM,Night,4281,Andhra Pradesh
+2024,9 PM to 12 AM,Night,2029,Andhra Pradesh
+2024,12 AM to 3 AM,Night,11,Arunachal Pradesh
+2024,3 AM to 6 AM,Night,13,Arunachal Pradesh
+2024,6 AM to 9 AM,Day,23,Arunachal Pradesh
+2024,9 AM to 12 PM,Day,35,Arunachal Pradesh
+2024,12 PM to 3 PM,Day,30,Arunachal Pradesh
+2024,3 PM to 6 PM,Day,44,Arunachal Pradesh
+2024,6 PM to 9 PM,Night,48,Arunachal Pradesh
+2024,9 PM to 12 AM,Night,30,Arunachal Pradesh
+2024,12 AM to 3 AM,Night,352,Assam
+2024,3 AM to 6 AM,Night,409,Assam
+2024,6 AM to 9 AM,Day,759,Assam
+2024,9 AM to 12 PM,Day,1126,Assam
+2024,12 PM to 3 PM,Day,1293,Assam
+2024,3 PM to 6 PM,Day,1569,Assam
+2024,6 PM to 9 PM,Night,1505,Assam
+2024,9 PM to 12 AM,Night,835,Assam
+2024,12 AM to 3 AM,Night,770,Bihar
+2024,3 AM to 6 AM,Night,1034,Bihar
+2024,6 AM to 9 AM,Day,1619,Bihar
+2024,9 AM to 12 PM,Day,1730,Bihar
+2024,12 PM to 3 PM,Day,1615,Bihar
+2024,3 PM to 6 PM,Day,1854,Bihar
+2024,6 PM to 9 PM,Night,1844,Bihar
+2024,9 PM to 12 AM,Night,1062,Bihar
+2024,12 AM to 3 AM,Night,34,Chandigarh
+2024,3 AM to 6 AM,Night,20,Chandigarh
+2024,6 AM to 9 AM,Day,30,Chandigarh
+2024,9 AM to 12 PM,Day,28,Chandigarh
+2024,12 PM to 3 PM,Day,46,Chandigarh
+2024,3 PM to 6 PM,Day,50,Chandigarh
+2024,6 PM to 9 PM,Night,72,Chandigarh
+2024,9 PM to 12 AM,Night,60,Chandigarh
+2024,12 AM to 3 AM,Night,532,Chhattisgarh
+2024,3 AM to 6 AM,Night,489,Chhattisgarh
+2024,6 AM to 9 AM,Day,1198,Chhattisgarh
+2024,9 AM to 12 PM,Day,2139,Chhattisgarh
+2024,12 PM to 3 PM,Day,2417,Chhattisgarh
+2024,3 PM to 6 PM,Day,2843,Chhattisgarh
+2024,6 PM to 9 PM,Night,3528,Chhattisgarh
+2024,9 PM to 12 AM,Night,1715,Chhattisgarh
+2024,12 AM to 3 AM,Night,1444,Delhi
+2024,3 AM to 6 AM,Night,1154,Delhi
+2024,6 AM to 9 AM,Day,1112,Delhi
+2024,9 AM to 12 PM,Day,1356,Delhi
+2024,12 PM to 3 PM,Day,1256,Delhi
+2024,3 PM to 6 PM,Day,1284,Delhi
+2024,6 PM to 9 PM,Night,1540,Delhi
+2024,9 PM to 12 AM,Night,2000,Delhi
+2024,12 AM to 3 AM,Night,225,Goa
+2024,3 AM to 6 AM,Night,151,Goa
+2024,6 AM to 9 AM,Day,275,Goa
+2024,9 AM to 12 PM,Day,377,Goa
+2024,12 PM to 3 PM,Day,406,Goa
+2024,3 PM to 6 PM,Day,442,Goa
+2024,6 PM to 9 PM,Night,480,Goa
+2024,9 PM to 12 AM,Night,326,Goa
+2024,12 AM to 3 AM,Night,843,Gujarat
+2024,3 AM to 6 AM,Night,704,Gujarat
+2024,6 AM to 9 AM,Day,1518,Gujarat
+2024,9 AM to 12 PM,Day,2282,Gujarat
+2024,12 PM to 3 PM,Day,2365,Gujarat
+2024,3 PM to 6 PM,Day,2542,Gujarat
+2024,6 PM to 9 PM,Night,3367,Gujarat
+2024,9 PM to 12 AM,Night,1967,Gujarat
+2024,12 AM to 3 AM,Night,858,Haryana
+2024,3 AM to 6 AM,Night,851,Haryana
+2024,6 AM to 9 AM,Day,1195,Haryana
+2024,9 AM to 12 PM,Day,1338,Haryana
+2024,12 PM to 3 PM,Day,1410,Haryana
+2024,3 PM to 6 PM,Day,1465,Haryana
+2024,6 PM to 9 PM,Night,1972,Haryana
+2024,9 PM to 12 AM,Night,1480,Haryana
+2024,12 AM to 3 AM,Night,151,Himachal Pradesh
+2024,3 AM to 6 AM,Night,111,Himachal Pradesh
+2024,6 AM to 9 AM,Day,219,Himachal Pradesh
+2024,9 AM to 12 PM,Day,261,Himachal Pradesh
+2024,12 PM to 3 PM,Day,326,Himachal Pradesh
+2024,3 PM to 6 PM,Day,395,Himachal Pradesh
+2024,6 PM to 9 PM,Night,420,Himachal Pradesh
+2024,9 PM to 12 AM,Night,275,Himachal Pradesh
+2024,12 AM to 3 AM,Night,221,Jammu And Kashmir And Ladakh
+2024,3 AM to 6 AM,Night,177,Jammu And Kashmir And Ladakh
+2024,6 AM to 9 AM,Day,596,Jammu And Kashmir And Ladakh
+2024,9 AM to 12 PM,Day,897,Jammu And Kashmir And Ladakh
+2024,12 PM to 3 PM,Day,1093,Jammu And Kashmir And Ladakh
+2024,3 PM to 6 PM,Day,1213,Jammu And Kashmir And Ladakh
+2024,6 PM to 9 PM,Night,970,Jammu And Kashmir And Ladakh
+2024,9 PM to 12 AM,Night,610,Jammu And Kashmir And Ladakh
+2024,12 AM to 3 AM,Night,264,Jharkhand
+2024,3 AM to 6 AM,Night,473,Jharkhand
+2024,6 AM to 9 AM,Day,538,Jharkhand
+2024,9 AM to 12 PM,Day,658,Jharkhand
+2024,12 PM to 3 PM,Day,706,Jharkhand
+2024,3 PM to 6 PM,Day,946,Jharkhand
+2024,6 PM to 9 PM,Night,1079,Jharkhand
+2024,9 PM to 12 AM,Night,532,Jharkhand
+2024,12 AM to 3 AM,Night,2302,Karnataka
+2024,3 AM to 6 AM,Night,2136,Karnataka
+2024,6 AM to 9 AM,Day,4059,Karnataka
+2024,9 AM to 12 PM,Day,5765,Karnataka
+2024,12 PM to 3 PM,Day,6433,Karnataka
+2024,3 PM to 6 PM,Day,7436,Karnataka
+2024,6 PM to 9 PM,Night,9372,Karnataka
+2024,9 PM to 12 AM,Night,5559,Karnataka
+2024,12 AM to 3 AM,Night,1455,Kerala
+2024,3 AM to 6 AM,Night,1523,Kerala
+2024,6 AM to 9 AM,Day,5410,Kerala
+2024,9 AM to 12 PM,Day,8049,Kerala
+2024,12 PM to 3 PM,Day,7014,Kerala
+2024,3 PM to 6 PM,Day,8721,Kerala
+2024,6 PM to 9 PM,Night,9711,Kerala
+2024,9 PM to 12 AM,Night,4708,Kerala
+2024,12 AM to 3 AM,Night,27,Jammu And Kashmir And Ladakh
+2024,3 AM to 6 AM,Night,35,Jammu And Kashmir And Ladakh
+2024,6 AM to 9 AM,Day,19,Jammu And Kashmir And Ladakh
+2024,9 AM to 12 PM,Day,37,Jammu And Kashmir And Ladakh
+2024,12 PM to 3 PM,Day,44,Jammu And Kashmir And Ladakh
+2024,3 PM to 6 PM,Day,51,Jammu And Kashmir And Ladakh
+2024,6 PM to 9 PM,Night,25,Jammu And Kashmir And Ladakh
+2024,9 PM to 12 AM,Night,26,Jammu And Kashmir And Ladakh
+2024,12 AM to 3 AM,Night,0,Lakshadweep
+2024,3 AM to 6 AM,Night,0,Lakshadweep
+2024,6 AM to 9 AM,Day,0,Lakshadweep
+2024,9 AM to 12 PM,Day,0,Lakshadweep
+2024,12 PM to 3 PM,Day,0,Lakshadweep
+2024,3 PM to 6 PM,Day,0,Lakshadweep
+2024,6 PM to 9 PM,Night,0,Lakshadweep
+2024,9 PM to 12 AM,Night,0,Lakshadweep
+2024,12 AM to 3 AM,Night,3271,Madhya Pradesh
+2024,3 AM to 6 AM,Night,2510,Madhya Pradesh
+2024,6 AM to 9 AM,Day,4647,Madhya Pradesh
+2024,9 AM to 12 PM,Day,7335,Madhya Pradesh
+2024,12 PM to 3 PM,Day,9151,Madhya Pradesh
+2024,3 PM to 6 PM,Day,10274,Madhya Pradesh
+2024,6 PM to 9 PM,Night,11208,Madhya Pradesh
+2024,9 PM to 12 AM,Night,7315,Madhya Pradesh
+2024,12 AM to 3 AM,Night,1878,Maharashtra
+2024,3 AM to 6 AM,Night,1778,Maharashtra
+2024,6 AM to 9 AM,Day,2989,Maharashtra
+2024,9 AM to 12 PM,Day,4047,Maharashtra
+2024,12 PM to 3 PM,Day,4556,Maharashtra
+2024,3 PM to 6 PM,Day,5173,Maharashtra
+2024,6 PM to 9 PM,Night,6198,Maharashtra
+2024,9 PM to 12 AM,Night,4016,Maharashtra
+2024,12 AM to 3 AM,Night,1,Manipur
+2024,3 AM to 6 AM,Night,2,Manipur
+2024,6 AM to 9 AM,Day,25,Manipur
+2024,9 AM to 12 PM,Day,44,Manipur
+2024,12 PM to 3 PM,Day,46,Manipur
+2024,3 PM to 6 PM,Day,63,Manipur
+2024,6 PM to 9 PM,Night,97,Manipur
+2024,9 PM to 12 AM,Night,21,Manipur
+2024,12 AM to 3 AM,Night,13,Meghalaya
+2024,3 AM to 6 AM,Night,22,Meghalaya
+2024,6 AM to 9 AM,Day,31,Meghalaya
+2024,9 AM to 12 PM,Day,40,Meghalaya
+2024,12 PM to 3 PM,Day,40,Meghalaya
+2024,3 PM to 6 PM,Day,50,Meghalaya
+2024,6 PM to 9 PM,Night,55,Meghalaya
+2024,9 PM to 12 AM,Night,17,Meghalaya
+2024,12 AM to 3 AM,Night,4,Mizoram
+2024,3 AM to 6 AM,Night,8,Mizoram
+2024,6 AM to 9 AM,Day,8,Mizoram
+2024,9 AM to 12 PM,Day,7,Mizoram
+2024,12 PM to 3 PM,Day,11,Mizoram
+2024,3 PM to 6 PM,Day,16,Mizoram
+2024,6 PM to 9 PM,Night,10,Mizoram
+2024,9 PM to 12 AM,Night,5,Mizoram
+2024,12 AM to 3 AM,Night,0,Nagaland
+2024,3 AM to 6 AM,Night,3,Nagaland
+2024,6 AM to 9 AM,Day,2,Nagaland
+2024,9 AM to 12 PM,Day,2,Nagaland
+2024,12 PM to 3 PM,Day,6,Nagaland
+2024,3 PM to 6 PM,Day,0,Nagaland
+2024,6 PM to 9 PM,Night,3,Nagaland
+2024,9 PM to 12 AM,Night,7,Nagaland
+2024,12 AM to 3 AM,Night,919,Odisha
+2024,3 AM to 6 AM,Night,1127,Odisha
+2024,6 AM to 9 AM,Day,1209,Odisha
+2024,9 AM to 12 PM,Day,1663,Odisha
+2024,12 PM to 3 PM,Day,1759,Odisha
+2024,3 PM to 6 PM,Day,2000,Odisha
+2024,6 PM to 9 PM,Night,2377,Odisha
+2024,9 PM to 12 AM,Night,1321,Odisha
+2024,12 AM to 3 AM,Night,44,Puducherry
+2024,3 AM to 6 AM,Night,52,Puducherry
+2024,6 AM to 9 AM,Day,158,Puducherry
+2024,9 AM to 12 PM,Day,240,Puducherry
+2024,12 PM to 3 PM,Day,198,Puducherry
+2024,3 PM to 6 PM,Day,246,Puducherry
+2024,6 PM to 9 PM,Night,315,Puducherry
+2024,9 PM to 12 AM,Night,178,Puducherry
+2024,12 AM to 3 AM,Night,183,Punjab
+2024,3 AM to 6 AM,Night,205,Punjab
+2024,6 AM to 9 AM,Day,630,Punjab
+2024,9 AM to 12 PM,Day,898,Punjab
+2024,12 PM to 3 PM,Day,902,Punjab
+2024,3 PM to 6 PM,Day,1077,Punjab
+2024,6 PM to 9 PM,Night,1661,Punjab
+2024,9 PM to 12 AM,Night,610,Punjab
+2024,12 AM to 3 AM,Night,1227,Rajasthan
+2024,3 AM to 6 AM,Night,1199,Rajasthan
+2024,6 AM to 9 AM,Day,2660,Rajasthan
+2024,9 AM to 12 PM,Day,3304,Rajasthan
+2024,12 PM to 3 PM,Day,3661,Rajasthan
+2024,3 PM to 6 PM,Day,4383,Rajasthan
+2024,6 PM to 9 PM,Night,4882,Rajasthan
+2024,9 PM to 12 AM,Night,2803,Rajasthan
+2024,12 AM to 3 AM,Night,8,Sikkim
+2024,3 AM to 6 AM,Night,5,Sikkim
+2024,6 AM to 9 AM,Day,14,Sikkim
+2024,9 AM to 12 PM,Day,16,Sikkim
+2024,12 PM to 3 PM,Day,18,Sikkim
+2024,3 PM to 6 PM,Day,32,Sikkim
+2024,6 PM to 9 PM,Night,26,Sikkim
+2024,9 PM to 12 AM,Night,27,Sikkim
+2024,12 AM to 3 AM,Night,1914,Tamil Nadu
+2024,3 AM to 6 AM,Night,2981,Tamil Nadu
+2024,6 AM to 9 AM,Day,7761,Tamil Nadu
+2024,9 AM to 12 PM,Day,9779,Tamil Nadu
+2024,12 PM to 3 PM,Day,9753,Tamil Nadu
+2024,3 PM to 6 PM,Day,11842,Tamil Nadu
+2024,6 PM to 9 PM,Night,16823,Tamil Nadu
+2024,9 PM to 12 AM,Night,6673,Tamil Nadu
+2024,12 AM to 3 AM,Night,1464,Telangana
+2024,3 AM to 6 AM,Night,1246,Telangana
+2024,6 AM to 9 AM,Day,2600,Telangana
+2024,9 AM to 12 PM,Day,3611,Telangana
+2024,12 PM to 3 PM,Day,3948,Telangana
+2024,3 PM to 6 PM,Day,4856,Telangana
+2024,6 PM to 9 PM,Night,5428,Telangana
+2024,9 PM to 12 AM,Night,2833,Telangana
+2024,12 AM to 3 AM,Night,9,Dadra And Nagar Haveli And Daman And Diu
+2024,3 AM to 6 AM,Night,5,Dadra And Nagar Haveli And Daman And Diu
+2024,6 AM to 9 AM,Day,7,Dadra And Nagar Haveli And Daman And Diu
+2024,9 AM to 12 PM,Day,11,Dadra And Nagar Haveli And Daman And Diu
+2024,12 PM to 3 PM,Day,14,Dadra And Nagar Haveli And Daman And Diu
+2024,3 PM to 6 PM,Day,31,Dadra And Nagar Haveli And Daman And Diu
+2024,6 PM to 9 PM,Night,35,Dadra And Nagar Haveli And Daman And Diu
+2024,9 PM to 12 AM,Night,32,Dadra And Nagar Haveli And Daman And Diu
+2024,12 AM to 3 AM,Night,21,Tripura
+2024,3 AM to 6 AM,Night,28,Tripura
+2024,6 AM to 9 AM,Day,52,Tripura
+2024,9 AM to 12 PM,Day,104,Tripura
+2024,12 PM to 3 PM,Day,84,Tripura
+2024,3 PM to 6 PM,Day,116,Tripura
+2024,6 PM to 9 PM,Night,108,Tripura
+2024,9 PM to 12 AM,Night,65,Tripura
+2024,12 AM to 3 AM,Night,3865,Uttar Pradesh
+2024,3 AM to 6 AM,Night,4194,Uttar Pradesh
+2024,6 AM to 9 AM,Day,4229,Uttar Pradesh
+2024,9 AM to 12 PM,Day,4449,Uttar Pradesh
+2024,12 PM to 3 PM,Day,4588,Uttar Pradesh
+2024,3 PM to 6 PM,Day,5694,Uttar Pradesh
+2024,6 PM to 9 PM,Night,6701,Uttar Pradesh
+2024,9 PM to 12 AM,Night,4697,Uttar Pradesh
+2024,12 AM to 3 AM,Night,145,Uttarakhand
+2024,3 AM to 6 AM,Night,143,Uttarakhand
+2024,6 AM to 9 AM,Day,181,Uttarakhand
+2024,9 AM to 12 PM,Day,234,Uttarakhand
+2024,12 PM to 3 PM,Day,230,Uttarakhand
+2024,3 PM to 6 PM,Day,221,Uttarakhand
+2024,6 PM to 9 PM,Night,338,Uttarakhand
+2024,9 PM to 12 AM,Night,254,Uttarakhand
+2024,12 AM to 3 AM,Night,843,West Bengal
+2024,3 AM to 6 AM,Night,982,West Bengal
+2024,6 AM to 9 AM,Day,1123,West Bengal
+2024,9 AM to 12 PM,Day,1576,West Bengal
+2024,12 PM to 3 PM,Day,1539,West Bengal
+2024,3 PM to 6 PM,Day,1508,West Bengal
+2024,6 PM to 9 PM,Night,1671,West Bengal
+2024,9 PM to 12 AM,Night,1401,West Bengal

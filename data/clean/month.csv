@@ -1,0 +1,2989 @@
+year,month,number_of_accidents,state
+2018,January,21,Andaman And Nicobar Islands
+2018,February,27,Andaman And Nicobar Islands
+2018,March,17,Andaman And Nicobar Islands
+2018,April,18,Andaman And Nicobar Islands
+2018,May,21,Andaman And Nicobar Islands
+2018,June,14,Andaman And Nicobar Islands
+2018,July,22,Andaman And Nicobar Islands
+2018,August,32,Andaman And Nicobar Islands
+2018,September,15,Andaman And Nicobar Islands
+2018,October,26,Andaman And Nicobar Islands
+2018,November,20,Andaman And Nicobar Islands
+2018,December,21,Andaman And Nicobar Islands
+2018,January,1956,Andhra Pradesh
+2018,February,1813,Andhra Pradesh
+2018,March,1941,Andhra Pradesh
+2018,April,1875,Andhra Pradesh
+2018,May,2049,Andhra Pradesh
+2018,June,1777,Andhra Pradesh
+2018,July,1865,Andhra Pradesh
+2018,August,1642,Andhra Pradesh
+2018,September,1362,Andhra Pradesh
+2018,October,1553,Andhra Pradesh
+2018,November,1497,Andhra Pradesh
+2018,December,1678,Andhra Pradesh
+2018,January,33,Arunachal Pradesh
+2018,February,13,Arunachal Pradesh
+2018,March,18,Arunachal Pradesh
+2018,April,20,Arunachal Pradesh
+2018,May,19,Arunachal Pradesh
+2018,June,15,Arunachal Pradesh
+2018,July,16,Arunachal Pradesh
+2018,August,19,Arunachal Pradesh
+2018,September,12,Arunachal Pradesh
+2018,October,18,Arunachal Pradesh
+2018,November,15,Arunachal Pradesh
+2018,December,31,Arunachal Pradesh
+2018,January,622,Assam
+2018,February,541,Assam
+2018,March,548,Assam
+2018,April,583,Assam
+2018,May,647,Assam
+2018,June,639,Assam
+2018,July,545,Assam
+2018,August,585,Assam
+2018,September,570,Assam
+2018,October,603,Assam
+2018,November,602,Assam
+2018,December,695,Assam
+2018,January,767,Bihar
+2018,February,754,Bihar
+2018,March,779,Bihar
+2018,April,866,Bihar
+2018,May,965,Bihar
+2018,June,863,Bihar
+2018,July,741,Bihar
+2018,August,695,Bihar
+2018,September,655,Bihar
+2018,October,778,Bihar
+2018,November,883,Bihar
+2018,December,854,Bihar
+2018,January,62,Chandigarh
+2018,February,52,Chandigarh
+2018,March,80,Chandigarh
+2018,April,52,Chandigarh
+2018,May,52,Chandigarh
+2018,June,30,Chandigarh
+2018,July,54,Chandigarh
+2018,August,48,Chandigarh
+2018,September,50,Chandigarh
+2018,October,56,Chandigarh
+2018,November,50,Chandigarh
+2018,December,48,Chandigarh
+2018,January,1493,Chhattisgarh
+2018,February,1170,Chhattisgarh
+2018,March,1190,Chhattisgarh
+2018,April,1168,Chhattisgarh
+2018,May,1177,Chhattisgarh
+2018,June,1138,Chhattisgarh
+2018,July,1162,Chhattisgarh
+2018,August,1074,Chhattisgarh
+2018,September,989,Chhattisgarh
+2018,October,1117,Chhattisgarh
+2018,November,1085,Chhattisgarh
+2018,December,1102,Chhattisgarh
+2018,January,1036,Delhi
+2018,February,1010,Delhi
+2018,March,1188,Delhi
+2018,April,1180,Delhi
+2018,May,1020,Delhi
+2018,June,1012,Delhi
+2018,July,1084,Delhi
+2018,August,1130,Delhi
+2018,September,1030,Delhi
+2018,October,1180,Delhi
+2018,November,1044,Delhi
+2018,December,1120,Delhi
+2018,January,344,Goa
+2018,February,350,Goa
+2018,March,320,Goa
+2018,April,333,Goa
+2018,May,319,Goa
+2018,June,308,Goa
+2018,July,261,Goa
+2018,August,248,Goa
+2018,September,269,Goa
+2018,October,305,Goa
+2018,November,310,Goa
+2018,December,343,Goa
+2018,January,1620,Gujarat
+2018,February,1512,Gujarat
+2018,March,1615,Gujarat
+2018,April,1625,Gujarat
+2018,May,1735,Gujarat
+2018,June,1565,Gujarat
+2018,July,1342,Gujarat
+2018,August,1377,Gujarat
+2018,September,1342,Gujarat
+2018,October,1494,Gujarat
+2018,November,1655,Gujarat
+2018,December,1532,Gujarat
+2018,January,913,Haryana
+2018,February,999,Haryana
+2018,March,1055,Haryana
+2018,April,1069,Haryana
+2018,May,949,Haryana
+2018,June,911,Haryana
+2018,July,888,Haryana
+2018,August,955,Haryana
+2018,September,885,Haryana
+2018,October,1035,Haryana
+2018,November,960,Haryana
+2018,December,1033,Haryana
+2018,January,241,Himachal Pradesh
+2018,February,214,Himachal Pradesh
+2018,March,271,Himachal Pradesh
+2018,April,274,Himachal Pradesh
+2018,May,237,Himachal Pradesh
+2018,June,296,Himachal Pradesh
+2018,July,279,Himachal Pradesh
+2018,August,248,Himachal Pradesh
+2018,September,263,Himachal Pradesh
+2018,October,263,Himachal Pradesh
+2018,November,254,Himachal Pradesh
+2018,December,279,Himachal Pradesh
+2018,January,459,Jammu And Kashmir And Ladakh
+2018,February,399,Jammu And Kashmir And Ladakh
+2018,March,461,Jammu And Kashmir And Ladakh
+2018,April,482,Jammu And Kashmir And Ladakh
+2018,May,551,Jammu And Kashmir And Ladakh
+2018,June,547,Jammu And Kashmir And Ladakh
+2018,July,503,Jammu And Kashmir And Ladakh
+2018,August,586,Jammu And Kashmir And Ladakh
+2018,September,513,Jammu And Kashmir And Ladakh
+2018,October,566,Jammu And Kashmir And Ladakh
+2018,November,474,Jammu And Kashmir And Ladakh
+2018,December,456,Jammu And Kashmir And Ladakh
+2018,January,517,Jharkhand
+2018,February,436,Jharkhand
+2018,March,421,Jharkhand
+2018,April,489,Jharkhand
+2018,May,509,Jharkhand
+2018,June,471,Jharkhand
+2018,July,429,Jharkhand
+2018,August,408,Jharkhand
+2018,September,390,Jharkhand
+2018,October,452,Jharkhand
+2018,November,418,Jharkhand
+2018,December,454,Jharkhand
+2018,January,3936,Karnataka
+2018,February,3473,Karnataka
+2018,March,3552,Karnataka
+2018,April,3526,Karnataka
+2018,May,3703,Karnataka
+2018,June,3466,Karnataka
+2018,July,3261,Karnataka
+2018,August,3227,Karnataka
+2018,September,3158,Karnataka
+2018,October,3214,Karnataka
+2018,November,3432,Karnataka
+2018,December,3759,Karnataka
+2018,January,3655,Kerala
+2018,February,3433,Kerala
+2018,March,3448,Kerala
+2018,April,3326,Kerala
+2018,May,3592,Kerala
+2018,June,3200,Kerala
+2018,July,3045,Kerala
+2018,August,2918,Kerala
+2018,September,3278,Kerala
+2018,October,3302,Kerala
+2018,November,3449,Kerala
+2018,December,3535,Kerala
+2018,January,0,Lakshadweep
+2018,February,0,Lakshadweep
+2018,March,0,Lakshadweep
+2018,April,1,Lakshadweep
+2018,May,1,Lakshadweep
+2018,June,0,Lakshadweep
+2018,July,1,Lakshadweep
+2018,August,0,Lakshadweep
+2018,September,0,Lakshadweep
+2018,October,0,Lakshadweep
+2018,November,0,Lakshadweep
+2018,December,0,Lakshadweep
+2018,January,4709,Madhya Pradesh
+2018,February,3800,Madhya Pradesh
+2018,March,4117,Madhya Pradesh
+2018,April,4309,Madhya Pradesh
+2018,May,4369,Madhya Pradesh
+2018,June,4111,Madhya Pradesh
+2018,July,3658,Madhya Pradesh
+2018,August,3545,Madhya Pradesh
+2018,September,3473,Madhya Pradesh
+2018,October,3939,Madhya Pradesh
+2018,November,3636,Madhya Pradesh
+2018,December,3803,Madhya Pradesh
+2018,January,2562,Maharashtra
+2018,February,2343,Maharashtra
+2018,March,2572,Maharashtra
+2018,April,2590,Maharashtra
+2018,May,2808,Maharashtra
+2018,June,2373,Maharashtra
+2018,July,1995,Maharashtra
+2018,August,2201,Maharashtra
+2018,September,2321,Maharashtra
+2018,October,2643,Maharashtra
+2018,November,2626,Maharashtra
+2018,December,2706,Maharashtra
+2018,January,53,Manipur
+2018,February,46,Manipur
+2018,March,53,Manipur
+2018,April,43,Manipur
+2018,May,40,Manipur
+2018,June,44,Manipur
+2018,July,43,Manipur
+2018,August,48,Manipur
+2018,September,38,Manipur
+2018,October,49,Manipur
+2018,November,71,Manipur
+2018,December,74,Manipur
+2018,January,37,Meghalaya
+2018,February,22,Meghalaya
+2018,March,22,Meghalaya
+2018,April,20,Meghalaya
+2018,May,17,Meghalaya
+2018,June,19,Meghalaya
+2018,July,22,Meghalaya
+2018,August,17,Meghalaya
+2018,September,19,Meghalaya
+2018,October,16,Meghalaya
+2018,November,26,Meghalaya
+2018,December,21,Meghalaya
+2018,January,3,Mizoram
+2018,February,0,Mizoram
+2018,March,3,Mizoram
+2018,April,6,Mizoram
+2018,May,8,Mizoram
+2018,June,3,Mizoram
+2018,July,3,Mizoram
+2018,August,5,Mizoram
+2018,September,4,Mizoram
+2018,October,5,Mizoram
+2018,November,6,Mizoram
+2018,December,4,Mizoram
+2018,January,4,Nagaland
+2018,February,6,Nagaland
+2018,March,8,Nagaland
+2018,April,4,Nagaland
+2018,May,3,Nagaland
+2018,June,6,Nagaland
+2018,July,3,Nagaland
+2018,August,1,Nagaland
+2018,September,4,Nagaland
+2018,October,1,Nagaland
+2018,November,1,Nagaland
+2018,December,9,Nagaland
+2018,January,1029,Odisha
+2018,February,907,Odisha
+2018,March,950,Odisha
+2018,April,953,Odisha
+2018,May,971,Odisha
+2018,June,936,Odisha
+2018,July,863,Odisha
+2018,August,859,Odisha
+2018,September,853,Odisha
+2018,October,937,Odisha
+2018,November,944,Odisha
+2018,December,1060,Odisha
+2018,January,133,Puducherry
+2018,February,107,Puducherry
+2018,March,133,Puducherry
+2018,April,144,Puducherry
+2018,May,148,Puducherry
+2018,June,125,Puducherry
+2018,July,137,Puducherry
+2018,August,127,Puducherry
+2018,September,147,Puducherry
+2018,October,128,Puducherry
+2018,November,127,Puducherry
+2018,December,141,Puducherry
+2018,January,577,Punjab
+2018,February,488,Punjab
+2018,March,504,Punjab
+2018,April,546,Punjab
+2018,May,570,Punjab
+2018,June,500,Punjab
+2018,July,487,Punjab
+2018,August,518,Punjab
+2018,September,500,Punjab
+2018,October,536,Punjab
+2018,November,618,Punjab
+2018,December,580,Punjab
+2018,January,2053,Rajasthan
+2018,February,1727,Rajasthan
+2018,March,1922,Rajasthan
+2018,April,1980,Rajasthan
+2018,May,2062,Rajasthan
+2018,June,1738,Rajasthan
+2018,July,1679,Rajasthan
+2018,August,1625,Rajasthan
+2018,September,1756,Rajasthan
+2018,October,1795,Rajasthan
+2018,November,1873,Rajasthan
+2018,December,1533,Rajasthan
+2018,January,12,Sikkim
+2018,February,22,Sikkim
+2018,March,14,Sikkim
+2018,April,11,Sikkim
+2018,May,18,Sikkim
+2018,June,6,Sikkim
+2018,July,17,Sikkim
+2018,August,8,Sikkim
+2018,September,11,Sikkim
+2018,October,29,Sikkim
+2018,November,11,Sikkim
+2018,December,10,Sikkim
+2018,January,5798,Tamil Nadu
+2018,February,5243,Tamil Nadu
+2018,March,5330,Tamil Nadu
+2018,April,5535,Tamil Nadu
+2018,May,5636,Tamil Nadu
+2018,June,5484,Tamil Nadu
+2018,July,5465,Tamil Nadu
+2018,August,5545,Tamil Nadu
+2018,September,5302,Tamil Nadu
+2018,October,5075,Tamil Nadu
+2018,November,4864,Tamil Nadu
+2018,December,4643,Tamil Nadu
+2018,January,1976,Telangana
+2018,February,1763,Telangana
+2018,March,1899,Telangana
+2018,April,1995,Telangana
+2018,May,2138,Telangana
+2018,June,1908,Telangana
+2018,July,1750,Telangana
+2018,August,1681,Telangana
+2018,September,1516,Telangana
+2018,October,1788,Telangana
+2018,November,1919,Telangana
+2018,December,1897,Telangana
+2018,January,18,Dadra And Nagar Haveli And Daman And Diu
+2018,February,17,Dadra And Nagar Haveli And Daman And Diu
+2018,March,18,Dadra And Nagar Haveli And Daman And Diu
+2018,April,10,Dadra And Nagar Haveli And Daman And Diu
+2018,May,12,Dadra And Nagar Haveli And Daman And Diu
+2018,June,9,Dadra And Nagar Haveli And Daman And Diu
+2018,July,14,Dadra And Nagar Haveli And Daman And Diu
+2018,August,11,Dadra And Nagar Haveli And Daman And Diu
+2018,September,8,Dadra And Nagar Haveli And Daman And Diu
+2018,October,11,Dadra And Nagar Haveli And Daman And Diu
+2018,November,15,Dadra And Nagar Haveli And Daman And Diu
+2018,December,8,Dadra And Nagar Haveli And Daman And Diu
+2018,January,52,Tripura
+2018,February,38,Tripura
+2018,March,51,Tripura
+2018,April,40,Tripura
+2018,May,44,Tripura
+2018,June,45,Tripura
+2018,July,35,Tripura
+2018,August,34,Tripura
+2018,September,50,Tripura
+2018,October,55,Tripura
+2018,November,51,Tripura
+2018,December,56,Tripura
+2018,January,3245,Uttar Pradesh
+2018,February,3058,Uttar Pradesh
+2018,March,3186,Uttar Pradesh
+2018,April,3142,Uttar Pradesh
+2018,May,3210,Uttar Pradesh
+2018,June,3114,Uttar Pradesh
+2018,July,2967,Uttar Pradesh
+2018,August,2776,Uttar Pradesh
+2018,September,2761,Uttar Pradesh
+2018,October,2956,Uttar Pradesh
+2018,November,3051,Uttar Pradesh
+2018,December,3389,Uttar Pradesh
+2018,January,135,Uttarakhand
+2018,February,111,Uttarakhand
+2018,March,115,Uttarakhand
+2018,April,126,Uttarakhand
+2018,May,130,Uttarakhand
+2018,June,127,Uttarakhand
+2018,July,115,Uttarakhand
+2018,August,124,Uttarakhand
+2018,September,102,Uttarakhand
+2018,October,110,Uttarakhand
+2018,November,124,Uttarakhand
+2018,December,150,Uttarakhand
+2018,January,1084,West Bengal
+2018,February,914,West Bengal
+2018,March,1046,West Bengal
+2018,April,993,West Bengal
+2018,May,969,West Bengal
+2018,June,1047,West Bengal
+2018,July,1006,West Bengal
+2018,August,904,West Bengal
+2018,September,880,West Bengal
+2018,October,973,West Bengal
+2018,November,981,West Bengal
+2018,December,1030,West Bengal
+2019,January,1783,Andhra Pradesh
+2019,February,1655,Andhra Pradesh
+2019,March,1772,Andhra Pradesh
+2019,April,1799,Andhra Pradesh
+2019,May,1821,Andhra Pradesh
+2019,June,1795,Andhra Pradesh
+2019,July,1688,Andhra Pradesh
+2019,August,1721,Andhra Pradesh
+2019,September,1463,Andhra Pradesh
+2019,October,1595,Andhra Pradesh
+2019,November,1698,Andhra Pradesh
+2019,December,1887,Andhra Pradesh
+2019,January,25,Arunachal Pradesh
+2019,February,17,Arunachal Pradesh
+2019,March,12,Arunachal Pradesh
+2019,April,19,Arunachal Pradesh
+2019,May,9,Arunachal Pradesh
+2019,June,17,Arunachal Pradesh
+2019,July,22,Arunachal Pradesh
+2019,August,12,Arunachal Pradesh
+2019,September,11,Arunachal Pradesh
+2019,October,17,Arunachal Pradesh
+2019,November,17,Arunachal Pradesh
+2019,December,22,Arunachal Pradesh
+2019,January,748,Assam
+2019,February,748,Assam
+2019,March,752,Assam
+2019,April,648,Assam
+2019,May,677,Assam
+2019,June,673,Assam
+2019,July,566,Assam
+2019,August,581,Assam
+2019,September,661,Assam
+2019,October,658,Assam
+2019,November,655,Assam
+2019,December,688,Assam
+2019,January,898,Bihar
+2019,February,807,Bihar
+2019,March,928,Bihar
+2019,April,806,Bihar
+2019,May,1054,Bihar
+2019,June,1014,Bihar
+2019,July,748,Bihar
+2019,August,746,Bihar
+2019,September,592,Bihar
+2019,October,698,Bihar
+2019,November,893,Bihar
+2019,December,823,Bihar
+2019,January,60,Chandigarh
+2019,February,42,Chandigarh
+2019,March,44,Chandigarh
+2019,April,44,Chandigarh
+2019,May,50,Chandigarh
+2019,June,52,Chandigarh
+2019,July,50,Chandigarh
+2019,August,72,Chandigarh
+2019,September,28,Chandigarh
+2019,October,54,Chandigarh
+2019,November,58,Chandigarh
+2019,December,54,Chandigarh
+2019,January,1389,Chhattisgarh
+2019,February,1236,Chhattisgarh
+2019,March,1122,Chhattisgarh
+2019,April,1236,Chhattisgarh
+2019,May,1273,Chhattisgarh
+2019,June,1178,Chhattisgarh
+2019,July,1172,Chhattisgarh
+2019,August,1025,Chhattisgarh
+2019,September,999,Chhattisgarh
+2019,October,1094,Chhattisgarh
+2019,November,1127,Chhattisgarh
+2019,December,1048,Chhattisgarh
+2019,January,1048,Delhi
+2019,February,938,Delhi
+2019,March,1044,Delhi
+2019,April,890,Delhi
+2019,May,960,Delhi
+2019,June,970,Delhi
+2019,July,938,Delhi
+2019,August,824,Delhi
+2019,September,844,Delhi
+2019,October,910,Delhi
+2019,November,938,Delhi
+2019,December,898,Delhi
+2019,January,329,Goa
+2019,February,298,Goa
+2019,March,305,Goa
+2019,April,282,Goa
+2019,May,313,Goa
+2019,June,270,Goa
+2019,July,231,Goa
+2019,August,252,Goa
+2019,September,235,Goa
+2019,October,281,Goa
+2019,November,293,Goa
+2019,December,351,Goa
+2019,January,1663,Gujarat
+2019,February,1580,Gujarat
+2019,March,1544,Gujarat
+2019,April,1395,Gujarat
+2019,May,1560,Gujarat
+2019,June,1357,Gujarat
+2019,July,1206,Gujarat
+2019,August,1136,Gujarat
+2019,September,1067,Gujarat
+2019,October,1310,Gujarat
+2019,November,1254,Gujarat
+2019,December,1431,Gujarat
+2019,January,963,Haryana
+2019,February,809,Haryana
+2019,March,991,Haryana
+2019,April,919,Haryana
+2019,May,932,Haryana
+2019,June,875,Haryana
+2019,July,923,Haryana
+2019,August,888,Haryana
+2019,September,855,Haryana
+2019,October,915,Haryana
+2019,November,926,Haryana
+2019,December,941,Haryana
+2019,January,240,Himachal Pradesh
+2019,February,167,Himachal Pradesh
+2019,March,250,Himachal Pradesh
+2019,April,254,Himachal Pradesh
+2019,May,255,Himachal Pradesh
+2019,June,292,Himachal Pradesh
+2019,July,233,Himachal Pradesh
+2019,August,252,Himachal Pradesh
+2019,September,228,Himachal Pradesh
+2019,October,257,Himachal Pradesh
+2019,November,232,Himachal Pradesh
+2019,December,236,Himachal Pradesh
+2019,January,452,Jammu And Kashmir And Ladakh
+2019,February,293,Jammu And Kashmir And Ladakh
+2019,March,440,Jammu And Kashmir And Ladakh
+2019,April,503,Jammu And Kashmir And Ladakh
+2019,May,535,Jammu And Kashmir And Ladakh
+2019,June,592,Jammu And Kashmir And Ladakh
+2019,July,639,Jammu And Kashmir And Ladakh
+2019,August,406,Jammu And Kashmir And Ladakh
+2019,September,435,Jammu And Kashmir And Ladakh
+2019,October,555,Jammu And Kashmir And Ladakh
+2019,November,517,Jammu And Kashmir And Ladakh
+2019,December,428,Jammu And Kashmir And Ladakh
+2019,January,465,Jharkhand
+2019,February,486,Jharkhand
+2019,March,440,Jharkhand
+2019,April,447,Jharkhand
+2019,May,428,Jharkhand
+2019,June,485,Jharkhand
+2019,July,465,Jharkhand
+2019,August,396,Jharkhand
+2019,September,371,Jharkhand
+2019,October,414,Jharkhand
+2019,November,396,Jharkhand
+2019,December,424,Jharkhand
+2019,January,3696,Karnataka
+2019,February,3512,Karnataka
+2019,March,3550,Karnataka
+2019,April,3583,Karnataka
+2019,May,3730,Karnataka
+2019,June,3599,Karnataka
+2019,July,3029,Karnataka
+2019,August,2895,Karnataka
+2019,September,2901,Karnataka
+2019,October,3168,Karnataka
+2019,November,3361,Karnataka
+2019,December,3620,Karnataka
+2019,January,3772,Kerala
+2019,February,3558,Kerala
+2019,March,3377,Kerala
+2019,April,3301,Kerala
+2019,May,3653,Kerala
+2019,June,3246,Kerala
+2019,July,3144,Kerala
+2019,August,2825,Kerala
+2019,September,2985,Kerala
+2019,October,3268,Kerala
+2019,November,3352,Kerala
+2019,December,3463,Kerala
+2019,January,0,Lakshadweep
+2019,February,1,Lakshadweep
+2019,March,0,Lakshadweep
+2019,April,0,Lakshadweep
+2019,May,0,Lakshadweep
+2019,June,0,Lakshadweep
+2019,July,0,Lakshadweep
+2019,August,0,Lakshadweep
+2019,September,0,Lakshadweep
+2019,October,0,Lakshadweep
+2019,November,0,Lakshadweep
+2019,December,0,Lakshadweep
+2019,January,5205,Madhya Pradesh
+2019,February,4365,Madhya Pradesh
+2019,March,4385,Madhya Pradesh
+2019,April,4368,Madhya Pradesh
+2019,May,5054,Madhya Pradesh
+2019,June,4661,Madhya Pradesh
+2019,July,4067,Madhya Pradesh
+2019,August,3788,Madhya Pradesh
+2019,September,3500,Madhya Pradesh
+2019,October,4080,Madhya Pradesh
+2019,November,4268,Madhya Pradesh
+2019,December,3900,Madhya Pradesh
+2019,January,2623,Maharashtra
+2019,February,2429,Maharashtra
+2019,March,2588,Maharashtra
+2019,April,2303,Maharashtra
+2019,May,2672,Maharashtra
+2019,June,2348,Maharashtra
+2019,July,2117,Maharashtra
+2019,August,1899,Maharashtra
+2019,September,1850,Maharashtra
+2019,October,1772,Maharashtra
+2019,November,2274,Maharashtra
+2019,December,2411,Maharashtra
+2019,January,60,Manipur
+2019,February,51,Manipur
+2019,March,58,Manipur
+2019,April,50,Manipur
+2019,May,63,Manipur
+2019,June,67,Manipur
+2019,July,55,Manipur
+2019,August,54,Manipur
+2019,September,45,Manipur
+2019,October,51,Manipur
+2019,November,43,Manipur
+2019,December,75,Manipur
+2019,January,25,Meghalaya
+2019,February,24,Meghalaya
+2019,March,21,Meghalaya
+2019,April,20,Meghalaya
+2019,May,22,Meghalaya
+2019,June,16,Meghalaya
+2019,July,15,Meghalaya
+2019,August,20,Meghalaya
+2019,September,21,Meghalaya
+2019,October,21,Meghalaya
+2019,November,13,Meghalaya
+2019,December,18,Meghalaya
+2019,January,3,Mizoram
+2019,February,7,Mizoram
+2019,March,5,Mizoram
+2019,April,4,Mizoram
+2019,May,4,Mizoram
+2019,June,3,Mizoram
+2019,July,4,Mizoram
+2019,August,5,Mizoram
+2019,September,5,Mizoram
+2019,October,5,Mizoram
+2019,November,5,Mizoram
+2019,December,7,Mizoram
+2019,January,2,Nagaland
+2019,February,1,Nagaland
+2019,March,2,Nagaland
+2019,April,3,Nagaland
+2019,May,3,Nagaland
+2019,June,3,Nagaland
+2019,July,3,Nagaland
+2019,August,1,Nagaland
+2019,September,1,Nagaland
+2019,October,3,Nagaland
+2019,November,1,Nagaland
+2019,December,3,Nagaland
+2019,January,1092,Odisha
+2019,February,932,Odisha
+2019,March,1036,Odisha
+2019,April,887,Odisha
+2019,May,952,Odisha
+2019,June,903,Odisha
+2019,July,886,Odisha
+2019,August,816,Odisha
+2019,September,709,Odisha
+2019,October,874,Odisha
+2019,November,942,Odisha
+2019,December,1035,Odisha
+2019,January,127,Puducherry
+2019,February,105,Puducherry
+2019,March,118,Puducherry
+2019,April,108,Puducherry
+2019,May,114,Puducherry
+2019,June,125,Puducherry
+2019,July,118,Puducherry
+2019,August,125,Puducherry
+2019,September,124,Puducherry
+2019,October,111,Puducherry
+2019,November,105,Puducherry
+2019,December,112,Puducherry
+2019,January,530,Punjab
+2019,February,459,Punjab
+2019,March,534,Punjab
+2019,April,544,Punjab
+2019,May,501,Punjab
+2019,June,537,Punjab
+2019,July,442,Punjab
+2019,August,494,Punjab
+2019,September,526,Punjab
+2019,October,634,Punjab
+2019,November,593,Punjab
+2019,December,522,Punjab
+2019,January,2188,Rajasthan
+2019,February,1833,Rajasthan
+2019,March,2050,Rajasthan
+2019,April,1958,Rajasthan
+2019,May,2337,Rajasthan
+2019,June,2239,Rajasthan
+2019,July,2007,Rajasthan
+2019,August,1745,Rajasthan
+2019,September,1671,Rajasthan
+2019,October,1833,Rajasthan
+2019,November,1954,Rajasthan
+2019,December,1663,Rajasthan
+2019,January,20,Sikkim
+2019,February,7,Sikkim
+2019,March,17,Sikkim
+2019,April,14,Sikkim
+2019,May,14,Sikkim
+2019,June,8,Sikkim
+2019,July,8,Sikkim
+2019,August,14,Sikkim
+2019,September,19,Sikkim
+2019,October,13,Sikkim
+2019,November,15,Sikkim
+2019,December,23,Sikkim
+2019,January,5173,Tamil Nadu
+2019,February,4749,Tamil Nadu
+2019,March,5122,Tamil Nadu
+2019,April,4776,Tamil Nadu
+2019,May,4962,Tamil Nadu
+2019,June,5209,Tamil Nadu
+2019,July,4813,Tamil Nadu
+2019,August,4767,Tamil Nadu
+2019,September,4626,Tamil Nadu
+2019,October,4708,Tamil Nadu
+2019,November,4262,Tamil Nadu
+2019,December,4061,Tamil Nadu
+2019,January,1800,Telangana
+2019,February,1757,Telangana
+2019,March,2011,Telangana
+2019,April,1824,Telangana
+2019,May,1979,Telangana
+2019,June,1928,Telangana
+2019,July,1790,Telangana
+2019,August,1602,Telangana
+2019,September,1353,Telangana
+2019,October,1695,Telangana
+2019,November,1864,Telangana
+2019,December,1967,Telangana
+2019,January,10,Dadra And Nagar Haveli And Daman And Diu
+2019,February,12,Dadra And Nagar Haveli And Daman And Diu
+2019,March,13,Dadra And Nagar Haveli And Daman And Diu
+2019,April,14,Dadra And Nagar Haveli And Daman And Diu
+2019,May,11,Dadra And Nagar Haveli And Daman And Diu
+2019,June,13,Dadra And Nagar Haveli And Daman And Diu
+2019,July,10,Dadra And Nagar Haveli And Daman And Diu
+2019,August,10,Dadra And Nagar Haveli And Daman And Diu
+2019,September,13,Dadra And Nagar Haveli And Daman And Diu
+2019,October,12,Dadra And Nagar Haveli And Daman And Diu
+2019,November,6,Dadra And Nagar Haveli And Daman And Diu
+2019,December,7,Dadra And Nagar Haveli And Daman And Diu
+2019,January,70,Tripura
+2019,February,62,Tripura
+2019,March,47,Tripura
+2019,April,38,Tripura
+2019,May,59,Tripura
+2019,June,54,Tripura
+2019,July,50,Tripura
+2019,August,55,Tripura
+2019,September,50,Tripura
+2019,October,50,Tripura
+2019,November,63,Tripura
+2019,December,57,Tripura
+2019,January,3570,Uttar Pradesh
+2019,February,3160,Uttar Pradesh
+2019,March,3347,Uttar Pradesh
+2019,April,2995,Uttar Pradesh
+2019,May,3462,Uttar Pradesh
+2019,June,3345,Uttar Pradesh
+2019,July,2858,Uttar Pradesh
+2019,August,2761,Uttar Pradesh
+2019,September,2574,Uttar Pradesh
+2019,October,2829,Uttar Pradesh
+2019,November,3279,Uttar Pradesh
+2019,December,3357,Uttar Pradesh
+2019,January,121,Uttarakhand
+2019,February,117,Uttarakhand
+2019,March,104,Uttarakhand
+2019,April,97,Uttarakhand
+2019,May,128,Uttarakhand
+2019,June,137,Uttarakhand
+2019,July,123,Uttarakhand
+2019,August,108,Uttarakhand
+2019,September,85,Uttarakhand
+2019,October,101,Uttarakhand
+2019,November,101,Uttarakhand
+2019,December,130,Uttarakhand
+2019,January,935,West Bengal
+2019,February,965,West Bengal
+2019,March,947,West Bengal
+2019,April,904,West Bengal
+2019,May,951,West Bengal
+2019,June,932,West Bengal
+2019,July,1142,West Bengal
+2019,August,1018,West Bengal
+2019,September,1015,West Bengal
+2019,October,1129,West Bengal
+2019,November,1106,West Bengal
+2019,December,1189,West Bengal
+2020,January,27,Andaman And Nicobar Islands
+2020,February,21,Andaman And Nicobar Islands
+2020,March,12,Andaman And Nicobar Islands
+2020,April,0,Andaman And Nicobar Islands
+2020,May,14,Andaman And Nicobar Islands
+2020,June,10,Andaman And Nicobar Islands
+2020,July,12,Andaman And Nicobar Islands
+2020,August,3,Andaman And Nicobar Islands
+2020,September,11,Andaman And Nicobar Islands
+2020,October,10,Andaman And Nicobar Islands
+2020,November,8,Andaman And Nicobar Islands
+2020,December,13,Andaman And Nicobar Islands
+2020,January,1888,Andhra Pradesh
+2020,February,1894,Andhra Pradesh
+2020,March,1522,Andhra Pradesh
+2020,April,485,Andhra Pradesh
+2020,May,1044,Andhra Pradesh
+2020,June,1338,Andhra Pradesh
+2020,July,1235,Andhra Pradesh
+2020,August,1410,Andhra Pradesh
+2020,September,1578,Andhra Pradesh
+2020,October,1749,Andhra Pradesh
+2020,November,1862,Andhra Pradesh
+2020,December,1919,Andhra Pradesh
+2020,January,19,Arunachal Pradesh
+2020,February,20,Arunachal Pradesh
+2020,March,17,Arunachal Pradesh
+2020,April,4,Arunachal Pradesh
+2020,May,9,Arunachal Pradesh
+2020,June,4,Arunachal Pradesh
+2020,July,10,Arunachal Pradesh
+2020,August,4,Arunachal Pradesh
+2020,September,6,Arunachal Pradesh
+2020,October,16,Arunachal Pradesh
+2020,November,23,Arunachal Pradesh
+2020,December,27,Arunachal Pradesh
+2020,January,832,Assam
+2020,February,824,Assam
+2020,March,658,Assam
+2020,April,148,Assam
+2020,May,358,Assam
+2020,June,513,Assam
+2020,July,407,Assam
+2020,August,446,Assam
+2020,September,507,Assam
+2020,October,617,Assam
+2020,November,680,Assam
+2020,December,747,Assam
+2020,January,781,Bihar
+2020,February,866,Bihar
+2020,March,731,Bihar
+2020,April,404,Bihar
+2020,May,523,Bihar
+2020,June,792,Bihar
+2020,July,660,Bihar
+2020,August,679,Bihar
+2020,September,753,Bihar
+2020,October,674,Bihar
+2020,November,803,Bihar
+2020,December,973,Bihar
+2020,January,34,Chandigarh
+2020,February,34,Chandigarh
+2020,March,22,Chandigarh
+2020,April,8,Chandigarh
+2020,May,18,Chandigarh
+2020,June,14,Chandigarh
+2020,July,32,Chandigarh
+2020,August,34,Chandigarh
+2020,September,24,Chandigarh
+2020,October,36,Chandigarh
+2020,November,28,Chandigarh
+2020,December,30,Chandigarh
+2020,January,1382,Chhattisgarh
+2020,February,1269,Chhattisgarh
+2020,March,951,Chhattisgarh
+2020,April,309,Chhattisgarh
+2020,May,716,Chhattisgarh
+2020,June,932,Chhattisgarh
+2020,July,957,Chhattisgarh
+2020,August,923,Chhattisgarh
+2020,September,875,Chhattisgarh
+2020,October,1027,Chhattisgarh
+2020,November,1170,Chhattisgarh
+2020,December,1163,Chhattisgarh
+2020,January,984,Delhi
+2020,February,814,Delhi
+2020,March,780,Delhi
+2020,April,198,Delhi
+2020,May,342,Delhi
+2020,June,522,Delhi
+2020,July,712,Delhi
+2020,August,742,Delhi
+2020,September,764,Delhi
+2020,October,944,Delhi
+2020,November,760,Delhi
+2020,December,812,Delhi
+2020,January,341,Goa
+2020,February,317,Goa
+2020,March,196,Goa
+2020,April,83,Goa
+2020,May,156,Goa
+2020,June,156,Goa
+2020,July,129,Goa
+2020,August,144,Goa
+2020,September,156,Goa
+2020,October,183,Goa
+2020,November,242,Goa
+2020,December,272,Goa
+2020,January,1536,Gujarat
+2020,February,1538,Gujarat
+2020,March,1231,Gujarat
+2020,April,347,Gujarat
+2020,May,667,Gujarat
+2020,June,956,Gujarat
+2020,July,959,Gujarat
+2020,August,972,Gujarat
+2020,September,1087,Gujarat
+2020,October,1284,Gujarat
+2020,November,1377,Gujarat
+2020,December,1453,Gujarat
+2020,January,894,Haryana
+2020,February,939,Haryana
+2020,March,774,Haryana
+2020,April,215,Haryana
+2020,May,511,Haryana
+2020,June,742,Haryana
+2020,July,803,Haryana
+2020,August,850,Haryana
+2020,September,830,Haryana
+2020,October,995,Haryana
+2020,November,974,Haryana
+2020,December,979,Haryana
+2020,January,189,Himachal Pradesh
+2020,February,190,Himachal Pradesh
+2020,March,173,Himachal Pradesh
+2020,April,48,Himachal Pradesh
+2020,May,118,Himachal Pradesh
+2020,June,138,Himachal Pradesh
+2020,July,224,Himachal Pradesh
+2020,August,217,Himachal Pradesh
+2020,September,213,Himachal Pradesh
+2020,October,280,Himachal Pradesh
+2020,November,222,Himachal Pradesh
+2020,December,223,Himachal Pradesh
+2020,January,361,Jammu And Kashmir And Ladakh
+2020,February,440,Jammu And Kashmir And Ladakh
+2020,March,356,Jammu And Kashmir And Ladakh
+2020,April,147,Jammu And Kashmir And Ladakh
+2020,May,321,Jammu And Kashmir And Ladakh
+2020,June,386,Jammu And Kashmir And Ladakh
+2020,July,408,Jammu And Kashmir And Ladakh
+2020,August,465,Jammu And Kashmir And Ladakh
+2020,September,468,Jammu And Kashmir And Ladakh
+2020,October,536,Jammu And Kashmir And Ladakh
+2020,November,520,Jammu And Kashmir And Ladakh
+2020,December,453,Jammu And Kashmir And Ladakh
+2020,January,429,Jharkhand
+2020,February,466,Jharkhand
+2020,March,405,Jharkhand
+2020,April,92,Jharkhand
+2020,May,183,Jharkhand
+2020,June,397,Jharkhand
+2020,July,312,Jharkhand
+2020,August,339,Jharkhand
+2020,September,351,Jharkhand
+2020,October,426,Jharkhand
+2020,November,483,Jharkhand
+2020,December,522,Jharkhand
+2020,January,3774,Karnataka
+2020,February,3651,Karnataka
+2020,March,3026,Karnataka
+2020,April,804,Karnataka
+2020,May,2260,Karnataka
+2020,June,2660,Karnataka
+2020,July,2332,Karnataka
+2020,August,2797,Karnataka
+2020,September,2844,Karnataka
+2020,October,2996,Karnataka
+2020,November,3356,Karnataka
+2020,December,3678,Karnataka
+2020,January,3991,Kerala
+2020,February,3776,Kerala
+2020,March,2881,Kerala
+2020,April,447,Kerala
+2020,May,1368,Kerala
+2020,June,2022,Kerala
+2020,July,1755,Kerala
+2020,August,1740,Kerala
+2020,September,2005,Kerala
+2020,October,2312,Kerala
+2020,November,2595,Kerala
+2020,December,2907,Kerala
+2020,January,5,Jammu And Kashmir And Ladakh
+2020,February,5,Jammu And Kashmir And Ladakh
+2020,March,7,Jammu And Kashmir And Ladakh
+2020,April,2,Jammu And Kashmir And Ladakh
+2020,May,6,Jammu And Kashmir And Ladakh
+2020,June,11,Jammu And Kashmir And Ladakh
+2020,July,20,Jammu And Kashmir And Ladakh
+2020,August,15,Jammu And Kashmir And Ladakh
+2020,September,16,Jammu And Kashmir And Ladakh
+2020,October,30,Jammu And Kashmir And Ladakh
+2020,November,20,Jammu And Kashmir And Ladakh
+2020,December,2,Jammu And Kashmir And Ladakh
+2020,January,0,Lakshadweep
+2020,February,0,Lakshadweep
+2020,March,0,Lakshadweep
+2020,April,0,Lakshadweep
+2020,May,0,Lakshadweep
+2020,June,0,Lakshadweep
+2020,July,0,Lakshadweep
+2020,August,1,Lakshadweep
+2020,September,0,Lakshadweep
+2020,October,0,Lakshadweep
+2020,November,0,Lakshadweep
+2020,December,0,Lakshadweep
+2020,January,4521,Madhya Pradesh
+2020,February,4335,Madhya Pradesh
+2020,March,3505,Madhya Pradesh
+2020,April,852,Madhya Pradesh
+2020,May,2100,Madhya Pradesh
+2020,June,3534,Madhya Pradesh
+2020,July,3497,Madhya Pradesh
+2020,August,3465,Madhya Pradesh
+2020,September,3561,Madhya Pradesh
+2020,October,4131,Madhya Pradesh
+2020,November,4599,Madhya Pradesh
+2020,December,4296,Madhya Pradesh
+2020,January,2540,Maharashtra
+2020,February,2389,Maharashtra
+2020,March,1945,Maharashtra
+2020,April,584,Maharashtra
+2020,May,1201,Maharashtra
+2020,June,1516,Maharashtra
+2020,July,1407,Maharashtra
+2020,August,1635,Maharashtra
+2020,September,1720,Maharashtra
+2020,October,2139,Maharashtra
+2020,November,2355,Maharashtra
+2020,December,2780,Maharashtra
+2020,January,56,Manipur
+2020,February,64,Manipur
+2020,March,53,Manipur
+2020,April,12,Manipur
+2020,May,28,Manipur
+2020,June,23,Manipur
+2020,July,33,Manipur
+2020,August,20,Manipur
+2020,September,30,Manipur
+2020,October,27,Manipur
+2020,November,43,Manipur
+2020,December,43,Manipur
+2020,January,28,Meghalaya
+2020,February,22,Meghalaya
+2020,March,16,Meghalaya
+2020,April,3,Meghalaya
+2020,May,12,Meghalaya
+2020,June,14,Meghalaya
+2020,July,11,Meghalaya
+2020,August,8,Meghalaya
+2020,September,16,Meghalaya
+2020,October,16,Meghalaya
+2020,November,25,Meghalaya
+2020,December,34,Meghalaya
+2020,January,7,Mizoram
+2020,February,6,Mizoram
+2020,March,3,Mizoram
+2020,April,2,Mizoram
+2020,May,2,Mizoram
+2020,June,1,Mizoram
+2020,July,4,Mizoram
+2020,August,2,Mizoram
+2020,September,3,Mizoram
+2020,October,2,Mizoram
+2020,November,5,Mizoram
+2020,December,10,Mizoram
+2020,January,3,Nagaland
+2020,February,0,Nagaland
+2020,March,5,Nagaland
+2020,April,1,Nagaland
+2020,May,3,Nagaland
+2020,June,3,Nagaland
+2020,July,1,Nagaland
+2020,August,1,Nagaland
+2020,September,1,Nagaland
+2020,October,0,Nagaland
+2020,November,5,Nagaland
+2020,December,4,Nagaland
+2020,January,1056,Odisha
+2020,February,956,Odisha
+2020,March,801,Odisha
+2020,April,265,Odisha
+2020,May,583,Odisha
+2020,June,757,Odisha
+2020,July,725,Odisha
+2020,August,736,Odisha
+2020,September,844,Odisha
+2020,October,934,Odisha
+2020,November,971,Odisha
+2020,December,1189,Odisha
+2020,January,132,Puducherry
+2020,February,133,Puducherry
+2020,March,98,Puducherry
+2020,April,17,Puducherry
+2020,May,35,Puducherry
+2020,June,63,Puducherry
+2020,July,66,Puducherry
+2020,August,65,Puducherry
+2020,September,92,Puducherry
+2020,October,86,Puducherry
+2020,November,86,Puducherry
+2020,December,96,Puducherry
+2020,January,491,Punjab
+2020,February,507,Punjab
+2020,March,415,Punjab
+2020,April,146,Punjab
+2020,May,318,Punjab
+2020,June,357,Punjab
+2020,July,437,Punjab
+2020,August,401,Punjab
+2020,September,443,Punjab
+2020,October,554,Punjab
+2020,November,599,Punjab
+2020,December,505,Punjab
+2020,January,1945,Rajasthan
+2020,February,2044,Rajasthan
+2020,March,1646,Rajasthan
+2020,April,369,Rajasthan
+2020,May,941,Rajasthan
+2020,June,1468,Rajasthan
+2020,July,1667,Rajasthan
+2020,August,1621,Rajasthan
+2020,September,1671,Rajasthan
+2020,October,1853,Rajasthan
+2020,November,1982,Rajasthan
+2020,December,1914,Rajasthan
+2020,January,17,Sikkim
+2020,February,12,Sikkim
+2020,March,11,Sikkim
+2020,April,1,Sikkim
+2020,May,7,Sikkim
+2020,June,5,Sikkim
+2020,July,6,Sikkim
+2020,August,6,Sikkim
+2020,September,4,Sikkim
+2020,October,14,Sikkim
+2020,November,12,Sikkim
+2020,December,13,Sikkim
+2020,January,4675,Tamil Nadu
+2020,February,4407,Tamil Nadu
+2020,March,3790,Tamil Nadu
+2020,April,688,Tamil Nadu
+2020,May,2373,Tamil Nadu
+2020,June,2985,Tamil Nadu
+2020,July,3323,Tamil Nadu
+2020,August,4275,Tamil Nadu
+2020,September,4577,Tamil Nadu
+2020,October,4799,Tamil Nadu
+2020,November,4828,Tamil Nadu
+2020,December,4764,Tamil Nadu
+2020,January,2005,Telangana
+2020,February,2078,Telangana
+2020,March,1595,Telangana
+2020,April,454,Telangana
+2020,May,1279,Telangana
+2020,June,1349,Telangana
+2020,July,1418,Telangana
+2020,August,1461,Telangana
+2020,September,1535,Telangana
+2020,October,1694,Telangana
+2020,November,2030,Telangana
+2020,December,2274,Telangana
+2020,January,14,Dadra And Nagar Haveli And Daman And Diu
+2020,February,9,Dadra And Nagar Haveli And Daman And Diu
+2020,March,3,Dadra And Nagar Haveli And Daman And Diu
+2020,April,2,Dadra And Nagar Haveli And Daman And Diu
+2020,May,5,Dadra And Nagar Haveli And Daman And Diu
+2020,June,6,Dadra And Nagar Haveli And Daman And Diu
+2020,July,9,Dadra And Nagar Haveli And Daman And Diu
+2020,August,9,Dadra And Nagar Haveli And Daman And Diu
+2020,September,10,Dadra And Nagar Haveli And Daman And Diu
+2020,October,11,Dadra And Nagar Haveli And Daman And Diu
+2020,November,11,Dadra And Nagar Haveli And Daman And Diu
+2020,December,9,Dadra And Nagar Haveli And Daman And Diu
+2020,January,58,Tripura
+2020,February,56,Tripura
+2020,March,50,Tripura
+2020,April,8,Tripura
+2020,May,24,Tripura
+2020,June,35,Tripura
+2020,July,28,Tripura
+2020,August,30,Tripura
+2020,September,39,Tripura
+2020,October,40,Tripura
+2020,November,40,Tripura
+2020,December,58,Tripura
+2020,January,3028,Uttar Pradesh
+2020,February,2938,Uttar Pradesh
+2020,March,2260,Uttar Pradesh
+2020,April,1039,Uttar Pradesh
+2020,May,1680,Uttar Pradesh
+2020,June,2092,Uttar Pradesh
+2020,July,2143,Uttar Pradesh
+2020,August,2366,Uttar Pradesh
+2020,September,2332,Uttar Pradesh
+2020,October,2612,Uttar Pradesh
+2020,November,3027,Uttar Pradesh
+2020,December,3136,Uttar Pradesh
+2020,January,118,Uttarakhand
+2020,February,108,Uttarakhand
+2020,March,88,Uttarakhand
+2020,April,12,Uttarakhand
+2020,May,49,Uttarakhand
+2020,June,65,Uttarakhand
+2020,July,74,Uttarakhand
+2020,August,79,Uttarakhand
+2020,September,105,Uttarakhand
+2020,October,109,Uttarakhand
+2020,November,108,Uttarakhand
+2020,December,135,Uttarakhand
+2020,January,1214,West Bengal
+2020,February,1155,West Bengal
+2020,March,1028,West Bengal
+2020,April,257,West Bengal
+2020,May,408,West Bengal
+2020,June,740,West Bengal
+2020,July,830,West Bengal
+2020,August,844,West Bengal
+2020,September,952,West Bengal
+2020,October,1147,West Bengal
+2020,November,1152,West Bengal
+2020,December,1116,West Bengal
+2021,January,14,Andaman And Nicobar Islands
+2021,February,9,Andaman And Nicobar Islands
+2021,March,13,Andaman And Nicobar Islands
+2021,April,11,Andaman And Nicobar Islands
+2021,May,6,Andaman And Nicobar Islands
+2021,June,3,Andaman And Nicobar Islands
+2021,July,13,Andaman And Nicobar Islands
+2021,August,10,Andaman And Nicobar Islands
+2021,September,10,Andaman And Nicobar Islands
+2021,October,3,Andaman And Nicobar Islands
+2021,November,11,Andaman And Nicobar Islands
+2021,December,14,Andaman And Nicobar Islands
+2021,January,2120,Andhra Pradesh
+2021,February,1845,Andhra Pradesh
+2021,March,1906,Andhra Pradesh
+2021,April,1703,Andhra Pradesh
+2021,May,1233,Andhra Pradesh
+2021,June,1594,Andhra Pradesh
+2021,July,1792,Andhra Pradesh
+2021,August,1968,Andhra Pradesh
+2021,September,1815,Andhra Pradesh
+2021,October,1924,Andhra Pradesh
+2021,November,1649,Andhra Pradesh
+2021,December,2007,Andhra Pradesh
+2021,January,24,Arunachal Pradesh
+2021,February,29,Arunachal Pradesh
+2021,March,19,Arunachal Pradesh
+2021,April,24,Arunachal Pradesh
+2021,May,14,Arunachal Pradesh
+2021,June,15,Arunachal Pradesh
+2021,July,14,Arunachal Pradesh
+2021,August,20,Arunachal Pradesh
+2021,September,25,Arunachal Pradesh
+2021,October,27,Arunachal Pradesh
+2021,November,19,Arunachal Pradesh
+2021,December,31,Arunachal Pradesh
+2021,January,687,Assam
+2021,February,757,Assam
+2021,March,709,Assam
+2021,April,648,Assam
+2021,May,488,Assam
+2021,June,393,Assam
+2021,July,426,Assam
+2021,August,520,Assam
+2021,September,526,Assam
+2021,October,605,Assam
+2021,November,665,Assam
+2021,December,645,Assam
+2021,January,848,Bihar
+2021,February,888,Bihar
+2021,March,839,Bihar
+2021,April,835,Bihar
+2021,May,795,Bihar
+2021,June,811,Bihar
+2021,July,724,Bihar
+2021,August,689,Bihar
+2021,September,732,Bihar
+2021,October,752,Bihar
+2021,November,817,Bihar
+2021,December,823,Bihar
+2021,January,40,Chandigarh
+2021,February,32,Chandigarh
+2021,March,46,Chandigarh
+2021,April,30,Chandigarh
+2021,May,22,Chandigarh
+2021,June,26,Chandigarh
+2021,July,38,Chandigarh
+2021,August,36,Chandigarh
+2021,September,38,Chandigarh
+2021,October,32,Chandigarh
+2021,November,30,Chandigarh
+2021,December,46,Chandigarh
+2021,January,1493,Chhattisgarh
+2021,February,1319,Chhattisgarh
+2021,March,1246,Chhattisgarh
+2021,April,589,Chhattisgarh
+2021,May,523,Chhattisgarh
+2021,June,929,Chhattisgarh
+2021,July,1052,Chhattisgarh
+2021,August,1090,Chhattisgarh
+2021,September,1005,Chhattisgarh
+2021,October,1057,Chhattisgarh
+2021,November,1068,Chhattisgarh
+2021,December,1024,Chhattisgarh
+2021,January,790,Delhi
+2021,February,748,Delhi
+2021,March,962,Delhi
+2021,April,614,Delhi
+2021,May,486,Delhi
+2021,June,736,Delhi
+2021,July,730,Delhi
+2021,August,864,Delhi
+2021,September,810,Delhi
+2021,October,846,Delhi
+2021,November,884,Delhi
+2021,December,970,Delhi
+2021,January,301,Goa
+2021,February,235,Goa
+2021,March,285,Goa
+2021,April,210,Goa
+2021,May,131,Goa
+2021,June,169,Goa
+2021,July,199,Goa
+2021,August,212,Goa
+2021,September,227,Goa
+2021,October,252,Goa
+2021,November,287,Goa
+2021,December,342,Goa
+2021,January,1459,Gujarat
+2021,February,1308,Gujarat
+2021,March,1446,Gujarat
+2021,April,1005,Gujarat
+2021,May,990,Gujarat
+2021,June,1232,Gujarat
+2021,July,1198,Gujarat
+2021,August,1271,Gujarat
+2021,September,1159,Gujarat
+2021,October,1343,Gujarat
+2021,November,1379,Gujarat
+2021,December,1410,Gujarat
+2021,January,810,Haryana
+2021,February,830,Haryana
+2021,March,949,Haryana
+2021,April,876,Haryana
+2021,May,515,Haryana
+2021,June,787,Haryana
+2021,July,812,Haryana
+2021,August,779,Haryana
+2021,September,802,Haryana
+2021,October,1018,Haryana
+2021,November,949,Haryana
+2021,December,922,Haryana
+2021,January,209,Himachal Pradesh
+2021,February,175,Himachal Pradesh
+2021,March,197,Himachal Pradesh
+2021,April,205,Himachal Pradesh
+2021,May,107,Himachal Pradesh
+2021,June,173,Himachal Pradesh
+2021,July,213,Himachal Pradesh
+2021,August,221,Himachal Pradesh
+2021,September,196,Himachal Pradesh
+2021,October,254,Himachal Pradesh
+2021,November,240,Himachal Pradesh
+2021,December,218,Himachal Pradesh
+2021,January,340,Jammu And Kashmir And Ladakh
+2021,February,380,Jammu And Kashmir And Ladakh
+2021,March,475,Jammu And Kashmir And Ladakh
+2021,April,444,Jammu And Kashmir And Ladakh
+2021,May,375,Jammu And Kashmir And Ladakh
+2021,June,462,Jammu And Kashmir And Ladakh
+2021,July,518,Jammu And Kashmir And Ladakh
+2021,August,495,Jammu And Kashmir And Ladakh
+2021,September,504,Jammu And Kashmir And Ladakh
+2021,October,482,Jammu And Kashmir And Ladakh
+2021,November,512,Jammu And Kashmir And Ladakh
+2021,December,415,Jammu And Kashmir And Ladakh
+2021,January,430,Jharkhand
+2021,February,445,Jharkhand
+2021,March,383,Jharkhand
+2021,April,352,Jharkhand
+2021,May,341,Jharkhand
+2021,June,371,Jharkhand
+2021,July,365,Jharkhand
+2021,August,394,Jharkhand
+2021,September,365,Jharkhand
+2021,October,415,Jharkhand
+2021,November,419,Jharkhand
+2021,December,448,Jharkhand
+2021,January,3602,Karnataka
+2021,February,3177,Karnataka
+2021,March,3512,Karnataka
+2021,April,2898,Karnataka
+2021,May,1537,Karnataka
+2021,June,2072,Karnataka
+2021,July,2584,Karnataka
+2021,August,2859,Karnataka
+2021,September,2875,Karnataka
+2021,October,2966,Karnataka
+2021,November,3122,Karnataka
+2021,December,3443,Karnataka
+2021,January,3562,Kerala
+2021,February,3324,Kerala
+2021,March,3431,Kerala
+2021,April,3095,Kerala
+2021,May,1041,Kerala
+2021,June,1502,Kerala
+2021,July,2097,Kerala
+2021,August,2421,Kerala
+2021,September,2616,Kerala
+2021,October,2894,Kerala
+2021,November,3104,Kerala
+2021,December,3672,Kerala
+2021,January,9,Jammu And Kashmir And Ladakh
+2021,February,9,Jammu And Kashmir And Ladakh
+2021,March,16,Jammu And Kashmir And Ladakh
+2021,April,10,Jammu And Kashmir And Ladakh
+2021,May,20,Jammu And Kashmir And Ladakh
+2021,June,30,Jammu And Kashmir And Ladakh
+2021,July,41,Jammu And Kashmir And Ladakh
+2021,August,29,Jammu And Kashmir And Ladakh
+2021,September,23,Jammu And Kashmir And Ladakh
+2021,October,22,Jammu And Kashmir And Ladakh
+2021,November,11,Jammu And Kashmir And Ladakh
+2021,December,17,Jammu And Kashmir And Ladakh
+2021,January,0,Lakshadweep
+2021,February,0,Lakshadweep
+2021,March,1,Lakshadweep
+2021,April,0,Lakshadweep
+2021,May,0,Lakshadweep
+2021,June,1,Lakshadweep
+2021,July,1,Lakshadweep
+2021,August,1,Lakshadweep
+2021,September,0,Lakshadweep
+2021,October,0,Lakshadweep
+2021,November,0,Lakshadweep
+2021,December,0,Lakshadweep
+2021,January,5145,Madhya Pradesh
+2021,February,4380,Madhya Pradesh
+2021,March,4393,Madhya Pradesh
+2021,April,2971,Madhya Pradesh
+2021,May,2639,Madhya Pradesh
+2021,June,4046,Madhya Pradesh
+2021,July,3998,Madhya Pradesh
+2021,August,3758,Madhya Pradesh
+2021,September,3646,Madhya Pradesh
+2021,October,4387,Madhya Pradesh
+2021,November,4747,Madhya Pradesh
+2021,December,4109,Madhya Pradesh
+2021,January,2650,Maharashtra
+2021,February,2505,Maharashtra
+2021,March,2479,Maharashtra
+2021,April,1636,Maharashtra
+2021,May,1683,Maharashtra
+2021,June,2037,Maharashtra
+2021,July,2081,Maharashtra
+2021,August,2051,Maharashtra
+2021,September,2011,Maharashtra
+2021,October,2320,Maharashtra
+2021,November,2429,Maharashtra
+2021,December,2716,Maharashtra
+2021,January,33,Manipur
+2021,February,30,Manipur
+2021,March,51,Manipur
+2021,April,36,Manipur
+2021,May,9,Manipur
+2021,June,18,Manipur
+2021,July,16,Manipur
+2021,August,29,Manipur
+2021,September,29,Manipur
+2021,October,25,Manipur
+2021,November,43,Manipur
+2021,December,47,Manipur
+2021,January,19,Meghalaya
+2021,February,21,Meghalaya
+2021,March,27,Meghalaya
+2021,April,22,Meghalaya
+2021,May,19,Meghalaya
+2021,June,17,Meghalaya
+2021,July,12,Meghalaya
+2021,August,16,Meghalaya
+2021,September,25,Meghalaya
+2021,October,23,Meghalaya
+2021,November,21,Meghalaya
+2021,December,22,Meghalaya
+2021,January,6,Mizoram
+2021,February,5,Mizoram
+2021,March,7,Mizoram
+2021,April,8,Mizoram
+2021,May,3,Mizoram
+2021,June,8,Mizoram
+2021,July,3,Mizoram
+2021,August,6,Mizoram
+2021,September,2,Mizoram
+2021,October,4,Mizoram
+2021,November,5,Mizoram
+2021,December,7,Mizoram
+2021,January,3,Nagaland
+2021,February,4,Nagaland
+2021,March,5,Nagaland
+2021,April,4,Nagaland
+2021,May,1,Nagaland
+2021,June,1,Nagaland
+2021,July,1,Nagaland
+2021,August,3,Nagaland
+2021,September,2,Nagaland
+2021,October,0,Nagaland
+2021,November,1,Nagaland
+2021,December,0,Nagaland
+2021,January,1100,Odisha
+2021,February,1030,Odisha
+2021,March,1098,Odisha
+2021,April,864,Odisha
+2021,May,655,Odisha
+2021,June,824,Odisha
+2021,July,838,Odisha
+2021,August,804,Odisha
+2021,September,830,Odisha
+2021,October,893,Odisha
+2021,November,950,Odisha
+2021,December,1097,Odisha
+2021,January,91,Puducherry
+2021,February,97,Puducherry
+2021,March,103,Puducherry
+2021,April,90,Puducherry
+2021,May,37,Puducherry
+2021,June,77,Puducherry
+2021,July,78,Puducherry
+2021,August,84,Puducherry
+2021,September,102,Puducherry
+2021,October,113,Puducherry
+2021,November,72,Puducherry
+2021,December,105,Puducherry
+2021,January,454,Punjab
+2021,February,479,Punjab
+2021,March,514,Punjab
+2021,April,497,Punjab
+2021,May,404,Punjab
+2021,June,438,Punjab
+2021,July,503,Punjab
+2021,August,527,Punjab
+2021,September,513,Punjab
+2021,October,603,Punjab
+2021,November,608,Punjab
+2021,December,557,Punjab
+2021,January,2143,Rajasthan
+2021,February,1907,Rajasthan
+2021,March,1986,Rajasthan
+2021,April,1683,Rajasthan
+2021,May,993,Rajasthan
+2021,June,1400,Rajasthan
+2021,July,1686,Rajasthan
+2021,August,1784,Rajasthan
+2021,September,1701,Rajasthan
+2021,October,1875,Rajasthan
+2021,November,2021,Rajasthan
+2021,December,1775,Rajasthan
+2021,January,9,Sikkim
+2021,February,17,Sikkim
+2021,March,11,Sikkim
+2021,April,16,Sikkim
+2021,May,11,Sikkim
+2021,June,5,Sikkim
+2021,July,9,Sikkim
+2021,August,11,Sikkim
+2021,September,7,Sikkim
+2021,October,10,Sikkim
+2021,November,11,Sikkim
+2021,December,5,Sikkim
+2021,January,5322,Tamil Nadu
+2021,February,5300,Tamil Nadu
+2021,March,5543,Tamil Nadu
+2021,April,4628,Tamil Nadu
+2021,May,2384,Tamil Nadu
+2021,June,3291,Tamil Nadu
+2021,July,4592,Tamil Nadu
+2021,August,4977,Tamil Nadu
+2021,September,4941,Tamil Nadu
+2021,October,4899,Tamil Nadu
+2021,November,4742,Tamil Nadu
+2021,December,5063,Tamil Nadu
+2021,January,2068,Telangana
+2021,February,1821,Telangana
+2021,March,1849,Telangana
+2021,April,1578,Telangana
+2021,May,1346,Telangana
+2021,June,1605,Telangana
+2021,July,1662,Telangana
+2021,August,1869,Telangana
+2021,September,1662,Telangana
+2021,October,1948,Telangana
+2021,November,1874,Telangana
+2021,December,2033,Telangana
+2021,January,14,Dadra And Nagar Haveli And Daman And Diu
+2021,February,15,Dadra And Nagar Haveli And Daman And Diu
+2021,March,16,Dadra And Nagar Haveli And Daman And Diu
+2021,April,7,Dadra And Nagar Haveli And Daman And Diu
+2021,May,7,Dadra And Nagar Haveli And Daman And Diu
+2021,June,6,Dadra And Nagar Haveli And Daman And Diu
+2021,July,9,Dadra And Nagar Haveli And Daman And Diu
+2021,August,9,Dadra And Nagar Haveli And Daman And Diu
+2021,September,16,Dadra And Nagar Haveli And Daman And Diu
+2021,October,11,Dadra And Nagar Haveli And Daman And Diu
+2021,November,7,Dadra And Nagar Haveli And Daman And Diu
+2021,December,23,Dadra And Nagar Haveli And Daman And Diu
+2021,January,46,Tripura
+2021,February,35,Tripura
+2021,March,60,Tripura
+2021,April,47,Tripura
+2021,May,27,Tripura
+2021,June,25,Tripura
+2021,July,30,Tripura
+2021,August,41,Tripura
+2021,September,37,Tripura
+2021,October,36,Tripura
+2021,November,39,Tripura
+2021,December,55,Tripura
+2021,January,3524,Uttar Pradesh
+2021,February,2892,Uttar Pradesh
+2021,March,2930,Uttar Pradesh
+2021,April,2357,Uttar Pradesh
+2021,May,2466,Uttar Pradesh
+2021,June,2606,Uttar Pradesh
+2021,July,2742,Uttar Pradesh
+2021,August,2657,Uttar Pradesh
+2021,September,2580,Uttar Pradesh
+2021,October,2640,Uttar Pradesh
+2021,November,3024,Uttar Pradesh
+2021,December,3293,Uttar Pradesh
+2021,January,143,Uttarakhand
+2021,February,129,Uttarakhand
+2021,March,149,Uttarakhand
+2021,April,92,Uttarakhand
+2021,May,60,Uttarakhand
+2021,June,84,Uttarakhand
+2021,July,117,Uttarakhand
+2021,August,102,Uttarakhand
+2021,September,133,Uttarakhand
+2021,October,111,Uttarakhand
+2021,November,156,Uttarakhand
+2021,December,129,Uttarakhand
+2021,January,1142,West Bengal
+2021,February,1022,West Bengal
+2021,March,1044,West Bengal
+2021,April,878,West Bengal
+2021,May,722,West Bengal
+2021,June,808,West Bengal
+2021,July,937,West Bengal
+2021,August,968,West Bengal
+2021,September,924,West Bengal
+2021,October,987,West Bengal
+2021,November,1016,West Bengal
+2021,December,1053,West Bengal
+2022,January,10,Andaman And Nicobar Islands
+2022,February,10,Andaman And Nicobar Islands
+2022,March,14,Andaman And Nicobar Islands
+2022,April,17,Andaman And Nicobar Islands
+2022,May,13,Andaman And Nicobar Islands
+2022,June,10,Andaman And Nicobar Islands
+2022,July,6,Andaman And Nicobar Islands
+2022,August,6,Andaman And Nicobar Islands
+2022,September,15,Andaman And Nicobar Islands
+2022,October,14,Andaman And Nicobar Islands
+2022,November,12,Andaman And Nicobar Islands
+2022,December,14,Andaman And Nicobar Islands
+2022,January,1796,Andhra Pradesh
+2022,February,1751,Andhra Pradesh
+2022,March,1894,Andhra Pradesh
+2022,April,1777,Andhra Pradesh
+2022,May,2161,Andhra Pradesh
+2022,June,1911,Andhra Pradesh
+2022,July,1640,Andhra Pradesh
+2022,August,1929,Andhra Pradesh
+2022,September,1539,Andhra Pradesh
+2022,October,1534,Andhra Pradesh
+2022,November,1525,Andhra Pradesh
+2022,December,1613,Andhra Pradesh
+2022,January,23,Arunachal Pradesh
+2022,February,20,Arunachal Pradesh
+2022,March,20,Arunachal Pradesh
+2022,April,12,Arunachal Pradesh
+2022,May,18,Arunachal Pradesh
+2022,June,13,Arunachal Pradesh
+2022,July,27,Arunachal Pradesh
+2022,August,18,Arunachal Pradesh
+2022,September,14,Arunachal Pradesh
+2022,October,17,Arunachal Pradesh
+2022,November,18,Arunachal Pradesh
+2022,December,15,Arunachal Pradesh
+2022,January,637,Assam
+2022,February,564,Assam
+2022,March,610,Assam
+2022,April,558,Assam
+2022,May,571,Assam
+2022,June,488,Assam
+2022,July,509,Assam
+2022,August,586,Assam
+2022,September,574,Assam
+2022,October,586,Assam
+2022,November,632,Assam
+2022,December,713,Assam
+2022,January,749,Bihar
+2022,February,760,Bihar
+2022,March,868,Bihar
+2022,April,953,Bihar
+2022,May,1299,Bihar
+2022,June,1006,Bihar
+2022,July,902,Bihar
+2022,August,786,Bihar
+2022,September,692,Bihar
+2022,October,857,Bihar
+2022,November,991,Bihar
+2022,December,938,Bihar
+2022,January,24,Chandigarh
+2022,February,54,Chandigarh
+2022,March,48,Chandigarh
+2022,April,40,Chandigarh
+2022,May,32,Chandigarh
+2022,June,48,Chandigarh
+2022,July,32,Chandigarh
+2022,August,36,Chandigarh
+2022,September,62,Chandigarh
+2022,October,36,Chandigarh
+2022,November,34,Chandigarh
+2022,December,30,Chandigarh
+2022,January,1241,Chhattisgarh
+2022,February,1194,Chhattisgarh
+2022,March,1069,Chhattisgarh
+2022,April,1100,Chhattisgarh
+2022,May,1205,Chhattisgarh
+2022,June,1133,Chhattisgarh
+2022,July,1032,Chhattisgarh
+2022,August,1012,Chhattisgarh
+2022,September,880,Chhattisgarh
+2022,October,1025,Chhattisgarh
+2022,November,1156,Chhattisgarh
+2022,December,1044,Chhattisgarh
+2022,January,832,Delhi
+2022,February,840,Delhi
+2022,March,892,Delhi
+2022,April,1032,Delhi
+2022,May,952,Delhi
+2022,June,916,Delhi
+2022,July,966,Delhi
+2022,August,906,Delhi
+2022,September,828,Delhi
+2022,October,978,Delhi
+2022,November,960,Delhi
+2022,December,1018,Delhi
+2022,January,260,Goa
+2022,February,251,Goa
+2022,March,275,Goa
+2022,April,242,Goa
+2022,May,324,Goa
+2022,June,239,Goa
+2022,July,238,Goa
+2022,August,182,Goa
+2022,September,234,Goa
+2022,October,251,Goa
+2022,November,232,Goa
+2022,December,284,Goa
+2022,January,1356,Gujarat
+2022,February,1365,Gujarat
+2022,March,1358,Gujarat
+2022,April,1386,Gujarat
+2022,May,1530,Gujarat
+2022,June,1343,Gujarat
+2022,July,1065,Gujarat
+2022,August,1141,Gujarat
+2022,September,1160,Gujarat
+2022,October,1406,Gujarat
+2022,November,1259,Gujarat
+2022,December,1408,Gujarat
+2022,January,739,Haryana
+2022,February,811,Haryana
+2022,March,1020,Haryana
+2022,April,950,Haryana
+2022,May,953,Haryana
+2022,June,804,Haryana
+2022,July,886,Haryana
+2022,August,857,Haryana
+2022,September,862,Haryana
+2022,October,900,Haryana
+2022,November,867,Haryana
+2022,December,1005,Haryana
+2022,January,163,Himachal Pradesh
+2022,February,160,Himachal Pradesh
+2022,March,195,Himachal Pradesh
+2022,April,219,Himachal Pradesh
+2022,May,207,Himachal Pradesh
+2022,June,231,Himachal Pradesh
+2022,July,186,Himachal Pradesh
+2022,August,217,Himachal Pradesh
+2022,September,247,Himachal Pradesh
+2022,October,235,Himachal Pradesh
+2022,November,200,Himachal Pradesh
+2022,December,224,Himachal Pradesh
+2022,January,330,Jammu And Kashmir And Ladakh
+2022,February,433,Jammu And Kashmir And Ladakh
+2022,March,516,Jammu And Kashmir And Ladakh
+2022,April,521,Jammu And Kashmir And Ladakh
+2022,May,666,Jammu And Kashmir And Ladakh
+2022,June,567,Jammu And Kashmir And Ladakh
+2022,July,583,Jammu And Kashmir And Ladakh
+2022,August,508,Jammu And Kashmir And Ladakh
+2022,September,492,Jammu And Kashmir And Ladakh
+2022,October,576,Jammu And Kashmir And Ladakh
+2022,November,465,Jammu And Kashmir And Ladakh
+2022,December,433,Jammu And Kashmir And Ladakh
+2022,January,393,Jharkhand
+2022,February,417,Jharkhand
+2022,March,433,Jharkhand
+2022,April,430,Jharkhand
+2022,May,492,Jharkhand
+2022,June,423,Jharkhand
+2022,July,454,Jharkhand
+2022,August,391,Jharkhand
+2022,September,379,Jharkhand
+2022,October,429,Jharkhand
+2022,November,444,Jharkhand
+2022,December,490,Jharkhand
+2022,January,3225,Karnataka
+2022,February,3318,Karnataka
+2022,March,3506,Karnataka
+2022,April,3313,Karnataka
+2022,May,3635,Karnataka
+2022,June,3308,Karnataka
+2022,July,3006,Karnataka
+2022,August,3118,Karnataka
+2022,September,2962,Karnataka
+2022,October,3358,Karnataka
+2022,November,3372,Karnataka
+2022,December,3644,Karnataka
+2022,January,3862,Kerala
+2022,February,3350,Kerala
+2022,March,3781,Kerala
+2022,April,3626,Kerala
+2022,May,3673,Kerala
+2022,June,3668,Kerala
+2022,July,3283,Kerala
+2022,August,3318,Kerala
+2022,September,3542,Kerala
+2022,October,3628,Kerala
+2022,November,3817,Kerala
+2022,December,4044,Kerala
+2022,January,4,Jammu And Kashmir And Ladakh
+2022,February,12,Jammu And Kashmir And Ladakh
+2022,March,16,Jammu And Kashmir And Ladakh
+2022,April,23,Jammu And Kashmir And Ladakh
+2022,May,40,Jammu And Kashmir And Ladakh
+2022,June,31,Jammu And Kashmir And Ladakh
+2022,July,37,Jammu And Kashmir And Ladakh
+2022,August,17,Jammu And Kashmir And Ladakh
+2022,September,31,Jammu And Kashmir And Ladakh
+2022,October,32,Jammu And Kashmir And Ladakh
+2022,November,15,Jammu And Kashmir And Ladakh
+2022,December,10,Jammu And Kashmir And Ladakh
+2022,January,2,Lakshadweep
+2022,February,0,Lakshadweep
+2022,March,0,Lakshadweep
+2022,April,0,Lakshadweep
+2022,May,0,Lakshadweep
+2022,June,1,Lakshadweep
+2022,July,0,Lakshadweep
+2022,August,1,Lakshadweep
+2022,September,0,Lakshadweep
+2022,October,0,Lakshadweep
+2022,November,0,Lakshadweep
+2022,December,0,Lakshadweep
+2022,January,4621,Madhya Pradesh
+2022,February,4369,Madhya Pradesh
+2022,March,4636,Madhya Pradesh
+2022,April,4559,Madhya Pradesh
+2022,May,5179,Madhya Pradesh
+2022,June,4282,Madhya Pradesh
+2022,July,3921,Madhya Pradesh
+2022,August,3951,Madhya Pradesh
+2022,September,3636,Madhya Pradesh
+2022,October,4308,Madhya Pradesh
+2022,November,4527,Madhya Pradesh
+2022,December,3976,Madhya Pradesh
+2022,January,2581,Maharashtra
+2022,February,2551,Maharashtra
+2022,March,2665,Maharashtra
+2022,April,2577,Maharashtra
+2022,May,2956,Maharashtra
+2022,June,2667,Maharashtra
+2022,July,2230,Maharashtra
+2022,August,2191,Maharashtra
+2022,September,2103,Maharashtra
+2022,October,2443,Maharashtra
+2022,November,2826,Maharashtra
+2022,December,2756,Maharashtra
+2022,January,33,Manipur
+2022,February,37,Manipur
+2022,March,56,Manipur
+2022,April,32,Manipur
+2022,May,33,Manipur
+2022,June,44,Manipur
+2022,July,49,Manipur
+2022,August,33,Manipur
+2022,September,40,Manipur
+2022,October,57,Manipur
+2022,November,50,Manipur
+2022,December,44,Manipur
+2022,January,21,Meghalaya
+2022,February,27,Meghalaya
+2022,March,21,Meghalaya
+2022,April,22,Meghalaya
+2022,May,26,Meghalaya
+2022,June,20,Meghalaya
+2022,July,16,Meghalaya
+2022,August,17,Meghalaya
+2022,September,20,Meghalaya
+2022,October,15,Meghalaya
+2022,November,17,Meghalaya
+2022,December,24,Meghalaya
+2022,January,10,Mizoram
+2022,February,9,Mizoram
+2022,March,4,Mizoram
+2022,April,6,Mizoram
+2022,May,7,Mizoram
+2022,June,6,Mizoram
+2022,July,4,Mizoram
+2022,August,3,Mizoram
+2022,September,6,Mizoram
+2022,October,4,Mizoram
+2022,November,4,Mizoram
+2022,December,8,Mizoram
+2022,January,4,Nagaland
+2022,February,2,Nagaland
+2022,March,3,Nagaland
+2022,April,4,Nagaland
+2022,May,1,Nagaland
+2022,June,1,Nagaland
+2022,July,1,Nagaland
+2022,August,2,Nagaland
+2022,September,1,Nagaland
+2022,October,4,Nagaland
+2022,November,0,Nagaland
+2022,December,1,Nagaland
+2022,January,943,Odisha
+2022,February,827,Odisha
+2022,March,1065,Odisha
+2022,April,929,Odisha
+2022,May,1112,Odisha
+2022,June,1025,Odisha
+2022,July,894,Odisha
+2022,August,867,Odisha
+2022,September,840,Odisha
+2022,October,896,Odisha
+2022,November,1099,Odisha
+2022,December,1166,Odisha
+2022,January,90,Puducherry
+2022,February,112,Puducherry
+2022,March,93,Puducherry
+2022,April,82,Puducherry
+2022,May,109,Puducherry
+2022,June,93,Puducherry
+2022,July,92,Puducherry
+2022,August,86,Puducherry
+2022,September,104,Puducherry
+2022,October,109,Puducherry
+2022,November,109,Puducherry
+2022,December,102,Puducherry
+2022,January,432,Punjab
+2022,February,421,Punjab
+2022,March,548,Punjab
+2022,April,522,Punjab
+2022,May,488,Punjab
+2022,June,484,Punjab
+2022,July,485,Punjab
+2022,August,531,Punjab
+2022,September,471,Punjab
+2022,October,578,Punjab
+2022,November,565,Punjab
+2022,December,597,Punjab
+2022,January,1958,Rajasthan
+2022,February,1957,Rajasthan
+2022,March,2012,Rajasthan
+2022,April,1980,Rajasthan
+2022,May,2217,Rajasthan
+2022,June,1978,Rajasthan
+2022,July,1847,Rajasthan
+2022,August,1733,Rajasthan
+2022,September,1900,Rajasthan
+2022,October,2102,Rajasthan
+2022,November,2156,Rajasthan
+2022,December,1780,Rajasthan
+2022,January,14,Sikkim
+2022,February,16,Sikkim
+2022,March,21,Sikkim
+2022,April,19,Sikkim
+2022,May,20,Sikkim
+2022,June,22,Sikkim
+2022,July,12,Sikkim
+2022,August,22,Sikkim
+2022,September,8,Sikkim
+2022,October,11,Sikkim
+2022,November,18,Sikkim
+2022,December,16,Sikkim
+2022,January,4972,Tamil Nadu
+2022,February,5115,Tamil Nadu
+2022,March,5771,Tamil Nadu
+2022,April,5305,Tamil Nadu
+2022,May,5546,Tamil Nadu
+2022,June,5704,Tamil Nadu
+2022,July,5518,Tamil Nadu
+2022,August,5560,Tamil Nadu
+2022,September,5321,Tamil Nadu
+2022,October,5628,Tamil Nadu
+2022,November,4515,Tamil Nadu
+2022,December,5150,Tamil Nadu
+2022,January,1754,Telangana
+2022,February,1894,Telangana
+2022,March,1819,Telangana
+2022,April,1678,Telangana
+2022,May,2009,Telangana
+2022,June,1908,Telangana
+2022,July,1657,Telangana
+2022,August,1657,Telangana
+2022,September,1525,Telangana
+2022,October,1737,Telangana
+2022,November,1859,Telangana
+2022,December,2122,Telangana
+2022,January,9,Dadra And Nagar Haveli And Daman And Diu
+2022,February,6,Dadra And Nagar Haveli And Daman And Diu
+2022,March,16,Dadra And Nagar Haveli And Daman And Diu
+2022,April,14,Dadra And Nagar Haveli And Daman And Diu
+2022,May,12,Dadra And Nagar Haveli And Daman And Diu
+2022,June,15,Dadra And Nagar Haveli And Daman And Diu
+2022,July,13,Dadra And Nagar Haveli And Daman And Diu
+2022,August,23,Dadra And Nagar Haveli And Daman And Diu
+2022,September,14,Dadra And Nagar Haveli And Daman And Diu
+2022,October,13,Dadra And Nagar Haveli And Daman And Diu
+2022,November,17,Dadra And Nagar Haveli And Daman And Diu
+2022,December,23,Dadra And Nagar Haveli And Daman And Diu
+2022,January,60,Tripura
+2022,February,42,Tripura
+2022,March,55,Tripura
+2022,April,49,Tripura
+2022,May,41,Tripura
+2022,June,42,Tripura
+2022,July,53,Tripura
+2022,August,52,Tripura
+2022,September,48,Tripura
+2022,October,48,Tripura
+2022,November,46,Tripura
+2022,December,39,Tripura
+2022,January,3486,Uttar Pradesh
+2022,February,2896,Uttar Pradesh
+2022,March,3058,Uttar Pradesh
+2022,April,2945,Uttar Pradesh
+2022,May,3228,Uttar Pradesh
+2022,June,3006,Uttar Pradesh
+2022,July,3006,Uttar Pradesh
+2022,August,2789,Uttar Pradesh
+2022,September,2568,Uttar Pradesh
+2022,October,2817,Uttar Pradesh
+2022,November,3389,Uttar Pradesh
+2022,December,3687,Uttar Pradesh
+2022,January,110,Uttarakhand
+2022,February,101,Uttarakhand
+2022,March,148,Uttarakhand
+2022,April,158,Uttarakhand
+2022,May,140,Uttarakhand
+2022,June,163,Uttarakhand
+2022,July,140,Uttarakhand
+2022,August,143,Uttarakhand
+2022,September,116,Uttarakhand
+2022,October,145,Uttarakhand
+2022,November,150,Uttarakhand
+2022,December,160,Uttarakhand
+2022,January,868,West Bengal
+2022,February,816,West Bengal
+2022,March,904,West Bengal
+2022,April,858,West Bengal
+2022,May,895,West Bengal
+2022,June,882,West Bengal
+2022,July,884,West Bengal
+2022,August,839,West Bengal
+2022,September,884,West Bengal
+2022,October,963,West Bengal
+2022,November,913,West Bengal
+2022,December,929,West Bengal
+2023,January,6,Andaman And Nicobar Islands
+2023,February,12,Andaman And Nicobar Islands
+2023,March,12,Andaman And Nicobar Islands
+2023,April,9,Andaman And Nicobar Islands
+2023,May,3,Andaman And Nicobar Islands
+2023,June,3,Andaman And Nicobar Islands
+2023,July,9,Andaman And Nicobar Islands
+2023,August,6,Andaman And Nicobar Islands
+2023,September,3,Andaman And Nicobar Islands
+2023,October,0,Andaman And Nicobar Islands
+2023,November,6,Andaman And Nicobar Islands
+2023,December,6,Andaman And Nicobar Islands
+2023,January,5121,Andhra Pradesh
+2023,February,4836,Andhra Pradesh
+2023,March,5067,Andhra Pradesh
+2023,April,4881,Andhra Pradesh
+2023,May,5853,Andhra Pradesh
+2023,June,5355,Andhra Pradesh
+2023,July,4908,Andhra Pradesh
+2023,August,5073,Andhra Pradesh
+2023,September,4794,Andhra Pradesh
+2023,October,4794,Andhra Pradesh
+2023,November,4719,Andhra Pradesh
+2023,December,4446,Andhra Pradesh
+2023,January,60,Arunachal Pradesh
+2023,February,45,Arunachal Pradesh
+2023,March,51,Arunachal Pradesh
+2023,April,33,Arunachal Pradesh
+2023,May,51,Arunachal Pradesh
+2023,June,54,Arunachal Pradesh
+2023,July,60,Arunachal Pradesh
+2023,August,30,Arunachal Pradesh
+2023,September,63,Arunachal Pradesh
+2023,October,60,Arunachal Pradesh
+2023,November,87,Arunachal Pradesh
+2023,December,105,Arunachal Pradesh
+2023,January,1962,Assam
+2023,February,1740,Assam
+2023,March,1959,Assam
+2023,April,1848,Assam
+2023,May,2058,Assam
+2023,June,1665,Assam
+2023,July,1581,Assam
+2023,August,1599,Assam
+2023,September,1839,Assam
+2023,October,1746,Assam
+2023,November,2091,Assam
+2023,December,2175,Assam
+2023,January,2412,Bihar
+2023,February,2709,Bihar
+2023,March,2877,Bihar
+2023,April,2580,Bihar
+2023,May,3534,Bihar
+2023,June,3471,Bihar
+2023,July,2685,Bihar
+2023,August,2292,Bihar
+2023,September,2316,Bihar
+2023,October,2475,Bihar
+2023,November,2565,Bihar
+2023,December,3126,Bihar
+2023,January,90,Chandigarh
+2023,February,66,Chandigarh
+2023,March,78,Chandigarh
+2023,April,90,Chandigarh
+2023,May,114,Chandigarh
+2023,June,60,Chandigarh
+2023,July,102,Chandigarh
+2023,August,138,Chandigarh
+2023,September,108,Chandigarh
+2023,October,60,Chandigarh
+2023,November,108,Chandigarh
+2023,December,78,Chandigarh
+2023,January,4191,Chhattisgarh
+2023,February,3552,Chhattisgarh
+2023,March,3279,Chhattisgarh
+2023,April,3429,Chhattisgarh
+2023,May,3726,Chhattisgarh
+2023,June,3291,Chhattisgarh
+2023,July,3150,Chhattisgarh
+2023,August,3222,Chhattisgarh
+2023,September,3024,Chhattisgarh
+2023,October,3261,Chhattisgarh
+2023,November,3018,Chhattisgarh
+2023,December,3264,Chhattisgarh
+2023,January,2556,Delhi
+2023,February,2598,Delhi
+2023,March,2550,Delhi
+2023,April,2760,Delhi
+2023,May,2928,Delhi
+2023,June,2730,Delhi
+2023,July,2778,Delhi
+2023,August,3138,Delhi
+2023,September,2976,Delhi
+2023,October,3288,Delhi
+2023,November,2856,Delhi
+2023,December,3132,Delhi
+2023,January,819,Goa
+2023,February,696,Goa
+2023,March,738,Goa
+2023,April,699,Goa
+2023,May,783,Goa
+2023,June,693,Goa
+2023,July,627,Goa
+2023,August,705,Goa
+2023,September,672,Goa
+2023,October,672,Goa
+2023,November,603,Goa
+2023,December,834,Goa
+2023,January,4479,Gujarat
+2023,February,4308,Gujarat
+2023,March,4341,Gujarat
+2023,April,4224,Gujarat
+2023,May,4716,Gujarat
+2023,June,3930,Gujarat
+2023,July,3636,Gujarat
+2023,August,3465,Gujarat
+2023,September,3621,Gujarat
+2023,October,4155,Gujarat
+2023,November,3858,Gujarat
+2023,December,4314,Gujarat
+2023,January,2457,Haryana
+2023,February,2679,Haryana
+2023,March,2787,Haryana
+2023,April,2865,Haryana
+2023,May,2790,Haryana
+2023,June,2691,Haryana
+2023,July,2820,Haryana
+2023,August,2508,Haryana
+2023,September,2961,Haryana
+2023,October,2949,Haryana
+2023,November,2751,Haryana
+2023,December,2991,Haryana
+2023,January,516,Himachal Pradesh
+2023,February,525,Himachal Pradesh
+2023,March,678,Himachal Pradesh
+2023,April,486,Himachal Pradesh
+2023,May,633,Himachal Pradesh
+2023,June,600,Himachal Pradesh
+2023,July,555,Himachal Pradesh
+2023,August,471,Himachal Pradesh
+2023,September,600,Himachal Pradesh
+2023,October,615,Himachal Pradesh
+2023,November,495,Himachal Pradesh
+2023,December,591,Himachal Pradesh
+2023,January,1179,Jammu And Kashmir And Ladakh
+2023,February,1329,Jammu And Kashmir And Ladakh
+2023,March,1437,Jammu And Kashmir And Ladakh
+2023,April,1497,Jammu And Kashmir And Ladakh
+2023,May,1689,Jammu And Kashmir And Ladakh
+2023,June,1785,Jammu And Kashmir And Ladakh
+2023,July,1764,Jammu And Kashmir And Ladakh
+2023,August,1830,Jammu And Kashmir And Ladakh
+2023,September,1653,Jammu And Kashmir And Ladakh
+2023,October,1794,Jammu And Kashmir And Ladakh
+2023,November,1740,Jammu And Kashmir And Ladakh
+2023,December,1203,Jammu And Kashmir And Ladakh
+2023,January,1368,Jharkhand
+2023,February,1377,Jharkhand
+2023,March,1383,Jharkhand
+2023,April,1293,Jharkhand
+2023,May,1482,Jharkhand
+2023,June,1335,Jharkhand
+2023,July,1254,Jharkhand
+2023,August,1152,Jharkhand
+2023,September,1179,Jharkhand
+2023,October,1203,Jharkhand
+2023,November,1485,Jharkhand
+2023,December,1437,Jharkhand
+2023,January,11460,Karnataka
+2023,February,10665,Karnataka
+2023,March,10644,Karnataka
+2023,April,10146,Karnataka
+2023,May,11379,Karnataka
+2023,June,10890,Karnataka
+2023,July,10134,Karnataka
+2023,August,10560,Karnataka
+2023,September,10725,Karnataka
+2023,October,10932,Karnataka
+2023,November,10812,Karnataka
+2023,December,11970,Karnataka
+2023,January,12927,Kerala
+2023,February,11499,Kerala
+2023,March,11787,Kerala
+2023,April,11556,Kerala
+2023,May,11712,Kerala
+2023,June,10875,Kerala
+2023,July,10479,Kerala
+2023,August,11496,Kerala
+2023,September,11553,Kerala
+2023,October,11019,Kerala
+2023,November,11403,Kerala
+2023,December,11637,Kerala
+2023,January,24,Jammu And Kashmir And Ladakh
+2023,February,21,Jammu And Kashmir And Ladakh
+2023,March,33,Jammu And Kashmir And Ladakh
+2023,April,66,Jammu And Kashmir And Ladakh
+2023,May,90,Jammu And Kashmir And Ladakh
+2023,June,129,Jammu And Kashmir And Ladakh
+2023,July,111,Jammu And Kashmir And Ladakh
+2023,August,90,Jammu And Kashmir And Ladakh
+2023,September,99,Jammu And Kashmir And Ladakh
+2023,October,84,Jammu And Kashmir And Ladakh
+2023,November,84,Jammu And Kashmir And Ladakh
+2023,December,36,Jammu And Kashmir And Ladakh
+2023,January,0,Lakshadweep
+2023,February,0,Lakshadweep
+2023,March,0,Lakshadweep
+2023,April,0,Lakshadweep
+2023,May,0,Lakshadweep
+2023,June,0,Lakshadweep
+2023,July,0,Lakshadweep
+2023,August,0,Lakshadweep
+2023,September,0,Lakshadweep
+2023,October,0,Lakshadweep
+2023,November,3,Lakshadweep
+2023,December,0,Lakshadweep
+2023,January,15582,Madhya Pradesh
+2023,February,13590,Madhya Pradesh
+2023,March,14526,Madhya Pradesh
+2023,April,13512,Madhya Pradesh
+2023,May,15849,Madhya Pradesh
+2023,June,14274,Madhya Pradesh
+2023,July,12831,Madhya Pradesh
+2023,August,12126,Madhya Pradesh
+2023,September,12597,Madhya Pradesh
+2023,October,13602,Madhya Pradesh
+2023,November,13353,Madhya Pradesh
+2023,December,12447,Madhya Pradesh
+2023,January,8202,Maharashtra
+2023,February,7623,Maharashtra
+2023,March,7704,Maharashtra
+2023,April,7650,Maharashtra
+2023,May,8712,Maharashtra
+2023,June,7980,Maharashtra
+2023,July,7278,Maharashtra
+2023,August,7590,Maharashtra
+2023,September,6984,Maharashtra
+2023,October,7641,Maharashtra
+2023,November,7827,Maharashtra
+2023,December,8850,Maharashtra
+2023,January,150,Manipur
+2023,February,156,Manipur
+2023,March,147,Manipur
+2023,April,132,Manipur
+2023,May,54,Manipur
+2023,June,63,Manipur
+2023,July,81,Manipur
+2023,August,39,Manipur
+2023,September,78,Manipur
+2023,October,90,Manipur
+2023,November,90,Manipur
+2023,December,114,Manipur
+2023,January,48,Meghalaya
+2023,February,63,Meghalaya
+2023,March,99,Meghalaya
+2023,April,51,Meghalaya
+2023,May,72,Meghalaya
+2023,June,48,Meghalaya
+2023,July,48,Meghalaya
+2023,August,63,Meghalaya
+2023,September,51,Meghalaya
+2023,October,36,Meghalaya
+2023,November,54,Meghalaya
+2023,December,63,Meghalaya
+2023,January,6,Mizoram
+2023,February,6,Mizoram
+2023,March,21,Mizoram
+2023,April,9,Mizoram
+2023,May,12,Mizoram
+2023,June,21,Mizoram
+2023,July,9,Mizoram
+2023,August,3,Mizoram
+2023,September,9,Mizoram
+2023,October,6,Mizoram
+2023,November,15,Mizoram
+2023,December,24,Mizoram
+2023,January,6,Nagaland
+2023,February,6,Nagaland
+2023,March,9,Nagaland
+2023,April,0,Nagaland
+2023,May,18,Nagaland
+2023,June,9,Nagaland
+2023,July,12,Nagaland
+2023,August,15,Nagaland
+2023,September,12,Nagaland
+2023,October,9,Nagaland
+2023,November,0,Nagaland
+2023,December,9,Nagaland
+2023,January,3597,Odisha
+2023,February,3228,Odisha
+2023,March,3156,Odisha
+2023,April,2757,Odisha
+2023,May,3111,Odisha
+2023,June,2784,Odisha
+2023,July,2718,Odisha
+2023,August,2610,Odisha
+2023,September,2667,Odisha
+2023,October,2901,Odisha
+2023,November,3012,Odisha
+2023,December,3426,Odisha
+2023,January,351,Puducherry
+2023,February,309,Puducherry
+2023,March,369,Puducherry
+2023,April,318,Puducherry
+2023,May,363,Puducherry
+2023,June,339,Puducherry
+2023,July,333,Puducherry
+2023,August,315,Puducherry
+2023,September,342,Puducherry
+2023,October,294,Puducherry
+2023,November,276,Puducherry
+2023,December,315,Puducherry
+2023,January,1389,Punjab
+2023,February,1497,Punjab
+2023,March,1476,Punjab
+2023,April,1578,Punjab
+2023,May,1704,Punjab
+2023,June,1641,Punjab
+2023,July,1362,Punjab
+2023,August,1437,Punjab
+2023,September,1527,Punjab
+2023,October,1737,Punjab
+2023,November,1854,Punjab
+2023,December,1626,Punjab
+2023,January,6624,Rajasthan
+2023,February,5955,Rajasthan
+2023,March,6237,Rajasthan
+2023,April,6141,Rajasthan
+2023,May,6723,Rajasthan
+2023,June,6258,Rajasthan
+2023,July,6222,Rajasthan
+2023,August,5859,Rajasthan
+2023,September,6537,Rajasthan
+2023,October,6441,Rajasthan
+2023,November,6060,Rajasthan
+2023,December,5526,Rajasthan
+2023,January,51,Sikkim
+2023,February,36,Sikkim
+2023,March,33,Sikkim
+2023,April,54,Sikkim
+2023,May,39,Sikkim
+2023,June,42,Sikkim
+2023,July,42,Sikkim
+2023,August,51,Sikkim
+2023,September,39,Sikkim
+2023,October,39,Sikkim
+2023,November,45,Sikkim
+2023,December,51,Sikkim
+2023,January,18072,Tamil Nadu
+2023,February,15903,Tamil Nadu
+2023,March,16404,Tamil Nadu
+2023,April,16983,Tamil Nadu
+2023,May,17433,Tamil Nadu
+2023,June,16860,Tamil Nadu
+2023,July,17127,Tamil Nadu
+2023,August,18210,Tamil Nadu
+2023,September,16452,Tamil Nadu
+2023,October,16932,Tamil Nadu
+2023,November,16107,Tamil Nadu
+2023,December,15156,Tamil Nadu
+2023,January,5505,Telangana
+2023,February,5310,Telangana
+2023,March,5562,Telangana
+2023,April,5598,Telangana
+2023,May,6558,Telangana
+2023,June,6246,Telangana
+2023,July,5175,Telangana
+2023,August,5496,Telangana
+2023,September,5298,Telangana
+2023,October,5646,Telangana
+2023,November,5712,Telangana
+2023,December,6603,Telangana
+2023,January,48,Dadra And Nagar Haveli And Daman And Diu
+2023,February,60,Dadra And Nagar Haveli And Daman And Diu
+2023,March,51,Dadra And Nagar Haveli And Daman And Diu
+2023,April,45,Dadra And Nagar Haveli And Daman And Diu
+2023,May,57,Dadra And Nagar Haveli And Daman And Diu
+2023,June,45,Dadra And Nagar Haveli And Daman And Diu
+2023,July,24,Dadra And Nagar Haveli And Daman And Diu
+2023,August,57,Dadra And Nagar Haveli And Daman And Diu
+2023,September,51,Dadra And Nagar Haveli And Daman And Diu
+2023,October,39,Dadra And Nagar Haveli And Daman And Diu
+2023,November,36,Dadra And Nagar Haveli And Daman And Diu
+2023,December,36,Dadra And Nagar Haveli And Daman And Diu
+2023,January,126,Tripura
+2023,February,108,Tripura
+2023,March,144,Tripura
+2023,April,144,Tripura
+2023,May,141,Tripura
+2023,June,159,Tripura
+2023,July,150,Tripura
+2023,August,159,Tripura
+2023,September,120,Tripura
+2023,October,126,Tripura
+2023,November,165,Tripura
+2023,December,189,Tripura
+2023,January,11331,Uttar Pradesh
+2023,February,9870,Uttar Pradesh
+2023,March,9387,Uttar Pradesh
+2023,April,8220,Uttar Pradesh
+2023,May,9549,Uttar Pradesh
+2023,June,9396,Uttar Pradesh
+2023,July,8601,Uttar Pradesh
+2023,August,8835,Uttar Pradesh
+2023,September,8016,Uttar Pradesh
+2023,October,8742,Uttar Pradesh
+2023,November,9996,Uttar Pradesh
+2023,December,11349,Uttar Pradesh
+2023,January,378,Uttarakhand
+2023,February,354,Uttarakhand
+2023,March,354,Uttarakhand
+2023,April,450,Uttarakhand
+2023,May,540,Uttarakhand
+2023,June,444,Uttarakhand
+2023,July,420,Uttarakhand
+2023,August,375,Uttarakhand
+2023,September,357,Uttarakhand
+2023,October,447,Uttarakhand
+2023,November,441,Uttarakhand
+2023,December,513,Uttarakhand
+2023,January,2727,West Bengal
+2023,February,2433,West Bengal
+2023,March,2670,West Bengal
+2023,April,2349,West Bengal
+2023,May,2718,West Bengal
+2023,June,2592,West Bengal
+2023,July,2382,West Bengal
+2023,August,2640,West Bengal
+2023,September,2556,West Bengal
+2023,October,2730,West Bengal
+2023,November,2667,West Bengal
+2023,December,2736,West Bengal
+2024,January,3,Andaman And Nicobar Islands
+2024,February,3,Andaman And Nicobar Islands
+2024,March,2,Andaman And Nicobar Islands
+2024,April,1,Andaman And Nicobar Islands
+2024,May,5,Andaman And Nicobar Islands
+2024,June,0,Andaman And Nicobar Islands
+2024,July,1,Andaman And Nicobar Islands
+2024,August,4,Andaman And Nicobar Islands
+2024,September,4,Andaman And Nicobar Islands
+2024,October,3,Andaman And Nicobar Islands
+2024,November,1,Andaman And Nicobar Islands
+2024,December,0,Andaman And Nicobar Islands
+2024,January,1612,Andhra Pradesh
+2024,February,1504,Andhra Pradesh
+2024,March,1816,Andhra Pradesh
+2024,April,1718,Andhra Pradesh
+2024,May,1639,Andhra Pradesh
+2024,June,1475,Andhra Pradesh
+2024,July,1430,Andhra Pradesh
+2024,August,1664,Andhra Pradesh
+2024,September,1528,Andhra Pradesh
+2024,October,1800,Andhra Pradesh
+2024,November,1709,Andhra Pradesh
+2024,December,1662,Andhra Pradesh
+2024,January,26,Arunachal Pradesh
+2024,February,20,Arunachal Pradesh
+2024,March,28,Arunachal Pradesh
+2024,April,14,Arunachal Pradesh
+2024,May,21,Arunachal Pradesh
+2024,June,22,Arunachal Pradesh
+2024,July,11,Arunachal Pradesh
+2024,August,14,Arunachal Pradesh
+2024,September,17,Arunachal Pradesh
+2024,October,22,Arunachal Pradesh
+2024,November,20,Arunachal Pradesh
+2024,December,19,Arunachal Pradesh
+2024,January,600,Assam
+2024,February,618,Assam
+2024,March,678,Assam
+2024,April,573,Assam
+2024,May,649,Assam
+2024,June,640,Assam
+2024,July,603,Assam
+2024,August,618,Assam
+2024,September,623,Assam
+2024,October,718,Assam
+2024,November,730,Assam
+2024,December,798,Assam
+2024,January,827,Bihar
+2024,February,821,Bihar
+2024,March,986,Bihar
+2024,April,1051,Bihar
+2024,May,1044,Bihar
+2024,June,962,Bihar
+2024,July,871,Bihar
+2024,August,953,Bihar
+2024,September,841,Bihar
+2024,October,968,Bihar
+2024,November,989,Bihar
+2024,December,1215,Bihar
+2024,January,22,Chandigarh
+2024,February,18,Chandigarh
+2024,March,30,Chandigarh
+2024,April,30,Chandigarh
+2024,May,40,Chandigarh
+2024,June,18,Chandigarh
+2024,July,38,Chandigarh
+2024,August,22,Chandigarh
+2024,September,34,Chandigarh
+2024,October,30,Chandigarh
+2024,November,28,Chandigarh
+2024,December,30,Chandigarh
+2024,January,1280,Chhattisgarh
+2024,February,1228,Chhattisgarh
+2024,March,1341,Chhattisgarh
+2024,April,1182,Chhattisgarh
+2024,May,1357,Chhattisgarh
+2024,June,1310,Chhattisgarh
+2024,July,1150,Chhattisgarh
+2024,August,1072,Chhattisgarh
+2024,September,1092,Chhattisgarh
+2024,October,1290,Chhattisgarh
+2024,November,1372,Chhattisgarh
+2024,December,1187,Chhattisgarh
+2024,January,790,Delhi
+2024,February,942,Delhi
+2024,March,1050,Delhi
+2024,April,854,Delhi
+2024,May,906,Delhi
+2024,June,934,Delhi
+2024,July,864,Delhi
+2024,August,946,Delhi
+2024,September,962,Delhi
+2024,October,1018,Delhi
+2024,November,934,Delhi
+2024,December,946,Delhi
+2024,January,266,Goa
+2024,February,239,Goa
+2024,March,230,Goa
+2024,April,248,Goa
+2024,May,212,Goa
+2024,June,190,Goa
+2024,July,172,Goa
+2024,August,183,Goa
+2024,September,197,Goa
+2024,October,259,Goa
+2024,November,241,Goa
+2024,December,245,Goa
+2024,January,1326,Gujarat
+2024,February,1339,Gujarat
+2024,March,1385,Gujarat
+2024,April,1269,Gujarat
+2024,May,1368,Gujarat
+2024,June,1305,Gujarat
+2024,July,1059,Gujarat
+2024,August,1123,Gujarat
+2024,September,1154,Gujarat
+2024,October,1353,Gujarat
+2024,November,1414,Gujarat
+2024,December,1493,Gujarat
+2024,January,755,Haryana
+2024,February,791,Haryana
+2024,March,974,Haryana
+2024,April,899,Haryana
+2024,May,962,Haryana
+2024,June,835,Haryana
+2024,July,843,Haryana
+2024,August,848,Haryana
+2024,September,810,Haryana
+2024,October,895,Haryana
+2024,November,982,Haryana
+2024,December,975,Haryana
+2024,January,186,Himachal Pradesh
+2024,February,135,Himachal Pradesh
+2024,March,177,Himachal Pradesh
+2024,April,181,Himachal Pradesh
+2024,May,187,Himachal Pradesh
+2024,June,205,Himachal Pradesh
+2024,July,174,Himachal Pradesh
+2024,August,154,Himachal Pradesh
+2024,September,163,Himachal Pradesh
+2024,October,235,Himachal Pradesh
+2024,November,180,Himachal Pradesh
+2024,December,181,Himachal Pradesh
+2024,January,398,Jammu And Kashmir And Ladakh
+2024,February,380,Jammu And Kashmir And Ladakh
+2024,March,437,Jammu And Kashmir And Ladakh
+2024,April,494,Jammu And Kashmir And Ladakh
+2024,May,576,Jammu And Kashmir And Ladakh
+2024,June,566,Jammu And Kashmir And Ladakh
+2024,July,575,Jammu And Kashmir And Ladakh
+2024,August,501,Jammu And Kashmir And Ladakh
+2024,September,502,Jammu And Kashmir And Ladakh
+2024,October,527,Jammu And Kashmir And Ladakh
+2024,November,443,Jammu And Kashmir And Ladakh
+2024,December,378,Jammu And Kashmir And Ladakh
+2024,January,488,Jharkhand
+2024,February,503,Jharkhand
+2024,March,426,Jharkhand
+2024,April,452,Jharkhand
+2024,May,411,Jharkhand
+2024,June,453,Jharkhand
+2024,July,407,Jharkhand
+2024,August,373,Jharkhand
+2024,September,398,Jharkhand
+2024,October,385,Jharkhand
+2024,November,402,Jharkhand
+2024,December,498,Jharkhand
+2024,January,3789,Karnataka
+2024,February,3798,Karnataka
+2024,March,3732,Karnataka
+2024,April,3770,Karnataka
+2024,May,3898,Karnataka
+2024,June,3409,Karnataka
+2024,July,3106,Karnataka
+2024,August,3322,Karnataka
+2024,September,3252,Karnataka
+2024,October,3476,Karnataka
+2024,November,3661,Karnataka
+2024,December,3849,Karnataka
+2024,January,4557,Kerala
+2024,February,4174,Kerala
+2024,March,3968,Kerala
+2024,April,3841,Kerala
+2024,May,3962,Kerala
+2024,June,3515,Kerala
+2024,July,3233,Kerala
+2024,August,3472,Kerala
+2024,September,4003,Kerala
+2024,October,4080,Kerala
+2024,November,3971,Kerala
+2024,December,3815,Kerala
+2024,January,10,Jammu And Kashmir And Ladakh
+2024,February,4,Jammu And Kashmir And Ladakh
+2024,March,9,Jammu And Kashmir And Ladakh
+2024,April,19,Jammu And Kashmir And Ladakh
+2024,May,22,Jammu And Kashmir And Ladakh
+2024,June,32,Jammu And Kashmir And Ladakh
+2024,July,39,Jammu And Kashmir And Ladakh
+2024,August,45,Jammu And Kashmir And Ladakh
+2024,September,28,Jammu And Kashmir And Ladakh
+2024,October,30,Jammu And Kashmir And Ladakh
+2024,November,20,Jammu And Kashmir And Ladakh
+2024,December,6,Jammu And Kashmir And Ladakh
+2024,January,0,Lakshadweep
+2024,February,0,Lakshadweep
+2024,March,0,Lakshadweep
+2024,April,0,Lakshadweep
+2024,May,0,Lakshadweep
+2024,June,0,Lakshadweep
+2024,July,0,Lakshadweep
+2024,August,0,Lakshadweep
+2024,September,0,Lakshadweep
+2024,October,0,Lakshadweep
+2024,November,0,Lakshadweep
+2024,December,0,Lakshadweep
+2024,January,4864,Madhya Pradesh
+2024,February,4650,Madhya Pradesh
+2024,March,4961,Madhya Pradesh
+2024,April,4799,Madhya Pradesh
+2024,May,5556,Madhya Pradesh
+2024,June,4833,Madhya Pradesh
+2024,July,4048,Madhya Pradesh
+2024,August,4002,Madhya Pradesh
+2024,September,3956,Madhya Pradesh
+2024,October,4577,Madhya Pradesh
+2024,November,5034,Madhya Pradesh
+2024,December,4431,Madhya Pradesh
+2024,January,2651,Maharashtra
+2024,February,2482,Maharashtra
+2024,March,2753,Maharashtra
+2024,April,2592,Maharashtra
+2024,May,2863,Maharashtra
+2024,June,2657,Maharashtra
+2024,July,2149,Maharashtra
+2024,August,2270,Maharashtra
+2024,September,2241,Maharashtra
+2024,October,2593,Maharashtra
+2024,November,2574,Maharashtra
+2024,December,2810,Maharashtra
+2024,January,26,Manipur
+2024,February,32,Manipur
+2024,March,25,Manipur
+2024,April,28,Manipur
+2024,May,19,Manipur
+2024,June,30,Manipur
+2024,July,15,Manipur
+2024,August,19,Manipur
+2024,September,14,Manipur
+2024,October,27,Manipur
+2024,November,34,Manipur
+2024,December,30,Manipur
+2024,January,24,Meghalaya
+2024,February,20,Meghalaya
+2024,March,19,Meghalaya
+2024,April,27,Meghalaya
+2024,May,27,Meghalaya
+2024,June,15,Meghalaya
+2024,July,25,Meghalaya
+2024,August,28,Meghalaya
+2024,September,16,Meghalaya
+2024,October,19,Meghalaya
+2024,November,27,Meghalaya
+2024,December,21,Meghalaya
+2024,January,4,Mizoram
+2024,February,4,Mizoram
+2024,March,9,Mizoram
+2024,April,10,Mizoram
+2024,May,11,Mizoram
+2024,June,5,Mizoram
+2024,July,6,Mizoram
+2024,August,1,Mizoram
+2024,September,2,Mizoram
+2024,October,4,Mizoram
+2024,November,4,Mizoram
+2024,December,9,Mizoram
+2024,January,1,Nagaland
+2024,February,1,Nagaland
+2024,March,2,Nagaland
+2024,April,4,Nagaland
+2024,May,1,Nagaland
+2024,June,3,Nagaland
+2024,July,1,Nagaland
+2024,August,2,Nagaland
+2024,September,2,Nagaland
+2024,October,1,Nagaland
+2024,November,1,Nagaland
+2024,December,4,Nagaland
+2024,January,1097,Odisha
+2024,February,1105,Odisha
+2024,March,1217,Odisha
+2024,April,965,Odisha
+2024,May,980,Odisha
+2024,June,1005,Odisha
+2024,July,914,Odisha
+2024,August,813,Odisha
+2024,September,941,Odisha
+2024,October,1012,Odisha
+2024,November,1119,Odisha
+2024,December,1207,Odisha
+2024,January,113,Puducherry
+2024,February,102,Puducherry
+2024,March,127,Puducherry
+2024,April,114,Puducherry
+2024,May,130,Puducherry
+2024,June,118,Puducherry
+2024,July,111,Puducherry
+2024,August,111,Puducherry
+2024,September,147,Puducherry
+2024,October,129,Puducherry
+2024,November,102,Puducherry
+2024,December,127,Puducherry
+2024,January,411,Punjab
+2024,February,486,Punjab
+2024,March,542,Punjab
+2024,April,604,Punjab
+2024,May,533,Punjab
+2024,June,499,Punjab
+2024,July,460,Punjab
+2024,August,481,Punjab
+2024,September,463,Punjab
+2024,October,562,Punjab
+2024,November,580,Punjab
+2024,December,545,Punjab
+2024,January,2153,Rajasthan
+2024,February,2029,Rajasthan
+2024,March,2104,Rajasthan
+2024,April,2143,Rajasthan
+2024,May,2269,Rajasthan
+2024,June,2081,Rajasthan
+2024,July,1955,Rajasthan
+2024,August,1655,Rajasthan
+2024,September,1787,Rajasthan
+2024,October,2093,Rajasthan
+2024,November,2137,Rajasthan
+2024,December,1713,Rajasthan
+2024,January,15,Sikkim
+2024,February,9,Sikkim
+2024,March,23,Sikkim
+2024,April,16,Sikkim
+2024,May,12,Sikkim
+2024,June,8,Sikkim
+2024,July,5,Sikkim
+2024,August,9,Sikkim
+2024,September,11,Sikkim
+2024,October,7,Sikkim
+2024,November,20,Sikkim
+2024,December,11,Sikkim
+2024,January,5963,Tamil Nadu
+2024,February,5379,Tamil Nadu
+2024,March,5878,Tamil Nadu
+2024,April,5600,Tamil Nadu
+2024,May,5640,Tamil Nadu
+2024,June,5539,Tamil Nadu
+2024,July,5381,Tamil Nadu
+2024,August,5871,Tamil Nadu
+2024,September,5959,Tamil Nadu
+2024,October,5800,Tamil Nadu
+2024,November,5221,Tamil Nadu
+2024,December,5295,Tamil Nadu
+2024,January,2223,Telangana
+2024,February,2214,Telangana
+2024,March,2264,Telangana
+2024,April,2341,Telangana
+2024,May,2249,Telangana
+2024,June,1932,Telangana
+2024,July,1798,Telangana
+2024,August,2096,Telangana
+2024,September,1904,Telangana
+2024,October,2279,Telangana
+2024,November,2237,Telangana
+2024,December,2449,Telangana
+2024,January,15,Dadra And Nagar Haveli And Daman And Diu
+2024,February,9,Dadra And Nagar Haveli And Daman And Diu
+2024,March,15,Dadra And Nagar Haveli And Daman And Diu
+2024,April,11,Dadra And Nagar Haveli And Daman And Diu
+2024,May,20,Dadra And Nagar Haveli And Daman And Diu
+2024,June,11,Dadra And Nagar Haveli And Daman And Diu
+2024,July,11,Dadra And Nagar Haveli And Daman And Diu
+2024,August,10,Dadra And Nagar Haveli And Daman And Diu
+2024,September,8,Dadra And Nagar Haveli And Daman And Diu
+2024,October,11,Dadra And Nagar Haveli And Daman And Diu
+2024,November,9,Dadra And Nagar Haveli And Daman And Diu
+2024,December,14,Dadra And Nagar Haveli And Daman And Diu
+2024,January,53,Tripura
+2024,February,55,Tripura
+2024,March,50,Tripura
+2024,April,46,Tripura
+2024,May,44,Tripura
+2024,June,58,Tripura
+2024,July,54,Tripura
+2024,August,30,Tripura
+2024,September,50,Tripura
+2024,October,40,Tripura
+2024,November,41,Tripura
+2024,December,57,Tripura
+2024,January,3146,Uttar Pradesh
+2024,February,3102,Uttar Pradesh
+2024,March,3420,Uttar Pradesh
+2024,April,3236,Uttar Pradesh
+2024,May,3184,Uttar Pradesh
+2024,June,2965,Uttar Pradesh
+2024,July,2867,Uttar Pradesh
+2024,August,3118,Uttar Pradesh
+2024,September,2768,Uttar Pradesh
+2024,October,3195,Uttar Pradesh
+2024,November,3643,Uttar Pradesh
+2024,December,3773,Uttar Pradesh
+2024,January,126,Uttarakhand
+2024,February,145,Uttarakhand
+2024,March,128,Uttarakhand
+2024,April,132,Uttarakhand
+2024,May,160,Uttarakhand
+2024,June,157,Uttarakhand
+2024,July,134,Uttarakhand
+2024,August,154,Uttarakhand
+2024,September,128,Uttarakhand
+2024,October,150,Uttarakhand
+2024,November,166,Uttarakhand
+2024,December,166,Uttarakhand
+2024,January,880,West Bengal
+2024,February,881,West Bengal
+2024,March,927,West Bengal
+2024,April,901,West Bengal
+2024,May,880,West Bengal
+2024,June,913,West Bengal
+2024,July,836,West Bengal
+2024,August,772,West Bengal
+2024,September,855,West Bengal
+2024,October,889,West Bengal
+2024,November,904,West Bengal
+2024,December,1005,West Bengal

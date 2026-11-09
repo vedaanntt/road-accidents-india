@@ -1,0 +1,784 @@
+"id","year","state_name","state_code","type_of_accident","cases","injured","died"
+1,2018,"Andaman And Nicobar Islands",35,"Railway Accidents",0,0,0
+2,2018,"Andaman And Nicobar Islands",35,"Railway Crossing Accidents",0,0,0
+3,2018,"Andaman And Nicobar Islands",35,"Road Accidents",254,260,19
+4,2018,"Andhra Pradesh",28,"Railway Accidents",1525,0,1531
+5,2018,"Andhra Pradesh",28,"Railway Crossing Accidents",1,0,1
+6,2018,"Andhra Pradesh",28,"Road Accidents",21008,22009,7584
+7,2018,"Arunachal Pradesh",12,"Railway Accidents",0,0,0
+8,2018,"Arunachal Pradesh",12,"Railway Crossing Accidents",0,0,0
+9,2018,"Arunachal Pradesh",12,"Road Accidents",229,243,163
+10,2018,"Assam",18,"Railway Accidents",555,0,557
+11,2018,"Assam",18,"Railway Crossing Accidents",21,3,22
+12,2018,"Assam",18,"Road Accidents",7180,6081,2712
+13,2018,"Bihar",10,"Railway Accidents",1583,23,1585
+14,2018,"Bihar",10,"Railway Crossing Accidents",222,0,222
+15,2018,"Bihar",10,"Road Accidents",9600,6679,6729
+16,2018,"Chandigarh",4,"Railway Accidents",0,0,0
+17,2018,"Chandigarh",4,"Railway Crossing Accidents",0,0,0
+18,2018,"Chandigarh",4,"Road Accidents",634,534,202
+19,2018,"Chhattisgarh",22,"Railway Accidents",400,0,400
+20,2018,"Chhattisgarh",22,"Railway Crossing Accidents",28,3,28
+21,2018,"Chhattisgarh",22,"Road Accidents",13865,12716,4593
+22,2018,"Delhi",7,"Railway Accidents",1980,232,1748
+23,2018,"Delhi",7,"Railway Crossing Accidents",12,0,12
+24,2018,"Delhi",7,"Road Accidents",13034,11280,3468
+25,2018,"Goa",30,"Railway Accidents",39,0,39
+26,2018,"Goa",30,"Railway Crossing Accidents",0,0,0
+27,2018,"Goa",30,"Road Accidents",3710,1502,264
+28,2018,"Gujarat",24,"Railway Accidents",1014,0,1022
+29,2018,"Gujarat",24,"Railway Crossing Accidents",0,0,0
+30,2018,"Gujarat",24,"Road Accidents",18414,17619,8040
+31,2018,"Haryana",6,"Railway Accidents",2141,0,2141
+32,2018,"Haryana",6,"Railway Crossing Accidents",6,0,8
+33,2018,"Haryana",6,"Road Accidents",11652,9819,5429
+34,2018,"Himachal Pradesh",2,"Railway Accidents",0,0,0
+35,2018,"Himachal Pradesh",2,"Railway Crossing Accidents",0,0,0
+36,2018,"Himachal Pradesh",2,"Road Accidents",3119,4992,1077
+37,2018,"Jammu And Kashmir",1,"Railway Accidents",64,4,61
+38,2018,"Jammu And Kashmir",1,"Railway Crossing Accidents",2,0,2
+39,2018,"Jammu And Kashmir",1,"Road Accidents",5997,7855,986
+40,2018,"Jharkhand",20,"Railway Accidents",447,0,447
+41,2018,"Jharkhand",20,"Railway Crossing Accidents",9,0,9
+42,2018,"Jharkhand",20,"Road Accidents",5394,3975,3542
+43,2018,"Karnataka",29,"Railway Accidents",0,0,0
+44,2018,"Karnataka",29,"Railway Crossing Accidents",0,0,0
+45,2018,"Karnataka",29,"Road Accidents",41707,51562,10990
+46,2018,"Kerala",32,"Railway Accidents",258,16,253
+47,2018,"Kerala",32,"Railway Crossing Accidents",180,2,178
+48,2018,"Kerala",32,"Road Accidents",40181,45458,4303
+49,2018,"Lakshadweep",31,"Railway Accidents",0,0,0
+50,2018,"Lakshadweep",31,"Railway Crossing Accidents",0,0,0
+51,2018,"Lakshadweep",31,"Road Accidents",3,3,1
+52,2018,"Madhya Pradesh",23,"Railway Accidents",1459,66,1396
+53,2018,"Madhya Pradesh",23,"Railway Crossing Accidents",152,0,152
+54,2018,"Madhya Pradesh",23,"Road Accidents",47469,51149,11427
+55,2018,"Maharashtra",27,"Railway Accidents",6349,2563,3801
+56,2018,"Maharashtra",27,"Railway Crossing Accidents",0,0,0
+57,2018,"Maharashtra",27,"Road Accidents",29740,25102,13863
+58,2018,"Manipur",14,"Railway Accidents",0,0,0
+59,2018,"Manipur",14,"Railway Crossing Accidents",0,0,0
+60,2018,"Manipur",14,"Road Accidents",602,1046,135
+61,2018,"Meghalaya",17,"Railway Accidents",0,0,0
+62,2018,"Meghalaya",17,"Railway Crossing Accidents",1,0,1
+63,2018,"Meghalaya",17,"Road Accidents",258,232,196
+64,2018,"Mizoram",15,"Railway Accidents",0,0,0
+65,2018,"Mizoram",15,"Railway Crossing Accidents",0,0,0
+66,2018,"Mizoram",15,"Road Accidents",50,73,62
+67,2018,"Nagaland",13,"Railway Accidents",0,0,0
+68,2018,"Nagaland",13,"Railway Crossing Accidents",9,0,9
+69,2018,"Nagaland",13,"Road Accidents",50,90,35
+70,2018,"Odisha",21,"Railway Accidents",427,0,427
+71,2018,"Odisha",21,"Railway Crossing Accidents",3,0,3
+72,2018,"Odisha",21,"Road Accidents",11262,11389,5236
+73,2018,"Puducherry",34,"Railway Accidents",0,0,0
+74,2018,"Puducherry",34,"Railway Crossing Accidents",1,0,1
+75,2018,"Puducherry",34,"Road Accidents",1597,1727,226
+76,2018,"Punjab",3,"Railway Accidents",865,124,872
+77,2018,"Punjab",3,"Railway Crossing Accidents",0,0,0
+78,2018,"Punjab",3,"Road Accidents",6424,3339,4738
+79,2018,"Rajasthan",8,"Railway Accidents",655,29,633
+80,2018,"Rajasthan",8,"Railway Crossing Accidents",3,0,3
+81,2018,"Rajasthan",8,"Road Accidents",21743,21547,10320
+82,2018,"Sikkim",11,"Railway Accidents",0,0,0
+83,2018,"Sikkim",11,"Railway Crossing Accidents",0,0,0
+84,2018,"Sikkim",11,"Road Accidents",169,357,71
+85,2018,"Tamil Nadu",33,"Railway Accidents",2184,173,2025
+86,2018,"Tamil Nadu",33,"Railway Crossing Accidents",6,0,6
+87,2018,"Tamil Nadu",33,"Road Accidents",63920,74537,12216
+88,2018,"Telangana",36,"Railway Accidents",637,0,641
+89,2018,"Telangana",36,"Railway Crossing Accidents",0,0,0
+90,2018,"Telangana",36,"Road Accidents",22230,23613,6603
+91,2018,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Accidents",0,0,0
+92,2018,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Crossing Accidents",0,0,0
+93,2018,"The Dadra And Nagar Haveli And Daman And Diu",38,"Road Accidents",151,152,90
+94,2018,"Tripura",16,"Railway Accidents",7,0,7
+95,2018,"Tripura",16,"Railway Crossing Accidents",16,0,16
+96,2018,"Tripura",16,"Road Accidents",551,741,212
+97,2018,"Uttar Pradesh",9,"Railway Accidents",3272,283,3095
+98,2018,"Uttar Pradesh",9,"Railway Crossing Accidents",656,12,693
+99,2018,"Uttar Pradesh",9,"Road Accidents",36855,22322,22541
+100,2018,"Uttarakhand",5,"Railway Accidents",16,0,16
+101,2018,"Uttarakhand",5,"Railway Crossing Accidents",17,0,17
+102,2018,"Uttarakhand",5,"Road Accidents",1469,1583,1073
+103,2018,"West Bengal",19,"Railway Accidents",2756,34,2722
+104,2018,"West Bengal",19,"Railway Crossing Accidents",142,12,130
+105,2018,"West Bengal",19,"Road Accidents",11827,10839,5469
+106,2019,"Andhra Pradesh",28,"Railway Accidents",1511,1,1519
+107,2019,"Andhra Pradesh",28,"Railway Crossing Accidents",0,0,0
+108,2019,"Andhra Pradesh",28,"Road Accidents",20677,24619,7984
+109,2019,"Arunachal Pradesh",12,"Railway Accidents",0,0,0
+110,2019,"Arunachal Pradesh",12,"Railway Crossing Accidents",0,0,0
+111,2019,"Arunachal Pradesh",12,"Road Accidents",200,275,109
+112,2019,"Assam",18,"Railway Accidents",591,0,593
+113,2019,"Assam",18,"Railway Crossing Accidents",5,0,5
+114,2019,"Assam",18,"Road Accidents",8055,7081,3245
+115,2019,"Bihar",10,"Railway Accidents",1589,0,1622
+116,2019,"Bihar",10,"Railway Crossing Accidents",241,2,242
+117,2019,"Bihar",10,"Road Accidents",10007,7206,7205
+118,2019,"Chandigarh",4,"Railway Accidents",0,0,0
+119,2019,"Chandigarh",4,"Railway Crossing Accidents",0,0,0
+120,2019,"Chandigarh",4,"Road Accidents",608,550,208
+121,2019,"Chhattisgarh",22,"Railway Accidents",466,0,466
+122,2019,"Chhattisgarh",22,"Railway Crossing Accidents",1,0,1
+123,2019,"Chhattisgarh",22,"Road Accidents",13899,13089,5003
+124,2019,"Delhi",7,"Railway Accidents",1716,124,1592
+125,2019,"Delhi",7,"Railway Crossing Accidents",22,0,22
+126,2019,"Delhi",7,"Road Accidents",11202,9898,3016
+127,2019,"Goa",30,"Railway Accidents",50,0,50
+128,2019,"Goa",30,"Railway Crossing Accidents",0,0,0
+129,2019,"Goa",30,"Road Accidents",3440,1460,299
+130,2019,"Gujarat",24,"Railway Accidents",994,0,1012
+131,2019,"Gujarat",24,"Railway Crossing Accidents",0,0,0
+132,2019,"Gujarat",24,"Road Accidents",16503,15976,7428
+133,2019,"Haryana",6,"Railway Accidents",1362,126,1278
+134,2019,"Haryana",6,"Railway Crossing Accidents",104,23,84
+135,2019,"Haryana",6,"Road Accidents",10937,9247,5269
+136,2019,"Himachal Pradesh",2,"Railway Accidents",0,0,0
+137,2019,"Himachal Pradesh",2,"Railway Crossing Accidents",0,0,0
+138,2019,"Himachal Pradesh",2,"Road Accidents",2896,4740,1124
+139,2019,"Jammu And Kashmir",1,"Railway Accidents",44,0,45
+140,2019,"Jammu And Kashmir",1,"Railway Crossing Accidents",0,0,0
+141,2019,"Jammu And Kashmir",1,"Road Accidents",5795,7517,1009
+142,2019,"Jharkhand",20,"Railway Accidents",483,1,486
+143,2019,"Jharkhand",20,"Railway Crossing Accidents",2,0,2
+144,2019,"Jharkhand",20,"Road Accidents",5217,3818,3801
+145,2019,"Karnataka",29,"Railway Accidents",0,0,0
+146,2019,"Karnataka",29,"Railway Crossing Accidents",22,5,15
+147,2019,"Karnataka",29,"Road Accidents",40644,50442,10951
+148,2019,"Kerala",32,"Railway Accidents",250,1,254
+149,2019,"Kerala",32,"Railway Crossing Accidents",160,0,158
+150,2019,"Kerala",32,"Road Accidents",39944,44467,4370
+151,2019,"Lakshadweep",31,"Railway Accidents",0,0,0
+152,2019,"Lakshadweep",31,"Railway Crossing Accidents",0,0,0
+153,2019,"Lakshadweep",31,"Road Accidents",1,1,0
+154,2019,"Madhya Pradesh",23,"Railway Accidents",1508,99,1409
+155,2019,"Madhya Pradesh",23,"Railway Crossing Accidents",230,6,232
+156,2019,"Madhya Pradesh",23,"Road Accidents",51641,53765,11856
+157,2019,"Maharashtra",27,"Railway Accidents",6338,2435,3916
+158,2019,"Maharashtra",27,"Railway Crossing Accidents",0,0,0
+159,2019,"Maharashtra",27,"Road Accidents",27286,23289,14608
+160,2019,"Manipur",14,"Railway Accidents",0,0,0
+161,2019,"Manipur",14,"Railway Crossing Accidents",0,0,0
+162,2019,"Manipur",14,"Road Accidents",672,1055,156
+163,2019,"Meghalaya",17,"Railway Accidents",0,0,0
+164,2019,"Meghalaya",17,"Railway Crossing Accidents",0,0,0
+165,2019,"Meghalaya",17,"Road Accidents",236,287,176
+166,2019,"Mizoram",15,"Railway Accidents",0,0,0
+167,2019,"Mizoram",15,"Railway Crossing Accidents",0,0,0
+168,2019,"Mizoram",15,"Road Accidents",57,25,63
+169,2019,"Nagaland",13,"Railway Accidents",0,0,0
+170,2019,"Nagaland",13,"Railway Crossing Accidents",8,0,8
+171,2019,"Nagaland",13,"Road Accidents",26,59,22
+172,2019,"Odisha",21,"Railway Accidents",444,0,446
+173,2019,"Odisha",21,"Railway Crossing Accidents",0,0,0
+174,2019,"Odisha",21,"Road Accidents",11064,11177,5333
+175,2019,"Puducherry",34,"Railway Accidents",9,0,9
+176,2019,"Puducherry",34,"Railway Crossing Accidents",0,0,0
+177,2019,"Puducherry",34,"Road Accidents",1392,1619,147
+178,2019,"Punjab",3,"Railway Accidents",893,65,831
+179,2019,"Punjab",3,"Railway Crossing Accidents",0,0,0
+180,2019,"Punjab",3,"Road Accidents",6316,3726,4613
+181,2019,"Rajasthan",8,"Railway Accidents",803,30,775
+182,2019,"Rajasthan",8,"Railway Crossing Accidents",0,0,0
+183,2019,"Rajasthan",8,"Road Accidents",23478,22979,10563
+184,2019,"Sikkim",11,"Railway Accidents",0,0,0
+185,2019,"Sikkim",11,"Railway Crossing Accidents",0,0,0
+186,2019,"Sikkim",11,"Road Accidents",172,329,84
+187,2019,"Tamil Nadu",33,"Railway Accidents",2266,203,2081
+188,2019,"Tamil Nadu",33,"Railway Crossing Accidents",5,0,5
+189,2019,"Tamil Nadu",33,"Road Accidents",57228,67137,10525
+190,2019,"Telangana",36,"Railway Accidents",626,0,631
+191,2019,"Telangana",36,"Railway Crossing Accidents",0,0,0
+192,2019,"Telangana",36,"Road Accidents",21570,21999,6964
+193,2019,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Accidents",0,0,0
+194,2019,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Crossing Accidents",0,0,0
+195,2019,"The Dadra And Nagar Haveli And Daman And Diu",38,"Road Accidents",131,179,78
+196,2019,"Tripura",16,"Railway Accidents",5,0,5
+197,2019,"Tripura",16,"Railway Crossing Accidents",27,0,27
+198,2019,"Tripura",16,"Road Accidents",655,816,239
+199,2019,"Uttar Pradesh",9,"Railway Accidents",3980,502,3521
+200,2019,"Uttar Pradesh",9,"Railway Crossing Accidents",851,123,855
+201,2019,"Uttar Pradesh",9,"Road Accidents",37537,22251,23285
+202,2019,"Uttarakhand",5,"Railway Accidents",41,0,42
+203,2019,"Uttarakhand",5,"Railway Crossing Accidents",8,0,10
+204,2019,"Uttarakhand",5,"Road Accidents",1352,1457,867
+205,2019,"West Bengal",19,"Railway Accidents",2876,44,2832
+206,2019,"West Bengal",19,"Railway Crossing Accidents",113,6,107
+207,2019,"West Bengal",19,"Road Accidents",12233,11744,5724
+208,2020,"Andaman And Nicobar Islands",35,"Railway Accidents",0,0,0
+209,2020,"Andaman And Nicobar Islands",35,"Railway Crossing Accidents",0,0,0
+210,2020,"Andaman And Nicobar Islands",35,"Road Accidents",141,145,14
+211,2020,"Andhra Pradesh",28,"Railway Accidents",611,0,613
+212,2020,"Andhra Pradesh",28,"Railway Crossing Accidents",0,0,0
+213,2020,"Andhra Pradesh",28,"Road Accidents",17924,19675,7039
+214,2020,"Arunachal Pradesh",12,"Railway Accidents",0,0,0
+215,2020,"Arunachal Pradesh",12,"Railway Crossing Accidents",0,0,0
+216,2020,"Arunachal Pradesh",12,"Road Accidents",159,143,90
+217,2020,"Assam",18,"Railway Accidents",413,3,413
+218,2020,"Assam",18,"Railway Crossing Accidents",8,0,9
+219,2020,"Assam",18,"Road Accidents",6737,5065,2813
+220,2020,"Bihar",10,"Railway Accidents",780,3,781
+221,2020,"Bihar",10,"Railway Crossing Accidents",191,0,191
+222,2020,"Bihar",10,"Road Accidents",8639,7019,6698
+223,2020,"Chandigarh",4,"Railway Accidents",0,0,0
+224,2020,"Chandigarh",4,"Railway Crossing Accidents",0,0,0
+225,2020,"Chandigarh",4,"Road Accidents",314,296,106
+226,2020,"Chhattisgarh",22,"Railway Accidents",328,1,327
+227,2020,"Chhattisgarh",22,"Railway Crossing Accidents",4,0,4
+228,2020,"Chhattisgarh",22,"Road Accidents",11674,10549,4616
+229,2020,"Delhi",7,"Railway Accidents",1052,222,830
+230,2020,"Delhi",7,"Railway Crossing Accidents",4,0,4
+231,2020,"Delhi",7,"Road Accidents",8374,6908,2392
+232,2020,"Goa",30,"Railway Accidents",23,0,23
+233,2020,"Goa",30,"Railway Crossing Accidents",0,0,0
+234,2020,"Goa",30,"Road Accidents",2375,875,224
+235,2020,"Gujarat",24,"Railway Accidents",490,0,492
+236,2020,"Gujarat",24,"Railway Crossing Accidents",1,0,1
+237,2020,"Gujarat",24,"Road Accidents",13407,11984,6200
+238,2020,"Haryana",6,"Railway Accidents",523,20,504
+239,2020,"Haryana",6,"Railway Crossing Accidents",57,1,56
+240,2020,"Haryana",6,"Road Accidents",9506,7627,4631
+241,2020,"Himachal Pradesh",2,"Railway Accidents",0,0,0
+242,2020,"Himachal Pradesh",2,"Railway Crossing Accidents",0,0,0
+243,2020,"Himachal Pradesh",2,"Road Accidents",2235,3208,864
+244,2020,"Jammu And Kashmir",1,"Railway Accidents",9,0,9
+245,2020,"Jammu And Kashmir",1,"Railway Crossing Accidents",0,0,0
+246,2020,"Jammu And Kashmir",1,"Road Accidents",4861,5924,731
+247,2020,"Jharkhand",20,"Railway Accidents",274,5,266
+248,2020,"Jharkhand",20,"Railway Crossing Accidents",22,0,22
+249,2020,"Jharkhand",20,"Road Accidents",4405,3295,3044
+250,2020,"Karnataka",29,"Railway Accidents",0,0,0
+251,2020,"Karnataka",29,"Railway Crossing Accidents",0,0,0
+252,2020,"Karnataka",29,"Road Accidents",34178,39492,9760
+253,2020,"Kerala",32,"Railway Accidents",110,5,110
+254,2020,"Kerala",32,"Railway Crossing Accidents",89,0,91
+255,2020,"Kerala",32,"Road Accidents",27799,30502,2977
+256,2020,"Ladakh",37,"Railway Accidents",0,0,0
+257,2020,"Ladakh",37,"Railway Crossing Accidents",0,0,0
+258,2020,"Ladakh",37,"Road Accidents",139,146,32
+259,2020,"Lakshadweep",31,"Railway Accidents",0,0,0
+260,2020,"Lakshadweep",31,"Railway Crossing Accidents",0,0,0
+261,2020,"Lakshadweep",31,"Road Accidents",1,1,0
+262,2020,"Madhya Pradesh",23,"Railway Accidents",820,0,822
+263,2020,"Madhya Pradesh",23,"Railway Crossing Accidents",144,2,142
+264,2020,"Madhya Pradesh",23,"Road Accidents",42396,41782,11665
+265,2020,"Maharashtra",27,"Railway Accidents",2697,792,1922
+266,2020,"Maharashtra",27,"Railway Crossing Accidents",0,0,0
+267,2020,"Maharashtra",27,"Road Accidents",22211,17165,12018
+268,2020,"Manipur",14,"Railway Accidents",0,0,0
+269,2020,"Manipur",14,"Railway Crossing Accidents",0,0,0
+270,2020,"Manipur",14,"Road Accidents",432,662,127
+271,2020,"Meghalaya",17,"Railway Accidents",0,0,0
+272,2020,"Meghalaya",17,"Railway Crossing Accidents",0,0,0
+273,2020,"Meghalaya",17,"Road Accidents",205,212,138
+274,2020,"Mizoram",15,"Railway Accidents",0,0,0
+275,2020,"Mizoram",15,"Railway Crossing Accidents",0,0,0
+276,2020,"Mizoram",15,"Road Accidents",47,45,53
+277,2020,"Nagaland",13,"Railway Accidents",0,0,0
+278,2020,"Nagaland",13,"Railway Crossing Accidents",3,0,3
+279,2020,"Nagaland",13,"Road Accidents",27,30,27
+280,2020,"Odisha",21,"Railway Accidents",279,0,280
+281,2020,"Odisha",21,"Railway Crossing Accidents",2,0,2
+282,2020,"Odisha",21,"Road Accidents",9817,8822,4738
+283,2020,"Puducherry",34,"Railway Accidents",0,0,0
+284,2020,"Puducherry",34,"Railway Crossing Accidents",0,0,0
+285,2020,"Puducherry",34,"Road Accidents",969,1019,145
+286,2020,"Punjab",3,"Railway Accidents",342,15,329
+287,2020,"Punjab",3,"Railway Crossing Accidents",2,0,4
+288,2020,"Punjab",3,"Road Accidents",5173,2881,3916
+289,2020,"Rajasthan",8,"Railway Accidents",429,15,415
+290,2020,"Rajasthan",8,"Railway Crossing Accidents",0,0,0
+291,2020,"Rajasthan",8,"Road Accidents",19121,16783,9252
+292,2020,"Sikkim",11,"Railway Accidents",0,0,0
+293,2020,"Sikkim",11,"Railway Crossing Accidents",0,0,0
+294,2020,"Sikkim",11,"Road Accidents",108,196,42
+295,2020,"Tamil Nadu",33,"Railway Accidents",959,64,902
+296,2020,"Tamil Nadu",33,"Railway Crossing Accidents",0,0,0
+297,2020,"Tamil Nadu",33,"Road Accidents",45484,50551,8059
+298,2020,"Telangana",36,"Railway Accidents",333,0,337
+299,2020,"Telangana",36,"Railway Crossing Accidents",0,0,0
+300,2020,"Telangana",36,"Road Accidents",19172,18661,6882
+301,2020,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Accidents",0,0,0
+302,2020,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Crossing Accidents",0,0,0
+303,2020,"The Dadra And Nagar Haveli And Daman And Diu",38,"Road Accidents",98,119,64
+304,2020,"Tripura",16,"Railway Accidents",2,0,2
+305,2020,"Tripura",16,"Railway Crossing Accidents",23,0,23
+306,2020,"Tripura",16,"Road Accidents",466,470,192
+307,2020,"Uttar Pradesh",9,"Railway Accidents",1560,31,1558
+308,2020,"Uttar Pradesh",9,"Railway Crossing Accidents",380,56,561
+309,2020,"Uttar Pradesh",9,"Road Accidents",28653,15982,19037
+310,2020,"Uttarakhand",5,"Railway Accidents",5,1,4
+311,2020,"Uttarakhand",5,"Railway Crossing Accidents",3,0,3
+312,2020,"Uttarakhand",5,"Road Accidents",1050,862,693
+313,2020,"West Bengal",19,"Railway Accidents",1505,61,1444
+314,2020,"West Bengal",19,"Railway Crossing Accidents",83,12,71
+315,2020,"West Bengal",19,"Road Accidents",10843,9556,5171
+316,2021,"Andaman And Nicobar Islands",35,"Railway Accidents",0,0,0
+317,2021,"Andaman And Nicobar Islands",35,"Railway Crossing Accidents",0,0,0
+318,2021,"Andaman And Nicobar Islands",35,"Road Accidents",117,97,22
+319,2021,"Andhra Pradesh",28,"Railway Accidents",755,0,760
+320,2021,"Andhra Pradesh",28,"Railway Crossing Accidents",0,0,0
+321,2021,"Andhra Pradesh",28,"Road Accidents",21556,21040,8186
+322,2021,"Arunachal Pradesh",12,"Railway Accidents",0,0,0
+323,2021,"Arunachal Pradesh",12,"Railway Crossing Accidents",0,0,0
+324,2021,"Arunachal Pradesh",12,"Road Accidents",261,266,173
+325,2021,"Assam",18,"Railway Accidents",459,0,459
+326,2021,"Assam",18,"Railway Crossing Accidents",3,2,2
+327,2021,"Assam",18,"Road Accidents",7069,5420,3014
+328,2021,"Bihar",10,"Railway Accidents",1147,47,1151
+329,2021,"Bihar",10,"Railway Crossing Accidents",163,64,163
+330,2021,"Bihar",10,"Road Accidents",9553,7946,7660
+331,2021,"Chandigarh",4,"Railway Accidents",0,0,0
+332,2021,"Chandigarh",4,"Railway Crossing Accidents",0,0,0
+333,2021,"Chandigarh",4,"Road Accidents",416,344,192
+334,2021,"Chhattisgarh",22,"Railway Accidents",412,0,412
+335,2021,"Chhattisgarh",22,"Railway Crossing Accidents",0,0,0
+336,2021,"Chhattisgarh",22,"Road Accidents",12395,10682,5413
+337,2021,"Delhi",7,"Railway Accidents",1352,252,1100
+338,2021,"Delhi",7,"Railway Crossing Accidents",0,0,0
+339,2021,"Delhi",7,"Road Accidents",9440,7978,2478
+340,2021,"Goa",30,"Railway Accidents",49,0,49
+341,2021,"Goa",30,"Railway Crossing Accidents",0,0,0
+342,2021,"Goa",30,"Road Accidents",2850,856,226
+343,2021,"Gujarat",24,"Railway Accidents",571,1,579
+344,2021,"Gujarat",24,"Railway Crossing Accidents",0,0,0
+345,2021,"Gujarat",24,"Road Accidents",15200,13722,7457
+346,2021,"Haryana",6,"Railway Accidents",806,16,790
+347,2021,"Haryana",6,"Railway Crossing Accidents",160,2,158
+348,2021,"Haryana",6,"Road Accidents",10049,7972,4983
+349,2021,"Himachal Pradesh",2,"Railway Accidents",0,0,0
+350,2021,"Himachal Pradesh",2,"Railway Crossing Accidents",0,0,0
+351,2021,"Himachal Pradesh",2,"Road Accidents",2408,3445,1032
+352,2021,"Jammu And Kashmir",1,"Railway Accidents",15,0,15
+353,2021,"Jammu And Kashmir",1,"Railway Crossing Accidents",7,0,7
+354,2021,"Jammu And Kashmir",1,"Road Accidents",5402,6856,804
+355,2021,"Jharkhand",20,"Railway Accidents",284,20,271
+356,2021,"Jharkhand",20,"Railway Crossing Accidents",117,0,117
+357,2021,"Jharkhand",20,"Road Accidents",4728,3227,3513
+358,2021,"Karnataka",29,"Railway Accidents",0,0,0
+359,2021,"Karnataka",29,"Railway Crossing Accidents",0,0,0
+360,2021,"Karnataka",29,"Road Accidents",34647,40754,10038
+361,2021,"Kerala",32,"Railway Accidents",171,0,172
+362,2021,"Kerala",32,"Railway Crossing Accidents",121,2,123
+363,2021,"Kerala",32,"Road Accidents",32759,36514,3429
+364,2021,"Ladakh",37,"Railway Accidents",0,0,0
+365,2021,"Ladakh",37,"Railway Crossing Accidents",0,0,0
+366,2021,"Ladakh",37,"Road Accidents",237,291,56
+367,2021,"Lakshadweep",31,"Railway Accidents",0,0,0
+368,2021,"Lakshadweep",31,"Railway Crossing Accidents",0,0,0
+369,2021,"Lakshadweep",31,"Road Accidents",4,6,1
+370,2021,"Madhya Pradesh",23,"Railway Accidents",1078,0,1079
+371,2021,"Madhya Pradesh",23,"Railway Crossing Accidents",196,0,196
+372,2021,"Madhya Pradesh",23,"Road Accidents",48219,47117,12480
+373,2021,"Maharashtra",27,"Railway Accidents",3488,957,2535
+374,2021,"Maharashtra",27,"Railway Crossing Accidents",0,0,0
+375,2021,"Maharashtra",27,"Road Accidents",26598,19676,13911
+376,2021,"Manipur",14,"Railway Accidents",0,0,0
+377,2021,"Manipur",14,"Railway Crossing Accidents",0,0,0
+378,2021,"Manipur",14,"Road Accidents",366,504,110
+379,2021,"Meghalaya",17,"Railway Accidents",0,0,0
+380,2021,"Meghalaya",17,"Railway Crossing Accidents",0,0,0
+381,2021,"Meghalaya",17,"Road Accidents",244,263,187
+382,2021,"Mizoram",15,"Railway Accidents",0,0,0
+383,2021,"Mizoram",15,"Railway Crossing Accidents",0,0,0
+384,2021,"Mizoram",15,"Road Accidents",64,28,64
+385,2021,"Nagaland",13,"Railway Accidents",0,0,0
+386,2021,"Nagaland",13,"Railway Crossing Accidents",9,0,9
+387,2021,"Nagaland",13,"Road Accidents",25,35,23
+388,2021,"Odisha",21,"Railway Accidents",306,94,306
+389,2021,"Odisha",21,"Railway Crossing Accidents",0,0,0
+390,2021,"Odisha",21,"Road Accidents",10983,9782,5081
+391,2021,"Puducherry",34,"Railway Accidents",0,0,0
+392,2021,"Puducherry",34,"Railway Crossing Accidents",0,0,0
+393,2021,"Puducherry",34,"Road Accidents",1049,1099,143
+394,2021,"Punjab",3,"Railway Accidents",615,40,576
+395,2021,"Punjab",3,"Railway Crossing Accidents",1,0,1
+396,2021,"Punjab",3,"Road Accidents",6097,3034,4516
+397,2021,"Rajasthan",8,"Railway Accidents",669,17,655
+398,2021,"Rajasthan",8,"Railway Crossing Accidents",0,0,0
+399,2021,"Rajasthan",8,"Road Accidents",20954,19357,10043
+400,2021,"Sikkim",11,"Railway Accidents",0,0,0
+401,2021,"Sikkim",11,"Railway Crossing Accidents",0,0,0
+402,2021,"Sikkim",11,"Road Accidents",122,178,64
+403,2021,"Tamil Nadu",33,"Railway Accidents",1407,107,1300
+404,2021,"Tamil Nadu",33,"Railway Crossing Accidents",1,0,1
+405,2021,"Tamil Nadu",33,"Road Accidents",55682,55996,15384
+406,2021,"Telangana",36,"Railway Accidents",408,0,412
+407,2021,"Telangana",36,"Railway Crossing Accidents",0,0,0
+408,2021,"Telangana",36,"Road Accidents",21315,20107,7557
+409,2021,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Accidents",0,0,0
+410,2021,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Crossing Accidents",0,0,0
+411,2021,"The Dadra And Nagar Haveli And Daman And Diu",38,"Road Accidents",140,171,76
+412,2021,"Tripura",16,"Railway Accidents",4,0,5
+413,2021,"Tripura",16,"Railway Crossing Accidents",33,0,35
+414,2021,"Tripura",16,"Road Accidents",478,546,194
+415,2021,"Uttar Pradesh",9,"Railway Accidents",2223,281,2044
+416,2021,"Uttar Pradesh",9,"Railway Crossing Accidents",575,34,875
+417,2021,"Uttar Pradesh",9,"Road Accidents",33711,19813,21792
+418,2021,"Uttarakhand",5,"Railway Accidents",25,0,29
+419,2021,"Uttarakhand",5,"Railway Crossing Accidents",0,0,0
+420,2021,"Uttarakhand",5,"Road Accidents",1405,1127,824
+421,2021,"West Bengal",19,"Railway Accidents",2425,146,2282
+422,2021,"West Bengal",19,"Railway Crossing Accidents",164,44,120
+423,2021,"West Bengal",19,"Road Accidents",11501,9796,5831
+424,2022,"Andaman And Nicobar Islands",35,"Railway Accidents",0,0,0
+425,2022,"Andaman And Nicobar Islands",35,"Railway Crossing Accidents",0,0,0
+426,2022,"Andaman And Nicobar Islands",35,"Road Accidents",141,136,19
+427,2022,"Andhra Pradesh",28,"Railway Accidents",1029,0,1037
+428,2022,"Andhra Pradesh",28,"Railway Crossing Accidents",0,0,0
+429,2022,"Andhra Pradesh",28,"Road Accidents",21070,21340,8293
+430,2022,"Arunachal Pradesh",12,"Railway Accidents",0,0,0
+431,2022,"Arunachal Pradesh",12,"Railway Crossing Accidents",0,0,0
+432,2022,"Arunachal Pradesh",12,"Road Accidents",215,177,152
+433,2022,"Assam",18,"Railway Accidents",689,0,693
+434,2022,"Assam",18,"Railway Crossing Accidents",22,0,22
+435,2022,"Assam",18,"Road Accidents",7028,5679,3060
+436,2022,"Bihar",10,"Railway Accidents",1444,6,1446
+437,2022,"Bihar",10,"Railway Crossing Accidents",52,0,53
+438,2022,"Bihar",10,"Road Accidents",10801,7068,8898
+439,2022,"Chandigarh",4,"Railway Accidents",0,0,0
+440,2022,"Chandigarh",4,"Railway Crossing Accidents",0,0,0
+441,2022,"Chandigarh",4,"Road Accidents",476,406,166
+442,2022,"Chhattisgarh",22,"Railway Accidents",429,21,429
+443,2022,"Chhattisgarh",22,"Railway Crossing Accidents",4,0,4
+444,2022,"Chhattisgarh",22,"Road Accidents",13091,11459,5890
+445,2022,"Delhi",7,"Railway Accidents",1592,210,1382
+446,2022,"Delhi",7,"Railway Crossing Accidents",0,0,0
+447,2022,"Delhi",7,"Road Accidents",11120,9426,2922
+448,2022,"Goa",30,"Railway Accidents",54,0,54
+449,2022,"Goa",30,"Railway Crossing Accidents",0,0,0
+450,2022,"Goa",30,"Road Accidents",3012,1071,274
+451,2022,"Gujarat",24,"Railway Accidents",766,0,777
+452,2022,"Gujarat",24,"Railway Crossing Accidents",6,0,6
+453,2022,"Gujarat",24,"Road Accidents",15777,15139,7634
+454,2022,"Haryana",6,"Railway Accidents",1127,26,1101
+455,2022,"Haryana",6,"Railway Crossing Accidents",95,0,95
+456,2022,"Haryana",6,"Road Accidents",10654,8353,5228
+457,2022,"Himachal Pradesh",2,"Railway Accidents",0,0,0
+458,2022,"Himachal Pradesh",2,"Railway Crossing Accidents",0,0,0
+459,2022,"Himachal Pradesh",2,"Road Accidents",2484,3891,979
+460,2022,"Jammu And Kashmir",1,"Railway Accidents",49,2,49
+461,2022,"Jammu And Kashmir",1,"Railway Crossing Accidents",3,0,3
+462,2022,"Jammu And Kashmir",1,"Road Accidents",6090,8350,838
+463,2022,"Jharkhand",20,"Railway Accidents",362,19,346
+464,2022,"Jharkhand",20,"Railway Crossing Accidents",7,0,7
+465,2022,"Jharkhand",20,"Road Accidents",5175,3747,3898
+466,2022,"Karnataka",29,"Railway Accidents",0,0,0
+467,2022,"Karnataka",29,"Railway Crossing Accidents",0,0,0
+468,2022,"Karnataka",29,"Road Accidents",39765,48154,11705
+469,2022,"Kerala",32,"Railway Accidents",194,0,194
+470,2022,"Kerala",32,"Railway Crossing Accidents",184,1,185
+471,2022,"Kerala",32,"Road Accidents",43592,49317,4317
+472,2022,"Ladakh",37,"Railway Accidents",0,0,0
+473,2022,"Ladakh",37,"Railway Crossing Accidents",0,0,0
+474,2022,"Ladakh",37,"Road Accidents",268,333,66
+475,2022,"Lakshadweep",31,"Railway Accidents",0,0,0
+476,2022,"Lakshadweep",31,"Railway Crossing Accidents",0,0,0
+477,2022,"Lakshadweep",31,"Road Accidents",4,3,2
+478,2022,"Madhya Pradesh",23,"Railway Accidents",1275,0,1275
+479,2022,"Madhya Pradesh",23,"Railway Crossing Accidents",239,0,239
+480,2022,"Madhya Pradesh",23,"Road Accidents",51965,51264,13918
+481,2022,"Maharashtra",27,"Railway Accidents",4827,1686,3145
+482,2022,"Maharashtra",27,"Railway Crossing Accidents",0,0,0
+483,2022,"Maharashtra",27,"Road Accidents",30546,23878,15748
+484,2022,"Manipur",14,"Railway Accidents",2,0,2
+485,2022,"Manipur",14,"Railway Crossing Accidents",0,0,0
+486,2022,"Manipur",14,"Road Accidents",508,817,127
+487,2022,"Meghalaya",17,"Railway Accidents",0,0,0
+488,2022,"Meghalaya",17,"Railway Crossing Accidents",0,0,0
+489,2022,"Meghalaya",17,"Road Accidents",246,310,162
+490,2022,"Mizoram",15,"Railway Accidents",0,0,0
+491,2022,"Mizoram",15,"Railway Crossing Accidents",0,0,0
+492,2022,"Mizoram",15,"Road Accidents",71,28,83
+493,2022,"Nagaland",13,"Railway Accidents",0,0,0
+494,2022,"Nagaland",13,"Railway Crossing Accidents",5,0,5
+495,2022,"Nagaland",13,"Road Accidents",24,42,22
+496,2022,"Odisha",21,"Railway Accidents",27,0,27
+497,2022,"Odisha",21,"Railway Crossing Accidents",54,54,0
+498,2022,"Odisha",21,"Road Accidents",11663,10269,5470
+499,2022,"Puducherry",34,"Railway Accidents",9,0,9
+500,2022,"Puducherry",34,"Railway Crossing Accidents",0,0,0
+501,2022,"Puducherry",34,"Road Accidents",1181,1282,181
+502,2022,"Punjab",3,"Railway Accidents",978,74,914
+503,2022,"Punjab",3,"Railway Crossing Accidents",0,0,0
+504,2022,"Punjab",3,"Road Accidents",6122,3372,4688
+505,2022,"Rajasthan",8,"Railway Accidents",942,8,943
+506,2022,"Rajasthan",8,"Railway Crossing Accidents",0,0,0
+507,2022,"Rajasthan",8,"Road Accidents",23620,22249,11103
+508,2022,"Sikkim",11,"Railway Accidents",0,0,0
+509,2022,"Sikkim",11,"Railway Crossing Accidents",0,0,0
+510,2022,"Sikkim",11,"Road Accidents",199,371,98
+511,2022,"Tamil Nadu",33,"Railway Accidents",2012,189,1833
+512,2022,"Tamil Nadu",33,"Railway Crossing Accidents",0,0,0
+513,2022,"Tamil Nadu",33,"Road Accidents",64105,67703,17884
+514,2022,"Telangana",36,"Railway Accidents",616,0,625
+515,2022,"Telangana",36,"Railway Crossing Accidents",0,0,0
+516,2022,"Telangana",36,"Road Accidents",21619,20209,7559
+517,2022,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Accidents",0,0,0
+518,2022,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Crossing Accidents",0,0,0
+519,2022,"The Dadra And Nagar Haveli And Daman And Diu",38,"Road Accidents",175,257,80
+520,2022,"Tripura",16,"Railway Accidents",27,0,27
+521,2022,"Tripura",16,"Railway Crossing Accidents",2,0,2
+522,2022,"Tripura",16,"Road Accidents",575,541,241
+523,2022,"Uttar Pradesh",9,"Railway Accidents",3190,35,3166
+524,2022,"Uttar Pradesh",9,"Railway Crossing Accidents",1340,4,1340
+525,2022,"Uttar Pradesh",9,"Road Accidents",36875,21696,24109
+526,2022,"Uttarakhand",5,"Railway Accidents",74,0,74
+527,2022,"Uttarakhand",5,"Railway Crossing Accidents",1,0,1
+528,2022,"Uttarakhand",5,"Road Accidents",1674,1613,1042
+529,2022,"West Bengal",19,"Railway Accidents",2221,286,1935
+530,2022,"West Bengal",19,"Railway Crossing Accidents",546,53,493
+531,2022,"West Bengal",19,"Road Accidents",10635,8124,5788
+532,2023,"Andaman And Nicobar Islands",35,"Railway Accidents*",0,0,0
+533,2023,"Andaman And Nicobar Islands",35,"Railway Crossing Accidents",0,0,0
+534,2023,"Andaman And Nicobar Islands",35,"Road Accidents",75,33,81
+535,2023,"Andhra Pradesh",28,"Railway Accidents*",3375,0,3429
+536,2023,"Andhra Pradesh",28,"Railway Crossing Accidents",12,0,12
+537,2023,"Andhra Pradesh",28,"Road Accidents",59847,61227,24411
+538,2023,"Arunachal Pradesh",12,"Railway Accidents*",0,0,0
+539,2023,"Arunachal Pradesh",12,"Railway Crossing Accidents",3,0,3
+540,2023,"Arunachal Pradesh",12,"Road Accidents",699,654,408
+541,2023,"Assam",18,"Railway Accidents*",2316,0,2316
+542,2023,"Assam",18,"Railway Crossing Accidents",12,0,12
+543,2023,"Assam",18,"Road Accidents",22263,17751,9888
+544,2023,"Bihar",10,"Railway Accidents*",4905,0,5088
+545,2023,"Bihar",10,"Railway Crossing Accidents",0,0,0
+546,2023,"Bihar",10,"Road Accidents",33042,19617,26619
+547,2023,"Chandigarh",4,"Railway Accidents*",0,0,0
+548,2023,"Chandigarh",4,"Railway Crossing Accidents",0,0,0
+549,2023,"Chandigarh",4,"Road Accidents",1092,1026,402
+550,2023,"Chhattisgarh",22,"Railway Accidents*",1599,57,1596
+551,2023,"Chhattisgarh",22,"Railway Crossing Accidents",3,0,3
+552,2023,"Chhattisgarh",22,"Road Accidents",40407,35172,18498
+553,2023,"Delhi",7,"Railway Accidents*",4962,1200,3762
+554,2023,"Delhi",7,"Railway Crossing Accidents",6,0,6
+555,2023,"Delhi",7,"Road Accidents",34290,29280,8742
+556,2023,"Goa",30,"Railway Accidents*",132,6,129
+557,2023,"Goa",30,"Railway Crossing Accidents",0,0,0
+558,2023,"Goa",30,"Road Accidents",8541,3540,876
+559,2023,"Gujarat",24,"Railway Accidents*",2253,0,2283
+560,2023,"Gujarat",24,"Railway Crossing Accidents",6,0,6
+561,2023,"Gujarat",24,"Road Accidents",49047,46149,23562
+562,2023,"Haryana",6,"Railway Accidents*",3393,0,3393
+563,2023,"Haryana",6,"Railway Crossing Accidents",9,0,9
+564,2023,"Haryana",6,"Road Accidents",33249,25998,16203
+565,2023,"Himachal Pradesh",2,"Railway Accidents*",0,0,0
+566,2023,"Himachal Pradesh",2,"Railway Crossing Accidents",0,0,0
+567,2023,"Himachal Pradesh",2,"Road Accidents",6765,9903,2655
+568,2023,"Jammu And Kashmir",1,"Railway Accidents*",153,0,153
+569,2023,"Jammu And Kashmir",1,"Railway Crossing Accidents",0,0,0
+570,2023,"Jammu And Kashmir",1,"Road Accidents",18900,25248,2691
+571,2023,"Jharkhand",20,"Railway Accidents*",1146,21,1128
+572,2023,"Jharkhand",20,"Railway Crossing Accidents",111,0,114
+573,2023,"Jharkhand",20,"Road Accidents",15948,10758,12519
+574,2023,"Karnataka",29,"Railway Accidents*",0,0,0
+575,2023,"Karnataka",29,"Railway Crossing Accidents",3,0,3
+576,2023,"Karnataka",29,"Road Accidents",130317,157641,36966
+577,2023,"Kerala",32,"Railway Accidents*",624,3,633
+578,2023,"Kerala",32,"Railway Crossing Accidents",609,0,612
+579,2023,"Kerala",32,"Road Accidents",137943,162978,12240
+580,2023,"Ladakh",37,"Railway Accidents*",0,0,0
+581,2023,"Ladakh",37,"Railway Crossing Accidents",0,0,0
+582,2023,"Ladakh",37,"Road Accidents",867,930,177
+583,2023,"Lakshadweep",31,"Railway Accidents*",0,0,0
+584,2023,"Lakshadweep",31,"Railway Crossing Accidents",0,0,0
+585,2023,"Lakshadweep",31,"Road Accidents",3,3,0
+586,2023,"Madhya Pradesh",23,"Railway Accidents*",4011,12,4002
+587,2023,"Madhya Pradesh",23,"Railway Crossing Accidents",1125,0,1125
+588,2023,"Madhya Pradesh",23,"Road Accidents",164289,164097,42294
+589,2023,"Maharashtra",27,"Railway Accidents*",16677,6345,10335
+590,2023,"Maharashtra",27,"Railway Crossing Accidents",0,0,0
+591,2023,"Maharashtra",27,"Road Accidents",94041,84636,46302
+592,2023,"Manipur",14,"Railway Accidents*",0,0,0
+593,2023,"Manipur",14,"Railway Crossing Accidents",0,0,0
+594,2023,"Manipur",14,"Road Accidents",1194,1908,219
+595,2023,"Meghalaya",17,"Railway Accidents*",0,0,0
+596,2023,"Meghalaya",17,"Railway Crossing Accidents",0,0,0
+597,2023,"Meghalaya",17,"Road Accidents",696,777,504
+598,2023,"Mizoram",15,"Railway Accidents*",0,0,0
+599,2023,"Mizoram",15,"Railway Crossing Accidents",0,0,0
+600,2023,"Mizoram",15,"Road Accidents",141,159,147
+601,2023,"Nagaland",13,"Railway Accidents*",0,0,0
+602,2023,"Nagaland",13,"Railway Crossing Accidents",27,0,27
+603,2023,"Nagaland",13,"Road Accidents",105,138,111
+604,2023,"Odisha",21,"Railway Accidents*",0,0,0
+605,2023,"Odisha",21,"Railway Crossing Accidents",9,6,6
+606,2023,"Odisha",21,"Road Accidents",35967,31101,17211
+607,2023,"Puducherry",34,"Railway Accidents*",27,0,27
+608,2023,"Puducherry",34,"Railway Crossing Accidents",0,0,0
+609,2023,"Puducherry",34,"Road Accidents",3924,4734,447
+610,2023,"Punjab",3,"Railway Accidents*",2961,234,2751
+611,2023,"Punjab",3,"Railway Crossing Accidents",0,0,0
+612,2023,"Punjab",3,"Road Accidents",18828,9915,14718
+613,2023,"Rajasthan",8,"Railway Accidents*",2892,66,2841
+614,2023,"Rajasthan",8,"Railway Crossing Accidents",0,0,0
+615,2023,"Rajasthan",8,"Road Accidents",74583,69804,35796
+616,2023,"Sikkim",11,"Railway Accidents*",0,0,0
+617,2023,"Sikkim",11,"Railway Crossing Accidents",0,0,0
+618,2023,"Sikkim",11,"Road Accidents",522,1128,204
+619,2023,"Tamil Nadu",33,"Railway Accidents*",6831,1107,5793
+620,2023,"Tamil Nadu",33,"Railway Crossing Accidents",3,3,3
+621,2023,"Tamil Nadu",33,"Road Accidents",201639,216876,55041
+622,2023,"Telangana",36,"Railway Accidents*",2310,0,2325
+623,2023,"Telangana",36,"Railway Crossing Accidents",0,0,0
+624,2023,"Telangana",36,"Road Accidents",68709,63066,22980
+625,2023,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Accidents*",0,0,0
+626,2023,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Crossing Accidents",0,0,0
+627,2023,"The Dadra And Nagar Haveli And Daman And Diu",38,"Road Accidents",549,648,243
+628,2023,"Tripura",16,"Railway Accidents*",93,0,93
+629,2023,"Tripura",16,"Railway Crossing Accidents",0,0,0
+630,2023,"Tripura",16,"Road Accidents",1731,1827,783
+631,2023,"Uttar Pradesh",9,"Railway Accidents*",9636,132,9447
+632,2023,"Uttar Pradesh",9,"Railway Crossing Accidents",3075,54,3021
+633,2023,"Uttar Pradesh",9,"Road Accidents",113292,71529,71841
+634,2023,"Uttarakhand",5,"Railway Accidents*",177,0,177
+635,2023,"Uttarakhand",5,"Railway Crossing Accidents",24,0,24
+636,2023,"Uttarakhand",5,"Road Accidents",5073,4464,3162
+637,2023,"West Bengal",19,"Railway Accidents*",6042,459,5589
+638,2023,"West Bengal",19,"Railway Crossing Accidents",2415,672,1743
+639,2023,"West Bengal",19,"Road Accidents",31200,24345,17109
+640,2024,"Andaman And Nicobar Islands",35,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+641,2024,"Andaman And Nicobar Islands",35,"Railway Accidents",0,0,0
+642,2024,"Andaman And Nicobar Islands",35,"Railway Crossing Accidents",0,0,0
+643,2024,"Andaman And Nicobar Islands",35,"Road Accidents",27,28,31
+644,2024,"Andhra Pradesh",28,"Incidents On Railway Tracks/In Railway Premises",1199,0,1207
+645,2024,"Andhra Pradesh",28,"Railway Accidents",0,0,0
+646,2024,"Andhra Pradesh",28,"Railway Crossing Accidents",2,0,2
+647,2024,"Andhra Pradesh",28,"Road Accidents",19557,19894,8346
+648,2024,"Arunachal Pradesh",12,"Incidents On Railway Tracks/In Railway Premises",5,0,5
+649,2024,"Arunachal Pradesh",12,"Railway Accidents",0,0,0
+650,2024,"Arunachal Pradesh",12,"Railway Crossing Accidents",0,0,0
+651,2024,"Arunachal Pradesh",12,"Road Accidents",234,183,158
+652,2024,"Assam",18,"Incidents On Railway Tracks/In Railway Premises",682,0,687
+653,2024,"Assam",18,"Railway Accidents",0,0,0
+654,2024,"Assam",18,"Railway Crossing Accidents",0,0,0
+655,2024,"Assam",18,"Road Accidents",7848,7133,3351
+656,2024,"Bihar",10,"Incidents On Railway Tracks/In Railway Premises",1812,3,1827
+657,2024,"Bihar",10,"Railway Accidents",0,0,0
+658,2024,"Bihar",10,"Railway Crossing Accidents",0,0,0
+659,2024,"Bihar",10,"Road Accidents",11528,6600,9218
+660,2024,"Chandigarh",4,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+661,2024,"Chandigarh",4,"Railway Accidents",0,0,0
+662,2024,"Chandigarh",4,"Railway Crossing Accidents",0,0,0
+663,2024,"Chandigarh",4,"Road Accidents",340,256,126
+664,2024,"Chhattisgarh",22,"Incidents On Railway Tracks/In Railway Premises",409,1,408
+665,2024,"Chhattisgarh",22,"Railway Accidents",0,0,0
+666,2024,"Chhattisgarh",22,"Railway Crossing Accidents",0,0,0
+667,2024,"Chhattisgarh",22,"Road Accidents",14861,12400,7059
+668,2024,"Delhi",7,"Incidents On Railway Tracks/In Railway Premises",1866,616,1250
+669,2024,"Delhi",7,"Railway Accidents",0,0,0
+670,2024,"Delhi",7,"Railway Crossing Accidents",10,0,10
+671,2024,"Delhi",7,"Road Accidents",11146,9436,3102
+672,2024,"Goa",30,"Incidents On Railway Tracks/In Railway Premises",38,0,38
+673,2024,"Goa",30,"Railway Accidents",0,0,0
+674,2024,"Goa",30,"Railway Crossing Accidents",0,0,0
+675,2024,"Goa",30,"Road Accidents",2682,1047,289
+676,2024,"Gujarat",24,"Incidents On Railway Tracks/In Railway Premises",860,0,870
+677,2024,"Gujarat",24,"Railway Accidents",0,0,0
+678,2024,"Gujarat",24,"Railway Crossing Accidents",6,0,6
+679,2024,"Gujarat",24,"Road Accidents",15588,14940,7717
+680,2024,"Haryana",6,"Incidents On Railway Tracks/In Railway Premises",1101,35,1066
+681,2024,"Haryana",6,"Railway Accidents",0,0,0
+682,2024,"Haryana",6,"Railway Crossing Accidents",129,3,126
+683,2024,"Haryana",6,"Road Accidents",10569,8438,5187
+684,2024,"Himachal Pradesh",2,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+685,2024,"Himachal Pradesh",2,"Railway Accidents",0,0,0
+686,2024,"Himachal Pradesh",2,"Railway Crossing Accidents",0,0,0
+687,2024,"Himachal Pradesh",2,"Road Accidents",2158,3207,864
+688,2024,"Jammu And Kashmir",1,"Incidents On Railway Tracks/In Railway Premises",49,0,49
+689,2024,"Jammu And Kashmir",1,"Railway Accidents",0,0,0
+690,2024,"Jammu And Kashmir",1,"Railway Crossing Accidents",0,0,0
+691,2024,"Jammu And Kashmir",1,"Road Accidents",5777,7846,840
+692,2024,"Jharkhand",20,"Incidents On Railway Tracks/In Railway Premises",340,6,337
+693,2024,"Jharkhand",20,"Railway Accidents",0,0,0
+694,2024,"Jharkhand",20,"Railway Crossing Accidents",37,0,37
+695,2024,"Jharkhand",20,"Road Accidents",5196,3266,4114
+696,2024,"Karnataka",29,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+697,2024,"Karnataka",29,"Railway Accidents",0,0,0
+698,2024,"Karnataka",29,"Railway Crossing Accidents",9,0,9
+699,2024,"Karnataka",29,"Road Accidents",43062,52591,12390
+700,2024,"Kerala",32,"Incidents On Railway Tracks/In Railway Premises",202,0,205
+701,2024,"Kerala",32,"Railway Accidents",0,0,0
+702,2024,"Kerala",32,"Railway Crossing Accidents",260,0,267
+703,2024,"Kerala",32,"Road Accidents",46591,54811,3876
+704,2024,"Ladakh",37,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+705,2024,"Ladakh",37,"Railway Accidents",0,0,0
+706,2024,"Ladakh",37,"Railway Crossing Accidents",0,0,0
+707,2024,"Ladakh",37,"Road Accidents",264,286,61
+708,2024,"Lakshadweep",31,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+709,2024,"Lakshadweep",31,"Railway Accidents",0,0,0
+710,2024,"Lakshadweep",31,"Railway Crossing Accidents",0,0,0
+711,2024,"Lakshadweep",31,"Road Accidents",0,0,0
+712,2024,"Madhya Pradesh",23,"Incidents On Railway Tracks/In Railway Premises",1459,8,1421
+713,2024,"Madhya Pradesh",23,"Railway Accidents",0,0,0
+714,2024,"Madhya Pradesh",23,"Railway Crossing Accidents",258,1,258
+715,2024,"Madhya Pradesh",23,"Road Accidents",55711,56271,15152
+716,2024,"Maharashtra",27,"Incidents On Railway Tracks/In Railway Premises",5781,2202,3587
+717,2024,"Maharashtra",27,"Railway Accidents",0,0,0
+718,2024,"Maharashtra",27,"Railway Crossing Accidents",0,0,0
+719,2024,"Maharashtra",27,"Road Accidents",30635,24849,15888
+720,2024,"Manipur",14,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+721,2024,"Manipur",14,"Railway Accidents",0,0,0
+722,2024,"Manipur",14,"Railway Crossing Accidents",0,0,0
+723,2024,"Manipur",14,"Road Accidents",299,462,72
+724,2024,"Meghalaya",17,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+725,2024,"Meghalaya",17,"Railway Accidents",0,0,0
+726,2024,"Meghalaya",17,"Railway Crossing Accidents",0,0,0
+727,2024,"Meghalaya",17,"Road Accidents",268,226,196
+728,2024,"Mizoram",15,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+729,2024,"Mizoram",15,"Railway Accidents",0,0,0
+730,2024,"Mizoram",15,"Railway Crossing Accidents",0,0,0
+731,2024,"Mizoram",15,"Road Accidents",69,64,73
+732,2024,"Nagaland",13,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+733,2024,"Nagaland",13,"Railway Accidents",0,0,0
+734,2024,"Nagaland",13,"Railway Crossing Accidents",1,0,1
+735,2024,"Nagaland",13,"Road Accidents",23,27,25
+736,2024,"Odisha",21,"Incidents On Railway Tracks/In Railway Premises",199,0,199
+737,2024,"Odisha",21,"Railway Accidents",0,0,0
+738,2024,"Odisha",21,"Railway Crossing Accidents",0,0,0
+739,2024,"Odisha",21,"Road Accidents",12375,10770,6142
+740,2024,"Puducherry",34,"Incidents On Railway Tracks/In Railway Premises",9,0,9
+741,2024,"Puducherry",34,"Railway Accidents",0,0,0
+742,2024,"Puducherry",34,"Railway Crossing Accidents",0,0,0
+743,2024,"Puducherry",34,"Road Accidents",1431,1620,158
+744,2024,"Punjab",3,"Incidents On Railway Tracks/In Railway Premises",942,69,872
+745,2024,"Punjab",3,"Railway Accidents",0,0,0
+746,2024,"Punjab",3,"Railway Crossing Accidents",0,0,0
+747,2024,"Punjab",3,"Road Accidents",6166,3407,4936
+748,2024,"Rajasthan",8,"Incidents On Railway Tracks/In Railway Premises",850,15,840
+749,2024,"Rajasthan",8,"Railway Accidents",0,0,0
+750,2024,"Rajasthan",8,"Railway Crossing Accidents",0,0,0
+751,2024,"Rajasthan",8,"Road Accidents",24119,22374,11444
+752,2024,"Sikkim",11,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+753,2024,"Sikkim",11,"Railway Accidents",0,0,0
+754,2024,"Sikkim",11,"Railway Crossing Accidents",0,0,0
+755,2024,"Sikkim",11,"Road Accidents",146,245,71
+756,2024,"Tamil Nadu",33,"Incidents On Railway Tracks/In Railway Premises",2302,375,1941
+757,2024,"Tamil Nadu",33,"Railway Accidents",0,0,0
+758,2024,"Tamil Nadu",33,"Railway Crossing Accidents",0,0,0
+759,2024,"Tamil Nadu",33,"Road Accidents",67526,71493,18449
+760,2024,"Telangana",36,"Incidents On Railway Tracks/In Railway Premises",517,0,520
+761,2024,"Telangana",36,"Railway Accidents",0,0,0
+762,2024,"Telangana",36,"Railway Crossing Accidents",0,0,0
+763,2024,"Telangana",36,"Road Accidents",25986,23658,7949
+764,2024,"The Dadra And Nagar Haveli And Daman And Diu",38,"Incidents On Railway Tracks/In Railway Premises",0,0,0
+765,2024,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Accidents",0,0,0
+766,2024,"The Dadra And Nagar Haveli And Daman And Diu",38,"Railway Crossing Accidents",0,0,0
+767,2024,"The Dadra And Nagar Haveli And Daman And Diu",38,"Road Accidents",144,121,93
+768,2024,"Tripura",16,"Incidents On Railway Tracks/In Railway Premises",21,0,21
+769,2024,"Tripura",16,"Railway Accidents",0,0,0
+770,2024,"Tripura",16,"Railway Crossing Accidents",13,0,13
+771,2024,"Tripura",16,"Road Accidents",578,622,226
+772,2024,"Uttar Pradesh",9,"Incidents On Railway Tracks/In Railway Premises",3547,4,3538
+773,2024,"Uttar Pradesh",9,"Railway Accidents",0,0,0
+774,2024,"Uttar Pradesh",9,"Railway Crossing Accidents",618,10,610
+775,2024,"Uttar Pradesh",9,"Road Accidents",38417,25437,22923
+776,2024,"Uttarakhand",5,"Incidents On Railway Tracks/In Railway Premises",50,0,50
+777,2024,"Uttarakhand",5,"Railway Accidents",0,0,0
+778,2024,"Uttarakhand",5,"Railway Crossing Accidents",5,0,5
+779,2024,"Uttarakhand",5,"Road Accidents",1746,1533,1082
+780,2024,"West Bengal",19,"Incidents On Railway Tracks/In Railway Premises",2090,110,2091
+781,2024,"West Bengal",19,"Railway Accidents",0,0,0
+782,2024,"West Bengal",19,"Railway Crossing Accidents",549,82,549
+783,2024,"West Bengal",19,"Road Accidents",10643,7670,5148

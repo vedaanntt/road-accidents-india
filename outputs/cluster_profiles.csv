@@ -1,0 +1,5 @@
+cluster,states,share_national_hw,share_state_hw,night_share,evening_share,late_night_share,monsoon_share,winter_share,rural_death_share,two_wheeler_death_share,pedestrian_death_share,car_death_share,truck_death_share,bus_death_share,fatality_ratio,injury_ratio
+North-East hills,5,48.2,27.6,40.8,17.1,11.4,28.0,29.2,67.8,20.5,4.9,39.7,25.5,1.7,77.1,125.4
+North and Gangetic plain,12,33.6,19.1,45.1,17.3,15.5,31.9,26.6,51.5,38.7,11.5,18.2,10.4,4.2,51.5,80.8
+South and West,15,30.7,24.2,41.3,21.0,8.9,30.8,27.9,69.0,46.9,14.8,14.3,9.4,3.5,34.9,101.2
+Himalayan,2,40.8,16.3,37.7,19.3,8.0,35.3,22.4,68.8,24.0,7.4,39.9,11.9,7.6,27.3,141.0

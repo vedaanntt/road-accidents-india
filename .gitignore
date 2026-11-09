@@ -1,0 +1,7 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Third-party Kaggle file we rejected (not ours to redistribute; see DATA_PROBLEMS.md #1)
+data/raw/kaggle_rejected/
