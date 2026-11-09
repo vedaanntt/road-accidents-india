@@ -172,9 +172,9 @@ Each step below gets filled in as we finish it: what we did, why, and which chal
        The "night + highway" pattern suspected at the start, now confirmed across states.
      - *Late-night share high + state highway share high*: 78%, lift 2.3, 11 states.
      - *Night share high + truck deaths high + pedestrian deaths low*: 83%, lift 2.5, 10 states.
-     - *Pedestrian deaths low* appears in most top rules. Where pedestrians are a small share of
-       deaths, crashes happen more on highways between towns than on city streets, and those are
-       deadlier. (It may also reflect cities recording more minor accidents.)
+     - *Pedestrian deaths low* appears in most top rules. One possible reason is that such states have
+       more of their accidents on highways between towns than on city streets; another is that cities
+       record more minor accidents. State-level data cannot tell these apart.
    - **Key rules for less deadly accidents:** *bus death share high + late-night share low*
      (83%, lift 2.5, 10 states), and *pedestrian deaths high + state highway share low*: urban,
      daytime, public-transport-heavy patterns.
@@ -257,7 +257,8 @@ recorded, and our four methods let us separate the two.
    ratio: *which state* matters more than *which road*. So a ranking of states by fatality ratio
    alone is misleading; it should be read together with how completely each state records accidents.
 
-2. **Highways, night-time and heavy vehicles go with deadly accidents, and four methods agree.**
+2. **States and years with more highway, night-time and heavy-vehicle accidents have deadlier
+   accidents on average, and four methods agree.**
    - *Descriptive:* across India, national highways carry 30% of accidents but 34% of deaths
      (42 deaths per 100 accidents against 32 on other roads; 2018-2024 without 2023).
    - *PCA:* the only component linked to deadliness is PC1, which runs from two-wheeler and
@@ -280,12 +281,13 @@ recorded, and our four methods let us separate the two.
    real (Kruskal-Wallis p = 0.005). Manipur, Tripura and Assam are North-Eastern but have
    plains-like conditions, and fall outside the hill cluster.
 
-5. **Two different problems need two different answers.** Two-wheeler riders are the largest group
-   of road deaths (43%), followed by car occupants (17%), pedestrians (12%) and truck occupants (11%).
-   But states where two-wheelers and pedestrians dominate (Kerala, Goa, Tamil Nadu) have the *least*
-   deadly accidents per crash. The **number** of deaths is mainly a two-wheeler and city problem
-   (helmets, pedestrian safety); the **severity** of a crash is mainly a highway, night-time and
-   heavy-vehicle problem (speed, lighting, truck driver fatigue).
+5. **Where most people die is not where accidents are deadliest.** Two-wheeler riders are the
+   largest group of road deaths (43%), followed by car occupants (17%), pedestrians (12%) and truck
+   occupants (11%). But the states where two-wheeler and pedestrian deaths dominate (Kerala, Goa,
+   Tamil Nadu) have the *lowest* fatality ratios, while the states with the highest ratios have more
+   highway, late-night and truck accidents. So the **number** of deaths and the **fatality ratio**
+   point to different states, which may need different responses. These are state-level patterns:
+   they do not show that any single two-wheeler crash is less deadly than a truck crash.
 
 6. **Fewer but deadlier crashes.** In the 2020 lockdown year, recorded accidents fell 21% (4.52 to
    3.59 lakh) but deaths fell only 13%. Deaths per 100 accidents rose from 34 in 2018 to 38 in
@@ -295,9 +297,11 @@ recorded, and our four methods let us separate the two.
    Ethiopian, and the official 2023 figures were about 3 times too large in every state.
    Without these checks, our 2023 trend and any model trained on the Kaggle file would have been wrong.
 
-**What this suggests.** Night-time patrols and lighting on national and state highways and
-rules on truck drivers' hours target the *severity* of crashes; helmet and pedestrian measures
-target their *number*. States with very high fatality ratios and very low injury ratios
+**What this suggests.** These are hypotheses to test, not proven causes. If the state-level
+pattern also holds for individual accidents (which needs accident-level data to check), night-time
+patrols and lighting on national and state highways and limits on truck drivers' hours would target
+the states with the deadliest accidents, while helmet and pedestrian measures would target the states
+with the most deaths. States with very high fatality ratios and very low injury ratios
 (Bihar, Punjab, Jharkhand, Mizoram, Nagaland) should also be checked for under-recording of
 minor accidents before their roads are judged the most dangerous.
 
@@ -308,3 +312,8 @@ minor accidents before their roads are judged the most dangerous.
 - *MNAR cannot be fixed by imputation.* We can show under-reporting exists, but not correct it.
 - *Small samples.* 34 regions and 237 state-years; the clusters overlap (silhouette 0.29).
 - *2023* is used for ratios only, and NCRB has no deaths by time of day.
+
+**Future work.** The real fix for the state-level limit is accident-level data, where each crash
+has its own time, road type, vehicle and outcome. MoRTH's iRAD (Integrated Road Accident Database)
+collects exactly this, but it is not openly downloadable; with access, the same association-rule
+method could test combinations like "night + highway + two-wheeler" for single accidents.
