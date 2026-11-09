@@ -2,6 +2,8 @@
 
 DS3030 Data Analytics course project, IIT Palakkad.
 
+**Live dashboard:** https://road-accidents-india.streamlit.app
+
 **Question.** India records over 4.5 lakh road accidents and about 1.7 lakh deaths a year.
 Not every accident is equally deadly. We ask: which states, road types, times of day and
 vehicle types go with a high **fatality ratio** (deaths per 100 accidents), and which
