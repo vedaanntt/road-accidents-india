@@ -625,9 +625,9 @@ with tab_quality:
     # 2c. outliers
     with outlier_side:
         st.markdown("**3. Outliers: drop or winsorize?**")
-        pick_feature, pick_view = st.columns([1, 1])
-        outlier_feature = pick_feature.selectbox("Feature", ratio_columns, format_func=nice_name, index=0)
-        view = pick_view.radio("Show", ["True values", "After winsorizing"], horizontal=True)
+        # each control gets its own full row, so the dropdown has room to open
+        outlier_feature = st.selectbox("Feature", ratio_columns, format_func=nice_name, index=0)
+        view = st.radio("Show", ["True values", "After winsorizing"], horizontal=True)
         if view == "True values":
             values = profiles[outlier_feature].dropna()
         else:
